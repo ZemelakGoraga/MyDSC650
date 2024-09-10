@@ -1,0 +1,1001 @@
+id,vin,price,miles,stock_no,year,make,model,trim,body_type,vehicle_type,drivetrain,transmission,fuel_type,engine_size,engine_block,seller_name,street,city,state,zip
+38b2f52e-8f5d,1GCWGFCF3F1284719,20998,115879,W1T503168C,2015,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,nissan ellicott city,8569 Baltimore National Pike,Ellicott City,MD,21043
+97ba4955-ccf0,WBY7Z8C59JVB87514,27921,7339,P33243,2018,BMW,i3,s,Hatchback,Car,RWD,Automatic,Electric / Premium Unleaded,0.6,I,hendrick honda pompano beach,5381 N Federal Highway,Pompano Beach,FL,33064
+be1da9fd-0f34,ML32F4FJ2JHF10325,11055,39798,WM2091A,2018,Mitsubishi,Mirage G4,SE,Sedan,Car,FWD,Automatic,Unleaded,1.2,I,russ darrow toyota,2700 West Washington St.,West Bend,WI,53095
+84327e45-6cb6,1GCPTEE15K1291189,52997,28568,9U2Y425A,2019,Chevrolet,Colorado,ZR2,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,young kia,308 North Main Street,Layton,UT,84041
+cde691c3-91dd,1G2AL18F087312093,,188485,T36625A,2008,Pontiac,G5,Base,Coupe,Car,FWD,Automatic,Unleaded,2.2,I,pappas toyota,10011 Spencer Rd,Saint Peters,MO,63376
+e6b0a17c-6321,WBY1Z4C54FV500763,,54276,T15046A,2015,BMW,i3,Giga World,Hatchback,Car,RWD,Automatic,Electric / Premium Unleaded,0.6,I,crossroads ford of kernersville,1330 Highway 66 South,Kernersville,NC,27284
+43847b9a-6fed,1B7HC16Y8YS543285,3995,137537,BP8246A,2000,Dodge,Ram Pickup,ST,Pickup,Truck,RWD,Manual,Unleaded,5.2,V,baumann auto group,2379 W. State St.,Fremont,OH,43420
+8d10256f-3be9,3GNBABDBXAS598032,6500,74274,2104839A,2010,Chevrolet,HHR,LT,Mini Mpv,Car,FWD,Automatic,E85 / Unleaded,2.2,I,volkswagen of grand blanc,6201 S Saginaw Rd,Grand Blanc,MI,48439
+d8d6dfed-e273,5YMCY0C08L9D04057,105974,9589,CMR269761A,2020,BMW,X6 M,Base,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,braman miami,2060 Biscayne Boulevard,Miami,FL,33137
+3c539e0f-3eb8,1GCGSCE15G1195013,23024,131286,PH195013,2016,Chevrolet,Colorado,LT,Pickup,Truck,RWD,Automatic,Diesel,2.8,I,jefferson city autoplex,3215 Missouri Blvd,Jefferson City,MO,65109
+bddcd128-75fe,WDDEJ71X08A014550,,42000,,2008,Mercedes-Benz,CL-Class,CL550,Coupe,Car,RWD,Automatic,Premium Unleaded,5.5,V,benz & beamer,Po Box 1865,Tustin,CA,92781
+123b19d3-5335,137ZA84311E192771,,17420,W0U140,2001,Am General,Hummer,Base,SUV,Truck,4WD,Automatic,Diesel,6.5,V,wright buick gmc - wexford,11015 Perry Hwy,Wexford,PA,15090
+dffc4e35-48e7,WDDDJ7CB9BA170249,16995,110615,BA170249,2011,Mercedes-Benz,CLS-Class,CLS550,Coupe,Car,RWD,Automatic,Premium Unleaded,5.5,V,mclarty daniel ford,2609 South Walton Boulevard,Bentonville,AR,72712
+fbdcf712-82d5,1GNDT13S142248464,5870,144159,U5228B,2004,Chevrolet,TrailBlazer,LS,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,quality cadillac,1620 E Homer Adams Parkway,Alton,IL,62002
+e9582e90-0828,ZAMGJ45A580037556,27999,60122,,2008,Maserati,GranTurismo,Base,Coupe,Car,RWD,Automatic,Premium Unleaded,4.2,V,tred,220 Nw 8th Ave,Portland,OR,97209
+7346f8a1-8eb8,2G1WD5EM3A1146446,,111221,A1146446,2010,Chevrolet,Impala,Police Sedan,Sedan,Car,FWD,Automatic,E85 / Unleaded,3.9,V,"don franklin chrysler, dodge, jeep, ram, fiat",1147 S Highway 27,Somerset,KY,42501
+aea8a65d-e91c,JTJBT20X480150436,17995,107146,2103800,2008,Lexus,GX,470,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,damas auto va,25358 Pleasant Valley Road 120,Chantilly,VA,20152
+4e69a998-f5e0,1GCWGAFP7L1134969,30799,33015,,2020,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,Unleaded,4.3,V,walser automotive group,600 W 121st St,Burnsville,MN,55337
+7065d19a-56f7,3C6UR5FJ2HG558595,45999,70954,116689A,2017,RAM,Ram 2500 Pickup,Laramie,Pickup,Truck,4WD,Automatic,Unleaded,6.4,I,leonardtown chevrolet,22675 Washington St,Leonardtown,MD,20650
+0902892f-a7f6,4JGBF71E78A327314,,143459,A327314,2008,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,world discount auto,1449 N Cicero Ave,Chicago,IL,60651
+bfd1d506-76d2,1GCPTEE12L1136522,47848,7556,SA7976,2020,Chevrolet,Colorado,ZR2,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,east bay mini,4340 Rosewood Dr,Pleasanton,CA,94588
+8332fb29-28c2,WP1AD2A28ELA78213,40988,69610,P30583A,2014,Porsche,Cayenne,GTS,SUV,Truck,4WD,Automatic,Premium Unleaded,4.8,V,stevenson hendrick mazda wilmington,5911 Market Street,Wilmington,NC,28405
+9e4c2cb6-87d1,1C4SDJGJ2JC366348,55595,28904,JC366348,2018,Dodge,Durango,SRT,SUV,Truck,4WD,Automatic,Premium Unleaded,6.4,V,infiniti of englewood,60 Rockwood Pl,Englewood,NJ,7631
+ba030d8e-2ded,1GCWGAFP7L1179684,35290,12589,P5072C,2020,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,Unleaded,4.3,V,mini of fort wayne,715 Grand National Drive,Fort Wayne,IN,46804
+716aa57a-5047,MAJ3P1TE8JC240389,15996,31371,T11553,2018,Ford,Ecosport,SE,Crossover,Truck,FWD,Automatic,Unleaded,1,I,gerald auto group,Aurora Avenue,Naperville,IL,60540
+640c8294-c1d9,2MRDA20254BJ19157,5999,73971,J19157,2004,Mercury,Monterey,Premier,Minivan,Truck,FWD,Automatic,Unleaded,4.2,V,autoride,9426 Ronda Ln,Houston,TX,77074
+7072251c-2ccc,1GCCSBF95C8167274,16888,35001,C0520,2012,Chevrolet,Colorado,Work Truck,Pickup,Truck,RWD,Manual,Unleaded,2.9,I,winslow ford,840 Mikes Pike,Winslow,AZ,86047
+a5c5e7fc-1f0a,5UXJU2C54KLN65802,72988,16578,27775A,2019,BMW,X5,50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,penskecars.com,2555 Telegraph Road,Bloomfield,MI,48302
+bfb47696-9da4,1FTWW3BR3AEA44858,20995,168460,A44858,2010,Ford,F-350 Super Duty,XL,Pickup,Truck,4WD,Automatic,Diesel,6.4,V,silk city auto mall,290 Pennsylvania Avenue #,Paterson,NJ,7503
+078e5aea-063d,WDDUG8FB1GA252600,39999,95746,252600T01,2016,Mercedes-Benz,S-Class,S550,Sedan,Car,4WD,Automatic,Premium Unleaded,4.7,V,volkswagen of streetsboro,855 Classic Drive,Streetsboro,OH,44241
+9451b38f-62a6,1FMFK16538LA69736,10500,141736,7660A,2008,Ford,Expedition,XLT,SUV,Truck,4WD,Automatic,Unleaded,5.4,V,ford of hibbing,2615 E 13Th Ave,Hibbing,MN,55746
+00f94944-7485,1FDXE4FS2GDC48510,60000,26114,1234A,2016,Ford,E-Series Cutaway,Base,Cutaway,Truck,RWD,Automatic,Unleaded,6.8,V,"ennis ford, inc.",900 N I-45,Ennis,TX,75119
+1e2ffa9d-e551,3C6UR5CJ8GG361689,36951,91682,PU10562,2016,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,blevins motors inc,6691 State Highway 56,Potsdam,NY,13676
+8797bf49-83a1,3C7WR9AJ1GG340505,36997,0,C2104261,2016,RAM,Ram 3500 Chassis Cab,Tradesman,Chassis Cab,Truck,4WD,Automatic,Unleaded,6.4,V,marshall nissan,3550 South 9th Street,Salina,KS,67401
+b42e6c32-25e9,JTJBT20X860117128,,218983,10202,2006,Lexus,GX,470,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,cle cars llc,11111 Lorain Avenue,Cleveland,OH,44111
+c7adcbd9-e3d6,5UXKR6C51J0U15224,47000,51530,PS5692,2018,BMW,X5,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,five star ford lincoln,900 Russell Parkway,Warner Robins,GA,31088
+581d491a-903d,1GCHK24G97E190586,,53230,{{ vehicle._no }},2007,Chevrolet,Silverado Classic 2500HD,Work,Pickup,Truck,4WD,Manual,Unleaded,8.1,V,richardson motors,5400 Westside Dr,Dubuque,IA,52003
+1300caba-0c7f,1B7HG48N82S546638,2900,206108,16798A,2002,Dodge,Dakota,SLT,Pickup,Truck,4WD,Manual,Unleaded,4.7,V,genesis of waterloo,812 Washington Street,Waterloo,IA,50702
+736b3944-7fcb,JTHFN48Y569000270,26446,82885,P00270,2006,Lexus,SC,430,Convertible,Car,RWD,Automatic,Premium Unleaded,4.3,V,hendrick acura southpoint,212 Kentington Drive,Durham,NC,27713
+2849123b-5c63,1GCCS1447X8122831,,0,51288B2,1999,Chevrolet,S-10,Base,Pickup,Truck,RWD,Manual,Unleaded,2.2,I,joe machens capital city ford,807 Southwest Boulevard,Jefferson City,MO,65109
+d2ec07d4-95b2,WUAC6AFH5DN900659,31995,99974,23297A,2013,Audi,RS 5,Base,Convertible,Car,4WD,Automatic,Premium Unleaded,4.2,V,imperial motors jaguar of lake bluff,150 Skokie Highway,Lake Bluff,IL,60044
+6dfc6bab-3724,1G4HA5E14AU104589,,95000,B206139A,2010,Buick,Lucerne,CX,Sedan,Car,FWD,Automatic,E85 / Unleaded,3.9,V,lou fusz toyota,10725 Manchester Road,Kirkwood,MO,63122
+6760df84-f0b9,WDDAJ76F36M001012,298300,5534,FP4668,2006,Mercedes-Benz,SLR McLaren,Base,Coupe,Car,RWD,Automatic,Premium Unleaded,5.4,V,gold coast maserati,732 Northern Blvd,Great Neck,NY,11021
+7e35994e-00de,WBY1Z4C53GV508046,24000,39145,SA11077,2016,BMW,i3,Mega World,Hatchback,Car,RWD,Automatic,Electric / Premium Unleaded,0.6,I,hendrick acura,6824 E Independence Blvd,Charlotte,NC,28227
+33f6cc7d-341e,ZHWUT4ZF5LLA12830,175950,958,A12830,2020,Lamborghini,Huracan,EVO,Convertible,Car,4WD,Manual,Premium Unleaded,5.2,V,sts automotive denver,4301 Morrison Rd,Denver,CO,80219
+afc1d18c-4163,5YMKT6C56J0X21085,69999,34836,T238,2018,BMW,X5 M,Base,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,hyundai of lincolnwood,6747 N. Lincoln Avenue,Lincolnwood,IL,60712
+4bff0f67-4671,WBAYE8C5XFD781585,23736,105846,WF79361A,2015,BMW,7 Series,750Li,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,superior mazda of bentonville,2600 Se Moberly Lane,Bentonville,AR,72712
+e70838bb-e018,1GCWGFCA7E1210688,13995,142351,#18921,2014,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,r21 motorsports,5315 Butterbridge Road Northwest,Canal Fulton,OH,44614
+ff96a55e-3d74,1FMJU2A56AEB46563,,163147,T30982A,2010,Ford,Expedition,Limited,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,sanders ford,1135 Lejeune Blvd,Jacksonville,NC,28540
+1a49a4dc-312d,MAJ3P1TE6JC236325,16999,42875,28523B,2018,Ford,Ecosport,SE,Crossover,Truck,FWD,Automatic,Unleaded,1,I,stokes kia,202 South Goose Creek Blvd.,Goose Creek,SC,29445
+424c8b54-e52a,ML32A5HJ1KH002928,9995,57876,A-7728,2019,Mitsubishi,Mirage,LE,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,midtown autoworld llc,208 W Albany St,Herkimer,NY,13350
+4b4a1a9c-2c4a,ML32A3HJ2HH002806,6500,129580,1534,2017,Mitsubishi,Mirage,ES,Hatchback,Car,FWD,Manual,Unleaded,1.2,I,auto world auto sales,1721 Yosemite Blvd,Modesto,CA,95354
+be9dc574-6ae8,1B7HC16Y8YS543285,3995,137537,BP8246A,2000,Dodge,Ram Pickup,ST,Pickup,Truck,RWD,Manual,Unleaded,5.2,V,al baumann chevrolet buick,2379 W State St,Fremont,OH,43420
+9f9df19a-f484,5TDZT34A64S236870,,265000,4S236870,2004,Toyota,Sequoia,SR5,SUV,Truck,RWD,Automatic,Unleaded,4.7,V,subaru el paso,1414 Airway Blvd.,El Paso,TX,79925
+8394f25f-0aac,WBA7F2C57JG423728,53287,21870,5MP1006,2018,BMW,7 Series,750i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,mercedes-benz of farmington,555 N. West Bourne Circle,Farmington,UT,84025
+62bdcad9-41af,1GCZGTCA5C1201724,23285,26737,X6044,2012,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,godard auto sales & leasing co,1252 Road,Medina,OH,44256
+0827f5c1-11e0,1G1AB5F57A7202169,4999,164580,A7202169,2010,Chevrolet,Cobalt,LS,Sedan,Car,FWD,Manual,Unleaded,2.2,I,"lewis ford sales, inc.",3373 North College Avenue,Fayetteville,AR,72703
+1147edb8-a5f1,4JGBF7BE2CA771255,14995,91622,CA771255,2012,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,auto start - national auto group,2218 North Loop West,Houston,TX,77018
+130bc519-a472,1GCCS19W418126708,,202000,B1788A,2001,Chevrolet,S-10,Base,Pickup,Truck,RWD,Manual,Unleaded,4.3,V,hutch chevrolet buick gmc,1004 Third St,Paintsville,KY,41240
+a5ed3051-40f6,2G1WL52M2W9259983,5750,88350,M2139,1998,Chevrolet,Lumina,LS,Sedan,Car,FWD,Automatic,Unleaded,3.1,V,mcgrath hyundai of dubuque,1040 N. Center Point Road,Hiawatha,IA,52233
+8c7906d5-c3e6,3C6UR4HJ9JG306520,38425,77634,J2528A,2018,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,RWD,Automatic,Unleaded,6.4,V,oviedo chrysler dodge jeep ram fiat,1980 W. State Highway 71 Bypass,La Grange,TX,78945
+156bcdac-bd7e,4JGBF71E17A192359,13499,94946,192359,2007,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,sunset auto center,935 South Valley Drive,Las Cruces,NM,88005
+c515282f-e0f3,WBSLX9C54DC968541,36000,59668,5500,2013,BMW,6 Series,M6,Coupe,Car,RWD,Automatic,Premium Unleaded,4.4,V,dean team automotive,14754 Manchester Road,Ballwin,MO,63011
+37574603-9957,WP1AB2AY9LDA27336,91900,12837,,2020,Porsche,Cayenne,S,SUV,Truck,4WD,Automatic,Premium Unleaded,2.9,V,asbury automotive dealer services,1797 Founders Parkway,Alpharetta,GA,30009
+47053522-d4ce,KL79MMS24MB068245,25000,1706,FA0695,2021,Chevrolet,Trailblazer,LS,SUV,Truck,FWD,Automatic,Unleaded,1.2,I,gilchrist automotive,3001 Fort Worth Highway,Weatherford,TX,76087
+3721cdae-baff,WBY7Z8C54JVB86772,27898,29421,BB7351,2018,BMW,i3,s,Hatchback,Car,RWD,Automatic,Electric / Premium Unleaded,0.6,I,herb chambers volvo cars norwood,1120 Providence Highway,Norwood,MA,2062
+4232f2cd-35bc,ML32F3FJ5HHF19282,7762,61248,Z303A,2017,Mitsubishi,Mirage G4,ES,Sedan,Car,FWD,Manual,Unleaded,1.2,I,sport durst hyundai of durham,4507 Durham Chapel Hill Blvd,Durham,NC,27707
+c3f3bd78-69d4,4JGDF7CE7DA246264,21940,92016,P1777A,2013,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,land rover cherry hill,2000 Nj-70,Cherry Hill,NJ,8003
+5743c29b-63ef,WDDNG7EB1CA470031,45900,39225,PL4473B,2012,Mercedes-Benz,S-Class,S63 AMG,Sedan,Car,RWD,Automatic,Premium Unleaded,5.5,V,honda of newnan,391 Newnan Crossing Bypass,Newnan,GA,30265
+63c7d5fa-075d,1G8AG54F14Z118419,,165901,1G8AG54F14Z118419,2004,Saturn,ION,1,Sedan,Car,FWD,Automatic,Unleaded,2.2,I,bestautobuy,4465 Boulevard North,Las Vegas,NV,89115
+f454a84d-ced8,4JGBF7BE4BA647986,16055,159645,B117986,2011,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,ciocca chevrolet of west chester,715 Autopark Blvd,West Chester,PA,19382
+e07f5232-91f9,1GCDT13W21K257052,3000,200120,49474B,2001,Chevrolet,S-10,LS,Pickup,Truck,4WD,Automatic,Unleaded,4.3,V,baumann ford genoa,22110 West State Route 51,Genoa,OH,43430
+b5d80d83-6225,1G1AB5F52A7203889,2995,101011,03-67-13,2010,Chevrolet,Cobalt,LS,Sedan,Car,FWD,Manual,Unleaded,2.2,I,escar auto,7121 Alameda Ave,El Paso,TX,79915
+fd628c8c-cea0,2GTEC19VXY1376383,6999,197000,PD2121A,2000,GMC,Sierra,SLE,Pickup,Truck,RWD,Automatic,Unleaded,4.8,V,greenway toyota of the shoals,5100us-43,Tuscumbia,AL,35674
+0c112a30-0118,ZARFAEAV7J7579596,58995,12761,J7579596,2018,Alfa Romeo,Giulia,Quadrifoglio,Sedan,Car,RWD,Automatic,Premium Unleaded,2.9,V,piazza honda of pottstown,629 North Lewis Rd,Limerick,PA,19468
+c246b083-4dba,1GTP6DE19G1260472,32677,72486,P60472,2016,GMC,Canyon,SLT,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,honda cars of mckinney,601 S Central Expy,Mckinney,TX,75070
+226fbb40-af90,MAJ3P1TE0JC205667,19847,8067,34836T,2018,Ford,Ecosport,SE,SUV,Truck,FWD,Automatic,Unleaded,1,I,ganley westside hyundai,25600 Lorain Road,North Olmsted,OH,44070
+f9a2c86c-bd1e,WMEEJ3BA0FK797844,9500,26591,20832PA,2015,smart,fortwo,passion,Coupe,Car,RWD,Automatic,Premium Unleaded,1,I,orr honda,4602 Gus Orr Dr,Texarkana,TX,75503
+83647fe4-dfa7,ML32A3HJ5FH042794,10986,44147,80768B,2015,Mitsubishi,Mirage,DE,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,eddy's everything,8801 E Kellogg Dr,Wichita,KS,67207
+3d16155a-ed68,1FMFU18LX3LB71937,5985,207751,211186A,2003,Ford,Expedition,Eddie Bauer,SUV,Truck,4WD,Automatic,Unleaded,5.4,V,bradley hubler chevrolet,1550 North 31,Franklin,IN,46131
+04eee2c4-5edc,WVWPH63B83P037476,,1,R037476,2003,Volkswagen,Passat,GLS,Sedan,Car,FWD,Manual,Premium Unleaded,2.8,V,best way motors,4442 South Irby Street,Florence,SC,29505
+c2717006-49b9,ZACNJAB10KPK71648,27285,8013,P2298,2019,Jeep,Renegade,Altitude Package,SUV,Truck,FWD,Automatic,Premium Unleaded,1.3,I,acura of melbourne,6957 Bromley Drive,Melbourne,FL,32940
+2989e53e-7e25,1C3ADEBZ5DV400179,104907,7714,JO21B033,2013,Dodge,Viper,GTS,Coupe,Car,RWD,Manual,Premium Unleaded,8.4,V,west herr chrysler dodge jeep ram of lockport,6200 S Transit Road,Lockport,NY,14094
+b66da226-e8f1,ML32A4HJ3LH002229,15998,702,K866665A,2020,Mitsubishi,Mirage,SE,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,mike miller mitsubishi,2007 West Pioneer Parkway,Peoria,IL,61615
+c5f240de-7b68,1FMFU17577LA69391,9990,164974,PF17630,2007,Ford,Expedition,Eddie Bauer,SUV,Truck,RWD,Automatic,Unleaded,5.4,V,ron tonkin westside used cars,9008 Sw Canyon Rd,Portland,OR,97225
+fbc8af64-41a4,WP1AB2AY8LDA28915,105840,3772,U8494,2020,Porsche,Cayenne,S,SUV,Truck,4WD,Automatic,Premium Unleaded,2.9,V,land rover santa barbara,401 S Hope Ave B,Santa Barbara,CA,93105
+2cd430da-9944,3C6UR5CJ5HG767494,37811,72720,DP3310A,2017,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,crain ford of little rock,4601 Colonel Glenn Plaza Drive,Little Rock,AR,72210
+5a57d4d1-e740,WBY7Z8C51JVB87507,31548,1945,X5985,2018,BMW,i3,s,Hatchback,Car,RWD,Automatic,Electric / Premium Unleaded,0.6,I,rick hendrick city chevrolet,5101 E Independence Blvd,Charlotte,NC,28212
+6f05ca73-fcfc,WBY7Z4C58JVD96767,19999,20223,PA4395,2018,BMW,i3,s,Hatchback,Car,RWD,Automatic,Electric / Premium Unleaded,0.6,I,premier automotive inc,17569 Old Stage Coach Road,Dumfries,VA,22026
+1237e290-abf8,1GTCS138068252288,9519,172584,T18950C,2006,GMC,Canyon,SLE,Pickup,Truck,RWD,Automatic,Unleaded,2.8,I,shottenkirk toyota granbury,5100 East Us Highway 377 East,Granbury,TX,76049
+901ea0ed-a908,3C6TR5FJ1HG503387,46970,70595,DOT210826A,2017,RAM,Ram 2500 Pickup,Laramie,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,west herr ford of rochester,4545 Ridge Road,Rochester,NY,14626
+ccb76e30-c0fe,1GTCS148368239727,10998,53645,C1855,2006,GMC,Canyon,SL,Pickup,Truck,RWD,Manual,Unleaded,2.8,I,mcgrath volkswagen of marion,675 Blairs Ferry Rd,Marion,IA,52302
+3592b0c4-64b8,4JGDF7DE3FA579286,28595,93805,J21205-2,2015,Mercedes-Benz,GL-Class,GL550,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,jaguar dallas,11400 North Central Expy,Dallas,TX,75243
+ef63505e-85fd,3C6UR5SJXKG538267,62434,64603,UE538267,2019,RAM,Ram 2500 Pickup,Laramie Limited,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,heartland ford,1810 Highway 25B North,Heber Springs,AR,72543
+b7d069e7-df6c,ML32A3HJXLH002478,14490,4716,G3374ARTL,2020,Mitsubishi,Mirage,ES,Hatchback,Car,FWD,Manual,Unleaded,1.2,I,auto gallery mall of georgia,4135 Buford Drive,Buford,GA,30518
+3652edef-8b3c,ML32A3HJ7HH015552,8791,69070,HH015552P,2017,Mitsubishi,Mirage,ES,Hatchback,Car,FWD,Manual,Unleaded,1.2,I,hanania automotive group,7200 Blanding Boulevard,Jacksonville,FL,32244
+38078b67-118f,1FMJU1J56BEF08435,,152572,311008B,2011,Ford,Expedition,XLT,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,phil long kia of colorado springs,1020 Motor City Drive,Colorado Springs,CO,80905
+a977ce75-1a86,ML32F3FJXJHF05187,10665,63297,AV2974,2018,Mitsubishi,Mirage G4,ES,Sedan,Car,FWD,Manual,Unleaded,1.2,I,crain buick gmc,710 South Amity Road,Conway,AR,72032
+2d6f9f83-a477,5LMJJ3J5XCEL07883,9995,185000,,2012,Lincoln,Navigator,Base,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,pic bros auto sales,101 South Main Street,Muncy,PA,17756
+a006dd14-9378,3GNBABFW0BS503558,5977,136558,X210997A,2011,Chevrolet,HHR,LT,Mini Mpv,Car,FWD,Automatic,E85 / Unleaded,2.2,I,todd wenzel chevrolet of hudsonville,3156 Highland Blvd,Hudsonville,MI,49426
+6f1fe9a0-839d,1D7HW38PX9S780424,,,21-21,2009,Dodge,Dakota,Big Horn,Pickup,Truck,4WD,Automatic,E85 / Unleaded,4.7,V,the auto barn,220 Huffman Road,Linden,PA,17744
+6241df99-02ad,WP1AC29P79LA82066,27488,116736,R1544,2009,Porsche,Cayenne,Turbo S,SUV,Truck,4WD,Automatic,Premium Unleaded,4.8,V,porsche delaware,1851 Ogletown Road,Newark,DE,19711
+aad8b642-227a,3C6UR5DJ9KG699674,52650,18130,G2133A,2019,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,wegner auto,330 E. Sioux Ave,Pierre,SD,57501
+6b6b2712-809b,4JGDF7DEXHA816391,44900,73629,A816391,2017,Mercedes-Benz,GLS-Class,GLS550,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,mercedes-benz of melbourne,509 East Nasa Boulevard,Melbourne,FL,32901
+eb80e783-cb27,ZACNJBB13KPK08291,21899,29984,J210191A,2019,Jeep,Renegade,Latitude,SUV,Truck,4WD,Automatic,Premium Unleaded; Unleaded,1.3,I,bachman chrysler dodge jeep ram,630 Broadway St,Jeffersonville,IN,47130
+61146ccb-39e3,1GKDT13S322439720,,1,16352,2002,GMC,Envoy,SLE,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,danbury auto group,33 Rose Street,Danbury,CT,6810
+0b6de218-acaa,WDDXJ7JB3FA007781,,10702,7781,2015,Mercedes-Benz,S-Class,S63 AMG®,Coupe,Car,4WD,Automatic,Premium Unleaded,5.5,V,kelly motorcars,2880 Bergey Road Q,Hatfield,PA,19440
+451b7088-c8da,3GNBABFW1BS544118,,,P11990A,2011,Chevrolet,HHR,LT,Mini Mpv,Car,FWD,Automatic,E85 / Unleaded,2.2,I,reidsville nissan,1123 Freeway Dr,Reidsville,NC,27320
+c018ead9-12f6,ML32A5HJXHH010826,10200,41779,H02096A,2017,Mitsubishi,Mirage,GT,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,mccarthy blue springs hyundai,3000 Nw South Outer Road,Blue Springs,MO,64015
+c3eed414-2217,1FTWW30Y16EA22620,,370457,J21067A,2006,Ford,F-350 Super Duty,XLT,Pickup,Truck,RWD,Manual,Unleaded,6.8,V,jim butner auto sales,205 W Lewis And Clark Pkwy,Clarksville,IN,47129
+abd0ca5a-d5c2,1FMFU16567LA48176,,214405,D8405A,2007,Ford,Expedition,XLT,SUV,Truck,4WD,Automatic,Unleaded,5.4,V,power newport chrysler jeep dodge,1217 North Coast Hwy 101,Newport,OR,97365
+6d4e4edd-3af9,MAJ3P1TE8JC210065,21564,19828,AP52109,2018,Ford,Ecosport,SE,Crossover,Truck,FWD,Automatic,Unleaded,1,I,capital pre-owned center,4800 Capital Blvd,Raleigh,NC,27616
+dd74adfd-364f,ML32F3FJ0HHF07654,9999,50264,SB10796A,2017,Mitsubishi,Mirage G4,ES,Sedan,Car,FWD,Automatic,Unleaded,1.2,I,demontrond buick gmc,17925 I-45 North,Houston,TX,77090
+7a1f6e2b-4556,WBAYE8C56FD136593,41000,42000,,2015,BMW,7 Series,ALPINA B7,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,tred,220 Nw 8th Ave,Portland,OR,97209
+aabceaee-0ced,KL8CD6S9XEC541149,8370,82293,H200633A,2014,Chevrolet,Spark,1LT,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,chapman nissan,6723 Essington Ave,Philadelphia,PA,19153
+7b68c9c2-47ed,ZARBAAB40GM176549,59995,32255,GM176549,2016,Alfa Romeo,4C,Spider,Targa,Car,RWD,Automatic,Premium Unleaded,1.7,I,piazza volkswagen of ardmore,150 West Lancaster Avenue,Ardmore,PA,19003
+89917842-de02,KL8CD6S91EC415214,5500,76632,1,2014,Chevrolet,Spark,1LT,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,woody's rod shop,8722 State Street,Sandy,UT,84070
+43d13b7a-9bdd,1FMFU20518LA50904,9995,170456,CAW1994,2008,Ford,Expedition,Limited,SUV,Truck,4WD,Automatic,Unleaded,5.4,V,chantilly auto group,25280 Pleasant Valley Road 124,Chantilly,VA,20152
+5ec5abd7-b330,3C6UR5CJ0EG146627,26341,132237,21-321A,2014,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,findlay chrysler dodge jeep ram,10305 U.s. 224 West,Findlay,OH,45840
+d9cfcb6b-2912,1G1Y73DE6D5700015,45995,31757,4061,2013,Chevrolet,Corvette,427,Convertible,Car,RWD,Manual,Premium Unleaded,7,V,custom car care,603 N 13Th St 1410 Nuttman Avenue,Decatur,IN,46733
+e64e5280-be8a,WP0AA2A99FS106664,75821,29083,PS06664,2015,Porsche,911,Carrera,Coupe,Car,RWD,Manual,Premium Unleaded,3.4,H,stevenson hendrick mazda wilmington,5911 Market Street,Wilmington,NC,28405
+b36ba87d-e97c,WMEEJ3BA0DK652588,5990,101165,H2170610A,2013,smart,fortwo,passion,Coupe,Car,RWD,Automatic,Premium Unleaded,1,I,chapman tucson,4646 E. 22nd St.,Tucson,AZ,85712
+0658ae22-42ab,ZFF83CLA8K0243317,395990,4892,PN164,2019,Ferrari,812,Base,Coupe,Car,RWD,Automatic,Premium Unleaded,6.5,V,wide world ferrari,101 Route 59,Spring Valley,NY,10977
+537951da-ebbc,1G2NF52E74C257062,2995,171082,257062,2004,Pontiac,Grand Am,SE1,Sedan,Car,FWD,Automatic,Unleaded,3.4,V,korf continental ford,622 West First Street,Julesburg,CO,80737
+5346dac2-2aa8,1FMNU43S61EB38074,15998,104996,MPC4415A,2001,Ford,Excursion,Limited,SUV,Truck,4WD,Automatic,Unleaded,6.8,V,mountain home auto ranch,1088 Airbase Road,Mountain Home,ID,83647
+7aa5c2e3-2f2b,MAJ3S2FE4KC280051,19401,5437,FP15705,2019,Ford,Ecosport,S,Crossover,Truck,FWD,Automatic,Unleaded,1,I,"kunes country superstore of stoughton, inc.",1423 Highway 51,Stoughton,WI,53589
+ac655490-d17d,1G8ZK52722Z190806,,184260,T1146C,2002,Saturn,S-Series,SL2,Sedan,Car,FWD,Automatic,Unleaded,1.9,I,mike anderson auto group,417 South Third Street,Peru,IN,46970
+cd756501-192b,1FMFU20555LB03907,,155332,188,2005,Ford,Expedition,Limited,SUV,Truck,4WD,Automatic,Unleaded,5.4,V,all superior auto,3327 Railroad St.,Fort Myers,FL,33916
+c3665367-9690,WP1AC2A29JLA90030,118888,21966,R1672,2018,Porsche,Cayenne,Turbo S,SUV,Truck,4WD,Automatic,Premium Unleaded,4.8,V,piazza honda of pottstown,629 North Lewis Rd,Limerick,PA,19468
+b87edc1d-044f,WDDXJ8FB7GA015396,65616,37655,W4N015396,2016,Mercedes-Benz,S-Class,S550,Coupe,Car,4WD,Automatic,Premium Unleaded,4.7,V,gurley leep volkswagen,4004 North Grape Road,Mishawaka,IN,46545
+86bd94a9-4170,1FMFU18516LA02640,7999,153776,A02640,2006,Ford,Expedition,Eddie Bauer,SUV,Truck,4WD,Automatic,Unleaded,5.4,V,coulee auto,1411 Rose Street,La Crosse,WI,54603
+f9d4e8ba-927c,JTHFN48Y569000270,26446,82885,P00270,2006,Lexus,SC,430,Convertible,Car,RWD,Automatic,Premium Unleaded,4.3,V,hendrick chevrolet hoover,1620 Montgomery Highway,Hoover,AL,35216
+edfd2cae-612b,1FTNS24L91HA01392,4000,95000,1392-44,2001,Ford,Econoline Van,Commercial,Cargo Van,Truck,RWD,Automatic,Unleaded,5.4,V,motornet usa inc,2435 Southwell Rd. 1,Dallas,TX,75229
+e27ca071-455a,ZACNJAD15LPL68942,25619,2069,9793,2020,Jeep,Renegade,Limited,SUV,Truck,FWD,Automatic,Unleaded,1.3,I,federico chrysler dodge jeep ram,1875 East Edwardsville Rd.,Wood River,IL,62095
+28bff46a-2987,WDDUG8CB2GA235521,,21076,C11603A,2016,Mercedes-Benz,S-Class,S550,Sedan,Car,RWD,Automatic,Premium Unleaded,4.7,V,all american chrysler dodge jeep ram,8716 East Highway 84,Slaton,TX,79364
+15bf0b50-c2c2,WBSJF0C54JB282197,84993,26364,H88225,2018,BMW,M5,Base,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,bert smith bmw,3800 34th Street North,Saint Petersburg,FL,33714
+6c71eb9a-c781,ML32F3FJ7JHF04403,11998,14757,C34379,2018,Mitsubishi,Mirage G4,ES,Sedan,Car,FWD,Manual,Unleaded,1.2,I,coralville used car superstore,404 2Nd Street,Coralville,IA,52241
+de68b400-b0d7,WDCYC7DH1JX294904,129898,16940,P21A33927-1,2018,Mercedes-Benz,G-Class,AMG G63,SUV,Truck,4WD,Automatic,Premium Unleaded,5.5,V,lithia auto stores,150 North Bartlett,Medford,OR,97501
+4c64c10a-ca33,JTJBT20X540039145,14588,187444,6049145,2004,Lexus,GX,470,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,harr honda,4255 6Th Ave Se,Aberdeen,SD,57401
+66b70bc9-1947,1D4HS48N43F518024,,180000,T518024,2003,Dodge,Durango,SLT,SUV,Truck,4WD,Automatic,Unleaded,4.7,V,goode motor,711 N. Main Street,Hailey,ID,83333
+839772d9-351e,ZAM45VLA3J0260295,84795,14598,PM550,2018,Maserati,GranTurismo,MC,Coupe,Car,RWD,Automatic,Premium Unleaded,4.7,V,ferrari of palm beach,3974 Okeechobee Blvd,West Palm Beach,FL,33409
+2ee14325-dd26,WDDLJ9BB4DA062522,22998,87571,M68417A,2013,Mercedes-Benz,CLS-Class,CLS550,Coupe,Car,4WD,Automatic,Premium Unleaded,4.7,V,herb chambers toyota of boston,32 Brighton Ave,Boston,MA,2134
+ff56c710-76a7,WP0AB2A71HL122379,,47076,R1605,2017,Porsche,Panamera,S,Hatchback,Car,4WD,Automatic,Premium Unleaded,2.9,V,maserati of wilmington pike,99 Wilmington Pike,Chadds Ford,PA,19317
+0fb34775-b0f5,1GCWGFCA4C1120704,,204059,M2972,2012,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,metro auto sales,624 North Watson Road,Arlington,TX,76011
+07c35dd1-878e,WBAYB6C57DD223574,23490,71711,,2013,BMW,7 Series,750i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,golden gear,9269 Park East Ct,Fishers,IN,46038
+2575088d-e3f3,WDBSK7BA0BF163473,34117,29414,P67890A,2011,Mercedes-Benz,SL-Class,SL550,Roadster,Car,RWD,Automatic,Premium Unleaded,5.5,V,rick hendrick dodge chrysler jeep ram,1468 Savannah Hwy,Charleston,SC,29407
+05059fbd-0c71,1FAHP60A92Y108816,22392,23723,2618525A1,2002,Ford,Thunderbird,Deluxe,Convertible,Car,RWD,Automatic,Premium Unleaded,3.9,V,jeff wyler toyota of clarksville,808 E Lewis And Clark Pkwy,Clarksville,IN,47129
+f79f1a2d-577b,JM1FE173240108739,,158671,108739-TM,2004,Mazda,RX-8,#NAME?,Coupe,Car,RWD,Manual,Premium Unleaded,1.3,,mullen auto sales - anaheim,"1237 S Brookhurst St,",Anaheim,CA,92804
+68df6c29-2515,KL79MPSL3MB022092,29415,8192,R3450A,2021,Chevrolet,Trailblazer,LT,SUV,Truck,FWD,Automatic,Unleaded,1.3,I,riverside chevrolet buick gmc,305 Battlecreek Rd,South Pittsburg,TN,37380
+8b3add6d-9d5a,1GCPTEE16J1121695,41383,49625,2C3012,2018,Chevrolet,Colorado,ZR2,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,parks chevrolet,4502 W Broad Street,Richmond,VA,23230
+bdbde76b-d00c,WDDLJ9BB3JA204757,56900,12483,PM2016,2018,Mercedes-Benz,CLS-Class,CLS550,Coupe,Car,4WD,Automatic,Premium Unleaded,4.7,V,zeigler chrysler dodge jeep ram of plainwell,1186 East M-89,Plainwell,MI,49080
+802b8b9d-2145,WDDXK8CB3HA025801,83990,28614,P1245,2017,Mercedes-Benz,S-Class,S550,Convertible,Car,RWD,Automatic,Premium Unleaded,4.7,V,towbin motorcars,5550 West Sahara Avenue,Las Vegas,NV,89146
+4070ba89-e26f,YV1CZ911151217082,5077,188912,217082,2005,Volvo,XC90,T6,SUV,Truck,4WD,Automatic,Premium Unleaded,2.9,I,dubik motor company,2400 Austin Highway,San Antonio,TX,78218
+8c6d9d2b-dfb5,3C6UR5DJXEG152756,38191,73669,289313B,2014,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,jeff wyler chrysler jeep dodge,1117 State Route 32,Batavia,OH,45103
+6ba0d54d-3248,4JGDF7CE0EA285540,20995,140051,FV5540,2014,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,va quality motors,5500 Fern Valley Road,Louisville,KY,40228
+e901d3a1-ed53,4JGDF7DE7KB190655,73526,24372,364636A,2019,Mercedes-Benz,GLS-Class,GLS550,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,jeff wyler chevrolet,5885 Gender Rd,Canal Winchester,OH,43110
+7cce2c93-5761,1FTSE3EL7DDA63335,14995,130010,10867,2013,Ford,Econoline Van,BASE,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,prestige auto sales,N8890 Highway 57,Brillion,WI,54110
+ddf6253f-0afb,WBSJF0C57JB282565,86900,18742,JB282565,2018,BMW,M5,Base,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,bmw of stratham,71 Portsmouth Ave,Stratham,NH,3885
+85a133d9-3cfd,1FAFP90S86Y401761,,1800,1761,2006,Ford,GT,Base,Coupe,Car,RWD,Manual,Premium Unleaded,5.4,V,desneux motorsports,11301 218Th Street,Peculiar,MO,64078
+3a34a214-bc61,1C4SDJGJ8LC146652,68650,18478,SA11063,2020,Dodge,Durango,SRT,SUV,Truck,4WD,Automatic,Premium Unleaded,6.4,V,hendrick kia of concord,7550 Hendrick Auto Plaza Nw,Concord,NC,28027
+f81b5803-d5fa,5UXJU2C51KLN66583,72988,12218,B40637A,2019,BMW,X5,50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,peter pan bmw,2695 S El Camino Real,San Mateo,CA,94403
+4ecc87a5-9529,WDBTK72FX7F222181,8200,143345,2035,2007,Mercedes-Benz,CLK-Class,CLK550,Convertible,Car,RWD,Automatic,Premium Unleaded,5.5,V,thrifty used cars and tires llc,5061 Whitney St,Bay Saint Louis,MS,39520
+ea3563b1-e6e1,1G1AD5F50A7141774,,142413,141774,2010,Chevrolet,Cobalt,LT,Sedan,Car,FWD,Manual,Unleaded,2.2,I,universal motors,121 Schillinger Rd. N.,Mobile,AL,36608
+aac2a741-f23e,WDDNG7DB2DA537352,31704,47700,RA537352,2013,Mercedes-Benz,S-Class,S550,Sedan,Car,RWD,Automatic,Premium Unleaded,4.7,V,used imports auto,442 S. Atlanta St,Roswell,GA,30075
+e1b777e6-b648,1G1AF5F52A7113422,8995,65704,PS28980,2010,Chevrolet,Cobalt,LT,Sedan,Car,FWD,Automatic,Unleaded,2.2,I,rick hendrick chevrolet norfolk,6252 E. Virginia Beach Blvd,Norfolk,VA,23502
+b6ebd441-0fe5,3C6UR5CJ8JG347041,37995,80464,205024,2018,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,corporate fleet sales,2101 Railroad Ave,Pittsburg,CA,94565
+fb5f1d7b-80f2,1G2WK52J92F251515,6995,89069,246,2002,Pontiac,Grand Prix,SE,Sedan,Car,FWD,Automatic,Unleaded,3.1,V,mas auto sales,2701 Patterson Rd,Riverbank,CA,95367
+9d9db8f8-30fd,WBAEK13456CN76546,25900,34629,N76546,2006,BMW,6 Series,650i,Convertible,Car,RWD,Automatic,Premium Unleaded,4.8,V,hiline motor sports,2225 Station Road,Sanatoga,PA,19464
+d85d8712-a293,ZHWUR1ZF1HLA06561,234951,13686,LHLA06561T,2017,Lamborghini,Huracan,Base,Convertible,Car,4WD,Automatic,Premium Unleaded,5.2,V,lamborghini palm beach,2345 Okeechobee Blvd,West Palm Beach,FL,33409
+d7fd4d42-03af,1FTWW31R78EC73619,13995,205033,21220-R,2008,Ford,F-350 Super Duty,XL,Pickup,Truck,4WD,Automatic,Diesel,6.4,V,showcase auto sales,12750 Brady Rd,Chesaning,MI,48616
+07a3b476-7952,1FTNE2ELXDDB11269,14000,186245,6465,2013,Ford,E-Series Econoline Van,Commercial,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,hamilton auto sales,908 West Academy Street,Fuquay Varina,NC,27526
+e8430cbe-ebe2,SAJDA42B453A40757,17950,61940,A40757,2005,Jaguar,XK Series,XKR Convertible,Convertible,Car,RWD,Automatic,Premium Unleaded,4.2,V,bening group site,460 Siemers Dr,Cape Girardeau,MO,63701
+1f36050c-8586,1GCEK14V51Z235423,5995,110000,111199,2001,Chevrolet,Silverado,LS,Pickup,Truck,4WD,Manual,Unleaded,4.8,V,liberty motors,123 Liberty Street,Hanson,MA,2341
+50f06c30-bb12,1GKFC13C17R418607,14495,72711,418607,2007,GMC,Yukon,SLE1,SUV,Truck,RWD,Automatic,Unleaded,4.8,V,texas automobile,2750 Dixie Farm Road,Houston,TX,77089
+6b6a5192-869a,1FMJK1J52DEF33793,14995,135453,R-25145,2013,Ford,Expedition,XLT,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,town & country auto sales,1010 Bypass Rd,Winchester,KY,40391
+4008bb1f-da1d,3C6UR5CJ7LG274487,48788,6815,5274487,2020,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,plattner's venice superstore,735 41 S Bypass,Venice,FL,34285
+eaaf7071-34e8,1C4SDJGJXMC547525,69660,42,MC547525,2021,Dodge,Durango,SRT,SUV,Truck,4WD,Automatic,Premium Unleaded,6.4,V,alm marietta,1071 Cobb Pkwy Se,Marietta,GA,30060
+d8691392-cf7a,1FBSS3BL5DDB25798,22999,9488,37442,2013,Ford,E-Series Econoline Wagon,XL,Passenger Van,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,emmons autoplex,1423 Fm 528 Road,Webster,TX,77598
+e4ce75b7-0377,1G4HA5EM3BU112680,7989,103022,,2011,Buick,Lucerne,CX,Sedan,Car,FWD,Automatic,E85 / Unleaded,3.9,V,less price autos,5620 Funston Street,Hollywood,FL,33023
+6cebaff5-0ae2,WP1AF2A5XMLB60379,95499,2049,LB60379,2021,Porsche,Macan,Turbo,SUV,Truck,4WD,Automatic,Premium Unleaded,2.9,V,penskecars.com,2555 Telegraph Road,Bloomfield,MI,48302
+3b5cd148-e3cf,5UXJU4C09LLE45952,77495,20710,23291,2020,BMW,X5,M50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,auto mall of springfield,920 S Dirksen,Springfield,IL,62703
+f7c54085-e560,MAJ3S2GE2KC295405,16995,20695,KC295405-12,2019,Ford,Ecosport,SE,Crossover,Truck,FWD,Automatic,Unleaded,1,I,south pointe honda,9124 S Memorial Dr.,Tulsa,OK,74133
+981c3588-7642,JTNJJXB09EJ026729,8366,92000,1153216A,2014,Scion,iQ,Base,Micro Car,Car,FWD,Automatic,Unleaded,1.3,I,jeff wyler toyota of springfield,2237 West First Street,Springfield,OH,45504
+12d8e214-c009,1FTNE2ELXBDA10505,11999,84799,A10505P,2011,Ford,E-Series Econoline Van,Commercial,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,the auto store,1250 Route 73 North,Palmyra,NJ,8065
+ec035430-d446,1G4HE5E15AU114309,1999,161623,1012,2010,Buick,Lucerne,CXL,Sedan,Car,FWD,Automatic,E85 / Unleaded,3.9,V,price check auto,450 N Main Street,Centerfield,UT,84622
+11d2187f-21c0,5UXJU2C51KLB15415,68977,32891,PN5670,2019,BMW,X5,50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,mercedes-benz of northlake,10725 Northlake Auto Plaza Blvd,Charlotte,NC,28269
+34e76684-0d9c,WDDXK7JB3HA022524,99596,10703,THA022524,2017,Mercedes-Benz,S-Class,AMG® S63,Convertible,Car,4WD,Automatic,Premium Unleaded,5.5,V,porsche west houston,11850 Katy Freeway,Houston,TX,77079
+b060276e-3528,1G1AL15F477114897,2990,124700,657371,2007,Chevrolet,Cobalt,LT,Coupe,Car,FWD,Manual,Unleaded,2.2,I,super auto sales,8578 401 North,Fuquay-varina,NC,27526
+21c2e34c-3dfc,WBAKC8C55CC437840,16950,92054,A106921A,2012,BMW,7 Series,750Li,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,leith porsche,700 Auto Park Blvd,Cary,NC,27511
+cbe3ceb6-13d8,KL8CB6S92EC455730,7899,75739,CT211037B,2014,Chevrolet,Spark,LS,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,gunn nissan,750 Ne Loop 410,San Antonio,TX,78209
+15e16c29-6f78,3C6UR5CJ3EG253977,31900,82610,P2177,2014,RAM,Ram 2500 Pickup,Power Wagon ST,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,wyatt johnson toyota,2595 Wilma Rudolph Boulevard,Clarksville,TN,37040
+0636516b-eecb,1G8AL52F53Z139948,,106208,2618458A1,2003,Saturn,ION,3,Sedan,Car,FWD,Automatic,Unleaded,2.2,I,jeff wyler eastgate chevrolet,1117 State Route 32,Batavia,OH,45103
+e823a3a7-58d6,ML32A5HJ9KH016401,11000,21734,PM37924A,2019,Mitsubishi,Mirage,LE,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,safford lincoln of salisbury,1902 North Salisbury Blvd.,Salisbury,MD,21801
+8680b812-b807,KL8CB6S90FC734143,6700,90184,C0C144466B,2015,Chevrolet,Spark,LS,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,miami lakes dodge chrysler jeep ram,16600 Nw 57th Ave,Miami,FL,33014
+57d55a75-2b7b,WBAKB8C50CDX20871,16999,86089,X20871,2012,BMW,7 Series,750i,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,unique auto gallery,6580 El Cajon Boulevard,San Diego,CA,92115
+be297b4b-5305,1GCWGFCF8F1243860,13000,200568,F8921A,2015,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,uebelhor buick gmc,626 Kimmell Road,Vincennes,IN,47591
+0330520b-1e4a,3C6UR5CJ1JG356440,39995,18250,C132484H,2018,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,jeff belzer's dodge ram,21111 Cedar Ave.,Lakeville,MN,55044
+a6b6f550-19fa,5TDZT34A75S247412,6499,167363,247412,2005,Toyota,Sequoia,SR5,SUV,Truck,RWD,Automatic,Unleaded,4.7,V,dibo's auto sale,8620 Windswept Ln,Houston,TX,77063
+803a4728-473f,WDDUG8FB5HA318020,61594,26380,M31000,2017,Mercedes-Benz,S-Class,S550,Sedan,Car,4WD,Automatic,Premium Unleaded,4.7,V,prime honda - saco,754 Portland Road,Saco,ME,4072
+c3c3dee8-2055,ML32A3HJ0FH031461,9299,30315,461-15M,2015,Mitsubishi,Mirage,DE,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,your kar company inc,7912 Becket Street,Norfolk,VA,23518
+1d8110d8-9ebd,3C6UR5CJ5GG380068,27470,129013,80068,2016,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,contemporary automotive,3427 Skyland Boulevard East,Tuscaloosa,AL,35405
+5a93281e-5d3a,1G1YZ26E895111833,10000,30251,09A012021,2009,Chevrolet,Corvette,Z06,Coupe,Car,RWD,Manual,Premium Unleaded,7,V,the chevy store,8715 Southeast Stark Street,Portland,OR,97216
+2add6434-e968,WP0AF2A77GL081727,58950,51067,L081727-359,2016,Porsche,Panamera,GTS,Hatchback,Car,4WD,Automatic,Premium Unleaded,4.8,V,karbuds,P.o. Box 530101,St. Petersburg,FL,33747
+8f158568-3b34,ZAM45VMA5H0189514,,8420,7832,2017,Maserati,GranTurismo,Sport,Convertible,Car,RWD,Automatic,Premium Unleaded,4.7,V,bugatti greenwich,273 West Putnam Avenue,Greenwich,CT,6830
+317c8be0-0683,ML32F3FJ9LHF07600,11990,1441,9M00074,2020,Mitsubishi,Mirage G4,ES,Sedan,Car,FWD,Manual,Unleaded,1.2,I,jim shorkey auto group,185 Colonial Manor Rd.,Irwin,PA,15642
+d46a8fd2-2c67,5LMFU28506LJ09777,14999,62926,10691,2006,Lincoln,Navigator,Luxury,SUV,Truck,4WD,Automatic,Premium Unleaded,5.4,V,elite auto corporation,3515 West Armitage Avenue,Chicago,IL,60647
+ba5e15de-971e,1FDEE3FS2HDC58506,,46207,2816,2017,Ford,E-Series Cutaway,Base,Cutaway,Truck,RWD,Automatic,Unleaded,6.8,V,339 auto sales,3441 St. Route 339,Belpre,OH,45714
+aaf0584c-f27d,ZFF78VHA0F0213610,679985,1299,T213610,2015,Ferrari,458 Speciale A,Base,Convertible,Car,RWD,Automatic,Unleaded,4.5,V,maserati of central florida,4891 Vineland Rd,Orlando,FL,32811
+32922e9a-8862,WBAKB8C54CDX20839,10950,151513,805,2012,BMW,7 Series,750i,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,advance auto sales,1063 Nc Hwy 801 N,Advance,NC,27006
+8da88109-c6ac,WDDUX8FBXHA319681,73950,39079,J-319681,2017,Mercedes-Benz,S-Class,Maybach,Sedan,Car,4WD,Automatic,Premium Unleaded,4.7,V,26 motors corp,4015 Boston Road,Bronx,NY,10466
+06e50084-15ec,JTHFN48Y050064476,19127,85076,F10226A,2005,Lexus,SC,430,Convertible,Car,RWD,Automatic,Premium Unleaded,4.3,V,nick mayer ford,6200 Mayfield Road,Mayfield,OH,44124
+b8c79b17-5ffb,ML32F3FJ2LHF00519,15990,14668,2000954966,2020,Mitsubishi,Mirage G4,ES,Sedan,Car,FWD,Manual,Unleaded,1.2,I,carvana kansas city,14450 West Rd,Houston,TX,77041
+ed51e4fd-abdb,1FMJU1H59EEF47465,21995,96938,EEF47465PLX,2014,Ford,Expedition,XLT,SUV,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,lithia auto stores,150 North Bartlett,Medford,OR,97501
+96a33e71-6d1d,4JGDF7DE7HA888424,,49736,5047,2017,Mercedes-Benz,GLS-Class,GLS550,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,mile high car helper,1709 S. Acoma St.,Denver,CO,80223
+85749a9b-5226,ZFFSG17A6J0078052,145000,15731,,1988,Ferrari,Testarossa,Platinum,Coupe,Car,RWD,Manual,,4.9,H,speedart motorsports,3301 Northeast 2Nd Avenue,Miami,FL,33137
+fa65350c-f474,1G2ZM171464155589,,0,1028196,2006,Pontiac,G6,GTP,Coupe,Car,FWD,Automatic,Unleaded,3.9,V,williams auto sales & services,840 15-401 Byp W,Bennettsville,SC,29512
+5701f336-42f1,WP1AB29P59LA45956,14900,97941,A45956,2009,Porsche,Cayenne,S,SUV,Truck,4WD,Automatic,Premium Unleaded,4.8,V,"pa cars and trucks, inc",910 Old Lincoln Hwy,Morrisville,PA,19067
+48fc93b5-388f,2G1WF52E8Y9326816,4500,147800,M26816,2000,Chevrolet,Impala,Base,Sedan,Car,FWD,Automatic,Unleaded,3.4,V,the car lot,601 Gastonia Hwy,Bessemer City,NC,28016
+6cb9f44e-1352,WAUML44E76N008515,14995,67978,8515,2006,Audi,A8,Base,Sedan,Car,4WD,Automatic,Premium Unleaded,4.2,V,carzone,3250 Kietzke Lane,Reno,NV,89502
+29e0cc7a-7fbc,ZAM45VMA3J0280206,105999,12575,TA280206,2018,Maserati,GranTurismo,Base,Convertible,Car,RWD,Automatic,Premium Unleaded,4.7,V,bentley naples,800 Tamiami Trail North,Naples,FL,34102
+13c67066-f151,ML32AUHJ0MH006739,16991,85,15840,2021,Mitsubishi,Mirage,Carbonite Edition,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,hurst autoplex,250 Northeast Loop 820,Hurst,TX,76053
+2a6abd33-02c5,1D7CE3GP2AS119098,,190321,,2010,RAM,Dakota,Big Horn (Lone Star),Pickup,Truck,RWD,Automatic,E85 / Unleaded,4.7,V,la motors,2374 Springs Rd Ne,Hickory,NC,28601
+be820a8e-de4d,1GCGG25V571183510,8495,156714,8412,2007,Chevrolet,Express Cargo,Work,Cargo Van,Truck,RWD,Automatic,Unleaded,4.8,V,east town auto,2240 Main St,Green Bay,WI,54302
+9416ea7d-eca1,5UXCY8C01LLE40572,86281,19368,P0036,2020,BMW,X6,M50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,land rover newport beach,1540 Jamboree Road,Newport Beach,CA,92660
+e2a3c581-0cfb,WDDXJ7JB3GA011699,85000,14991,NP4644,2016,Mercedes-Benz,S-Class,S63 AMG®,Coupe,Car,4WD,Automatic,Premium Unleaded,5.5,V,nerd motors,44 Lumpkin County Pkwy,Dahlonega,GA,30533
+7afca749-3386,1FAFP90S55Y400596,399900,975,JC5976,2005,Ford,GT,Base,Coupe,Car,RWD,Manual,Premium Unleaded,5.4,V,jordan ford ltd,13010 Ih 35 North,San Antonio,TX,78233
+ac9bac9a-c097,5UXZV8C51CL424352,11495,129710,MAO2228,2012,BMW,X5,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,mega auto outlet,3335 Jefferson Davis Highway,Stafford,VA,22554
+7d8c8d45-f78c,JHMZE14732T001648,,137045,KT1268A,2002,Honda,Insight,CVT,Coupe,Car,FWD,Automatic,Unleaded / Electric,1,I,sellmeyourvin,1834 S Noland Rd,Independence,MO,64055
+16f3a012-513a,1GCCS149888117201,12800,25928,P6063,2008,Chevrolet,Colorado,Work Truck,Pickup,Truck,RWD,Manual,Unleaded,2.9,I,wii auto sales,16161 Raymer St.,Van Nuys,CA,91406
+78c44276-a6a0,ML32A3HJXHH018185,10644,15592,VP018185,2017,Mitsubishi,Mirage,ES,Hatchback,Car,FWD,Manual,Unleaded,1.2,I,lokey kia,27960 Highway 19n,Clearwater,FL,33761
+fbfacf1c-72e2,1FMJU1J51BEF27927,12250,132140,P6622A,2011,Ford,Expedition,King Ranch,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,warren midtown motors inc,1995 Market Street,Warren,PA,16365
+040c80dd-2892,ZHWUG4ZD9JLA07498,,5648,GC-MIR256-362,2018,Lamborghini,Aventador,S,Coupe,Car,4WD,Automatic,Premium Unleaded,6.5,V,karbuds,P.o. Box 530101,St. Petersburg,FL,33747
+42914ca2-1136,ZFF65TJA8E0201755,138000,9575,NP4661,2014,Ferrari,California,Base,Convertible,Car,RWD,Automatic,Premium Unleaded,4.3,V,ferrari of fort lauderdale,5750 N Federal Hwy,Fort Lauderdale,FL,33308
+e144b920-bfd0,1FMFU18546LA72133,6899,196517,A72133,2006,Ford,Expedition,Eddie Bauer,SUV,Truck,4WD,Automatic,Unleaded,5.4,V,best buy auto sales,1070 West Broadway Avenue,Moses Lake,WA,98837
+0fe36c6e-98cc,1GCWGBFP8L1129057,36350,19997,AT51988,2020,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,Unleaded,4.3,V,capital ford inc,4900 Capital Blvd.,Raleigh,NC,27616
+b28ecb92-4818,MAJ3P1TE8JC240389,15996,31371,T11553,2018,Ford,Ecosport,SE,Crossover,Truck,FWD,Automatic,Unleaded,1,I,gerald subaru of north aurora,205 Hansen Blvd.,North Aurora,IL,60542
+3e0a2c16-7ead,ZFF68NHA6E0196659,240000,13322,NP4674,2014,Ferrari,458 Spider,Base,Convertible,Car,RWD,Automatic,Premium Unleaded,4.5,V,gold coast maserati,732 Northern Blvd,Great Neck,NY,11021
+a3a773a7-ba4b,3C63R3CJ0HG766351,30674,110497,20R605A,2017,RAM,Ram 3500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,chapman ford,3950 N 89th St.,Scottsdale,AZ,85251
+13e64999-06a5,WBAYA8C58FGK19761,32000,42815,FGK19761,2015,BMW,7 Series,750i,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,genesis of southwest houston,10505 Southwest Freeway,Houston,TX,77074
+74c90886-18f0,1GCPTDE19G1261162,28500,97940,NAD5996,2016,Chevrolet,Colorado,Z71,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,capital pre-owned center,4800 Capital Blvd,Raleigh,NC,27616
+780dfd95-8ed0,1D7HW58N08S636986,,151265,10537F,2008,Dodge,Dakota,Laramie,Pickup,Truck,4WD,Automatic,E85 / Unleaded,4.7,V,cobra automotive llc,1590 W 4th St,Mansfield,OH,44906
+3e080ff3-5f58,1GNDS13S022117249,,185040,141P5921C,2002,Chevrolet,TrailBlazer,LT,SUV,Truck,RWD,Automatic,Unleaded,4.2,I,jenkins nissan of leesburg,8865 Highway 441,Leesburg,FL,34788
+87c8ec39-a9c1,WBY7Z4C57JVD95626,23499,30484,LJVD95626,2018,BMW,i3,Base,Hatchback,Car,RWD,Automatic,Electric / Premium Unleaded,0.6,I,crown lexus,1125 S. Kettering Drive,Ontario,CA,91761
+72b3a26e-ea48,1FMJK1K54DEF30506,22988,134625,F21008B,2013,Ford,Expedition,Limited,SUV,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,brian toliver ford,1040 Gilmer Street,Sulphur Springs,TX,75482
+df2aa910-8863,3D7MX46C56G277565,24998,66944,MA17800A,2006,Dodge,Ram 3500 Pickup,ST,Pickup,Truck,4WD,Manual,Diesel,5.9,I,coughlin gm of marysville,15801 Rte 36,Marysville,OH,43040
+649b4b68-b932,1FBSS3BL5BDA17663,,41182,F7663,2011,Ford,E-Series Econoline Wagon,XLT,Passenger Van,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,dobbs enterprise inc.,2502 W 5th St,Lumberton,NC,28358
+3217a124-3630,1GTP6DE14H1222942,33250,45978,H1222942,2017,GMC,Canyon,SLT,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,performance autoplex,2215 S 500 W,Bountiful,UT,84010
+bb64f7ef-98e3,WAUVVAFR6BA041973,20990,55497,3674,2011,Audi,S5,Premium Plus,Coupe,Car,4WD,Automatic,Premium Unleaded,4.2,V,skyline motors,3845 Airport Hwy,Louisville,TN,37777
+ab387d15-206f,4JGBF71E17A228728,8995,127105,416,2007,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,gr best auto deals,1112 Boulevard,National City,CA,91950
+0277cfc4-0c7d,3C7WRTAJ0JG376545,36277,19788,M21395B,2018,RAM,Ram 3500 Chassis Cab,Tradesman,Chassis Cab,Truck,4WD,Automatic,Unleaded,6.4,V,hendrick chevrolet shawnee mission,8300 Shawnee Mission Parkway,Merriam,KS,66202
+4b176469-52fc,4JGED7FB3HA054969,69998,11452,19796450,2017,Mercedes-Benz,GLE-Class Coupe,AMG® GLE63 S,SUV,Truck,4WD,Automatic,Premium Unleaded,5.5,V,carmax ft. myers,3000 Colonial Boulevard,Fort Myers,FL,33966
+6f40a652-5ce9,ML32A5HJ6KH011821,11995,17537,KH011821,2019,Mitsubishi,Mirage,LE,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,jerry's cadillac,3130 Ft. Worth Hwy,Weatherford,TX,76087
+5e3a30cf-1c21,WBAYF8C50DDE59177,30000,59048,LW-5027,2013,BMW,7 Series,750i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,all american motors,6247 S Tacoma Way,Tacoma,WA,98409
+3446a781-198f,SCFBF04CX9GD11844,49000,34713,PPG3247,2009,Aston Martin,V8 Vantage,Base,Roadster,Car,RWD,Automatic,Premium Unleaded,4.7,V,napleton maserati of downer's grove,217 Ogden Avenue,Downers Grove,IL,60515
+536a7c35-21c7,3C6UR5CJ4JG256140,39133,43482,P256140,2018,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,ron bouchard kia,488 Old Union Turnpike,Lancaster,MA,1523
+bc077f81-2ceb,WMEEK31X09K304526,4200,47299,C7305H,2009,smart,fortwo,passion,Convertible,Car,RWD,Automatic,Premium Unleaded,1,I,pipes auto sales,4236 Hearne Avenue,Shreveport,LA,71103
+5af7a5d6-c23a,ZAMEC38A850019054,,33396,C7590,2005,Maserati,GranSport,GranSport,Coupe,Car,RWD,Automatic,Premium Unleaded,4.2,V,pennant motors llc.,7589 W Ridge Rd,Fairview,PA,16415
+0d166c92-b868,3C6UR5DJ6LG139824,47988,12965,C5621,2020,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,st. charles chrysler dodge jeep,1611 E. Main Street,Saint Charles,IL,60174
+e8084e5c-7863,WP0AB2A72JL132859,,23024,R1703P,2018,Porsche,Panamera,S,Hatchback,Car,4WD,Manual,Premium Unleaded,2.9,V,piazza acura of west chester,1350 Wilmington Pike,West Chester,PA,19382
+9367c572-13b4,5LMJJ3J55DEL07646,19999,91968,2086,2013,Lincoln,Navigator,Base,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,armenia motors,13622 Chapman Highway,Seymour,TN,37865
+174bb2bd-0326,1GNDT13S872235750,4500,207841,M184B,2007,Chevrolet,TrailBlazer,LS,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,manley's belvidere ford,1800 North State Street,Belvidere,IL,61008
+c83690ef-e534,WP0AE2A76JL175334,77588,36758,100110,2018,Porsche,Panamera,4 E-Hybrid,Hatchback,Car,4WD,Manual,Electric / Premium Unleaded,2.9,V,speedster auto sales inc,3275 Stevens Creek Blvd Ste 355,San Jose,CA,95117
+5535cc46-9e7e,1GMDV33LX5D214189,3565,221279,PBR298961B,2005,Pontiac,Montana,Base,Minivan,Truck,FWD,Automatic,Unleaded,3.4,V,feldman chevrolet of novi,42355 Grand River,Novi,MI,48375
+7f00a2db-64b6,WDDLJ7DB9EA096426,21500,117742,96426,2014,Mercedes-Benz,CLS-Class,CLS550,Sedan,Car,RWD,Automatic,Premium Unleaded,4.7,V,houston direct auto,4011 Jeanetta Street,Houston,TX,77063
+fd9b416d-4102,WBA7F2C5XGG420685,38795,51847,401351B,2016,BMW,7 Series,750i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,ourisman chrysler dodge jeep ram of bowie,2406 Crain Hwy.,Bowie,MD,20716
+b734e90a-32c9,3C6UR5CJXFG653830,30995,86822,B3830,2015,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,binghamton chrysler jeep dodge,1279 Upper Front St,Binghamton,NY,13901
+6180540d-4eb8,WDDLJ7DB8HA197705,46998,42749,HA197705,2017,Mercedes-Benz,CLS-Class,CLS550,Coupe,Car,RWD,Automatic,Premium Unleaded,4.7,V,coggin nissan,10600 Atlantic Blvd,Jacksonville,FL,32225
+a329553f-a206,4JGDF7CE8EA351042,33995,38929,351042,2014,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,scenic city cars,423 Signal Mountain Road,Chattanooga,TN,37405
+62c06d56-8095,1GAZG1FA4C1127981,17999,94257,4123,2012,Chevrolet,Express,LS,Passenger Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,all-in-one auto,1201 Airline Blvd,Portsmouth,VA,23707
+2b70ada1-f4a3,WMEEJ3BA8FK803647,9990,30820,2000808654,2015,smart,fortwo,passion,Coupe,Car,RWD,Automatic,Premium Unleaded,1,I,carvana kansas city,1420 Toshiba Dr,Lebanon,TN,37087
+496f887f-d736,WP0AB2A74JL136864,90991,18023,JL136864PCL,2018,Porsche,Panamera,S,Hatchback,Car,4WD,Manual,Premium Unleaded,2.9,V,driveway,,Portland,OR,97210
+dc4c3295-6cfb,ML32F3FJ0KHF12540,9189,25419,8588,2019,Mitsubishi,Mirage G4,ES,Sedan,Car,FWD,Automatic,Unleaded,1.2,I,volkswagen of springfield,300 Baltimore Pike,Springfield,PA,19064
+94c15a30-134a,5YMKT6C54J0Y83619,75996,23858,P2410,2018,BMW,X5 M,Base,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,stevenson hendrick mazda wilmington,5911 Market Street,Wilmington,NC,28405
+1bb5cf7d-f3d4,2CKDL63FX66099043,5000,131490,FK8641A,2006,Pontiac,Torrent,Base,SUV,Truck,FWD,Automatic,Unleaded,3.4,V,don moore hyundai,5079 Frederica Street,Owensboro,KY,42301
+f254864a-73ce,1C4SDJGJ3JC150315,59402,28019,C150315,2018,Dodge,Durango,SRT,SUV,Truck,4WD,Automatic,Premium Unleaded,6.4,V,central florida chrysler dodge jeep ram,8675 Commodity Cir,Orlando,FL,32819
+0e30c3c8-4984,WBAYB6C54ED224733,,99593,,2014,BMW,7 Series,750i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,buy here pay here,252 14th Ave,Newark,NJ,7103
+c4efae9f-c49f,WP1AC2A26JLA85190,85100,21100,JLA85190,2018,Porsche,Cayenne,Turbo,SUV,Truck,4WD,Automatic,Premium Unleaded,4.8,V,coggin toyota at the avenues,11340 Phillips Highway,Jacksonville,FL,32256
+4a1b328e-1d4e,1GCHK23G76F174221,17999,174995,5499,2006,Chevrolet,Silverado 2500HD,LT,Pickup,Truck,4WD,Automatic,Unleaded,8.1,V,cypress auto center,1160 Grass Valley Highway,Auburn,CA,95603
+c90e171b-b132,WBAYB6C5XFG299226,27582,75496,62378C2,2015,BMW,7 Series,750i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,tom kelley cadillac,811 Avenue Of Autos,Fort Wayne,IN,46804
+8b518c8c-3ded,1FTWW31R98EE58772,,121364,14094,2008,Ford,F-350 Super Duty,FX4,Pickup,Truck,4WD,Automatic,Diesel,6.4,V,mas auto sales,2701 Patterson Rd,Riverbank,CA,95367
+742bdafb-e3be,1GCWGFCA2C1197605,12481,133011,197605,2012,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,image cars,1015 West Coliseum Blvd,Fort Wayne,IN,46808
+1037421f-b50d,5YMKT6C36H0U39506,52995,43575,13033,2017,BMW,X5 M,Base,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,victory mitsubishi,4070 Boston Road,Bronx,NY,10475
+568ac358-f27f,WDDXJ8FB2HA030003,73490,28523,131872A,2017,Mercedes-Benz,S-Class,S550,Coupe,Car,4WD,Automatic,Premium Unleaded,4.7,V,easterns automotive group,"22705 Commerce Center Court,",Sterling,VA,20166
+4798a2aa-7e95,1J8HG48N96C275405,7000,0,C275405T,2006,Jeep,Commander,Base,SUV,Truck,4WD,Automatic,Unleaded,4.7,V,starling chevrolet,13155 S Orange Blossom Trail,Orlando,FL,32837
+b53ccf2d-4d3f,ML32A4HJ4HH016440,9500,56451,21BP086,2017,Mitsubishi,Mirage,SE,Hatchback,Car,FWD,Manual,Unleaded,1.2,I,honda of keene,567 Monadnock Hwy,Swanzey,NH,3446
+ff3fb70d-afae,1GNDT13SX82197116,4995,236959,74810B,2008,Chevrolet,TrailBlazer,1FL,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,osseo automotive,19 S Shore Dr,Fountain City,WI,54629
+7e2352ce-c7e5,WBAYF8C52FD655492,,100960,Z1263X,2015,BMW,7 Series,750Li,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,travers automotive & rv group,620 Charbonier Road,Florissant,MO,63031
+0e1e689c-83ba,MAJ3S2KE1KC276920,17183,32382,KC276920,2019,Ford,Ecosport,Titanium,Crossover,Truck,FWD,Automatic,Unleaded,1,I,daniels chevrolet buick gmc,365 E Main St,Swainsboro,GA,30401
+db2d0420-1b16,1G1AT58H097286819,7999,55304,CWT211758A,2009,Chevrolet,Cobalt,LT,Sedan,Car,FWD,Automatic,Unleaded,2.2,I,west herr acura,7460 Transit Road,Williamsville,NY,14221
+567f2077-28fe,4JGDF7DE3FA504491,29988,113142,20259XB,2015,Mercedes-Benz,GL-Class,GL550,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,"art hossler auto plaza, inc.",2000 N Main,Canton,IL,61520
+1914f285-e777,1FDUF4GY4BEC58946,12689,214000,,2011,Ford,F-450 Super Duty Chassis Cab,XL,Chassis Cab,Truck,RWD,Automatic,Unleaded,6.8,V,tred,220 Nw 8th Ave,Portland,OR,97209
+4cc87f1e-5b05,WBA7F2C54JG424125,51999,29960,LJG424125,2018,BMW,7 Series,750i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,crown lexus,1125 S. Kettering Drive,Ontario,CA,91761
+0fc08c4a-f52f,3C6UR5CJ2LG283890,45000,15119,LG283890,2020,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,mclarty automotive group,,North Little Rock,AR,72117
+75df22f9-1925,3C6UR5FJ6JG303972,,,11758Z,2018,RAM,Ram 2500 Pickup,Laramie,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,summit automotive,815 S. Rolling Meadows Dr,Fond Du Lac,WI,54937
+8bd5ecab-3f91,1FMJK1J57EEF18899,16999,104098,EH2989P,2014,Ford,Expedition,King Ranch,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,lithia auto stores,150 North Bartlett,Medford,OR,97501
+3fe40b2c-c3cf,4JGDF7DE3JB000400,63990,45627,P1772,2018,Mercedes-Benz,GLS-Class,GLS550,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,rick hendrick jeep chrysler dodge ram fiat,8333 Rivers Ave,Charleston,SC,29406
+063765dd-a530,5UXJU4C04M9E57067,88977,4215,X36830,2021,BMW,X5,M50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,bill jacobs bmw,2495 Aurora Ave,Naperville,IL,60540
+6097906c-5378,WDDNG7GB4CA464396,45900,27000,PL4473G,2012,Mercedes-Benz,S-Class,S600,Sedan,Car,RWD,Automatic,Premium Unleaded,5.5,V,stevenson hendrick mazda wilmington,5911 Market Street,Wilmington,NC,28405
+215edf6a-b329,WDCYC7DF6FX234011,82995,72998,GL234011TX,2015,Mercedes-Benz,G-Class,G63 AMG®,SUV,Truck,4WD,Automatic,Premium Unleaded,5.5,V,tx auto group,5803 Richmond Avenue,Houston,TX,77057
+afa4fb0d-d364,WBSJF0C50JB282584,79950,21788,B282584M,2018,BMW,M5,Base,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,bmw of mamaroneck,236 West Boston Post Road,Mamaroneck,NY,10543
+788835bf-097c,3D7KS28C36G291388,29800,148000,2513,2006,Dodge,Ram 2500 Pickup,Sport,Pickup,Truck,4WD,Manual,Diesel,5.9,I,king's chariot auto dealership,14476 Duval Place West # 305,Jacksonville,FL,32218
+58a7026a-2a53,ZFF82WNA5K0238206,330000,3298,FK0238206,2019,Ferrari,488,GTC4Lusso,Coupe,Car,4WD,Automatic,Premium Unleaded,6.3,V,maserati of central new jersey,816 Highway 1,Edison,NJ,8817
+52ac3077-1b97,3C6UR5JJ1LG169852,45599,37587,P169852,2020,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,victory chrysler dodge jeep ram,1720 N 100Th Terrace,Kansas City,KS,66111
+c39281de-e8e1,WBA7F2C55KB240102,62996,17333,P19022,2019,BMW,7 Series,750i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,open road bmw of edison,720 1,Edison,NJ,8817
+25d1e039-1237,1FAHP60A53Y109687,30624,18876,P2170980,2003,Ford,Thunderbird,Deluxe,Convertible,Car,RWD,Automatic,Premium Unleaded,3.9,V,chapman az,1717 East Baseline Road,Tempe,AZ,85283
+cd297755-4aca,SAJWA82B56SH11246,5987,155180,RP39932,2006,Jaguar,XJ Series,Vanden Plas,Sedan,Car,RWD,Automatic,Premium Unleaded,4.2,V,leith of wendell,5300 Rolesville Road,Wendell,NC,27591
+a3b4b026-6b49,4JGDF7DEXHA949247,60999,48813,AG 4JGDF7DEXHA949247,2017,Mercedes-Benz,GLS-Class,GLS550,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,ilan's auto sales,110 South Keswick Avenue,Glenside,PA,19038
+1338eb6a-8154,1GCCS198568223831,5990,160243,613675A,2006,Chevrolet,Colorado,Z85,Pickup,Truck,RWD,Manual,Unleaded,2.8,I,hyundai of seattle,14005 Aurora Avenue,Seattle,WA,98133
+5328dc4b-7290,JNKBY31A1XM600926,,182480,c074901,1999,INFINITI,Q45,Base,Sedan,Car,RWD,Automatic,Premium Unleaded / Unleaded,4.1,V,massa auto pawn & sales,3025 North Freeway Road,Pueblo,CO,81008
+8bcf139b-99ab,5UXKU6C53J0W39061,58990,37454,B26332C,2018,BMW,X6,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,bmw of bakersfield,5400 Gasoline Alley Dr,Bakersfield,CA,93313
+17f3cdb6-25aa,1GCEK19V33E357376,5787,198442,77357376,2003,Chevrolet,Silverado Classic 1500,LS,Pickup,Truck,4WD,Automatic,Unleaded,4.8,V,corwin automotive group,201 40Th Street South,Fargo,ND,58103
+dd373eff-33cb,1FMJK2A54EEF00396,18995,144887,LP3653,2014,Ford,Expedition,Limited,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,"landmark ford, inc.",2401 Prairie Crossing Drive,Springfield,IL,62711
+a281c7f3-36ab,WP1AB2AY0KDA65598,84594,1379,0965P,2019,Porsche,Cayenne,S,SUV,Truck,4WD,Automatic,Premium Unleaded,2.9,V,harper porsche,9768 Parkside Drive,Knoxville,TN,37922
+e3f9f03c-614f,1FMPU16L53LB21695,,115027,T111252A,2003,Ford,Expedition,XLT,SUV,Truck,4WD,Automatic,Unleaded,5.4,V,peterson auto group,9101 W Fairview Ave,Boise,ID,83704
+7ef5b8f3-432f,JHMZE2H51ES000118,7000,205125,M1951A,2014,Honda,Insight,LX,Hatchback,Car,FWD,Automatic,Electric / Unleaded,1.3,I,crown cadillac,196 Regent Blvd,Holland,MI,49423
+8c6814df-6d68,1G1YY26E885121330,42990,43216,85121330P,2008,Chevrolet,Corvette,427 Limited Edition,Coupe,Car,RWD,Manual,Premium Unleaded,7,V,lithia auto stores,150 North Bartlett,Medford,OR,97501
+e0cd1942-b600,WDDUG8CBXHA323539,55993,35781,A323539P,2017,Mercedes-Benz,S-Class,S550,Sedan,Car,RWD,Automatic,Premium Unleaded,4.7,V,lithia vip,150 N. Bartlett St.,Medford,OR,97501
+374ac83d-c343,WBA7U2C04NCG89766,,15,NCG89766,2022,BMW,7 Series,750i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,sonic automotive concierge,4401 Colwick Road,Charlotte,NC,28211
+351dd8a8-5f5d,1G8ZH52812Z277426,,86144,MCE1005,2002,Saturn,S-Series,AT,Sedan,Car,FWD,Automatic,Unleaded,1.9,I,motorcars express,12400 South Keeler Avenue,Alsip,IL,60803
+3ec6c4c8-2106,4JGBF7BEXBA634286,19289,68380,P2170790A,2011,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,audi tucson,4646 E. 22nd St.,Tucson,AZ,85711
+030669da-40a2,3C6UR5DJ8JG191923,46542,30589,G18676303,2018,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,burdick used car and truck warehouse,5885 Circle Drive East # 355,Cicero,NY,13039
+b9488602-53e8,1FMJK1H52CEF06436,,170263,22839,2012,Ford,Expedition,XLT,SUV,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,avery auto sales,410 South Quintard Avenue,Anniston,AL,36201
+782e38d4-d63c,KL79MPSL9MB004101,27650,3079,M65852A,2021,Chevrolet,Trailblazer,LT,SUV,Truck,FWD,Automatic,Unleaded,1.3,I,darrell waltrip subaru,1450 Murfreesboro Rd,Franklin,TN,37067
+4328c2f1-4627,1FMFU18526LA03229,5995,187872,3229,2006,Ford,Expedition,Eddie Bauer,SUV,Truck,4WD,Automatic,Unleaded,5.4,V,george tubbs & sons ford sales inc,810 South Range Avenue,Colby,KS,67701
+d2c6c143-cc0a,KL8CD6S95EC539096,7598,81740,10U0048,2014,Chevrolet,Spark,1LT,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,jim shorkey auto group,185 Colonial Manor Rd.,Irwin,PA,15642
+1b192324-ae20,ZAM45VLA6F0129188,85977,2400,9188,2015,Maserati,GranTurismo,Sport,Coupe,Car,RWD,Automatic,Premium Unleaded,4.7,V,kelly motorcars,2880 Bergey Road Q,Hatfield,PA,19440
+f057912c-0fc0,WDDUG8CB1EA014506,40989,38406,X3P014506,2014,Mercedes-Benz,S-Class,S550,Sedan,Car,RWD,Automatic,Premium Unleaded,4.7,V,smart kia of davenport,3707 North Harrison Street,Davenport,IA,52806
+17819b89-6fbe,3D7KU28C23G775056,18980,299861,35056,2003,Dodge,Ram 2500 Pickup,SLT,Pickup,Truck,4WD,Manual,Diesel,5.9,I,lakeway auto,3017 West Andrew Johnson Hwy.,Morristown,TN,37814
+67760c7f-2274,1GAZGPFP1K1180823,22999,50276,8C184M,2019,Chevrolet,Express Passenger,LT,Passenger Van,Truck,RWD,Automatic,Unleaded,4.3,V,enterprise car sales,1495 Gallatin Pike N,Madison,TN,37115
+1285254c-e698,ML32F3FJXHHF13560,9077,54725,VC1555,2017,Mitsubishi,Mirage G4,ES,Sedan,Car,FWD,Manual,Unleaded,1.2,I,castle automotive group,322 Camelot Estates,Portage,IN,46368
+e9872af8-2a0d,WBY7Z8C50JVB87045,27991,15486,VB87045L,2018,BMW,i3,s,Hatchback,Car,RWD,Automatic,Electric / Premium Unleaded,0.6,I,bob smith mini,24500 Calabasas Road,Calabasas,CA,91302
+a3dac3fd-6578,3C6UR5FJ5JG164790,47999,75537,164790,2018,RAM,Ram 2500 Pickup,Laramie,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,tucson used auto sales,3619 N 1st Ave,Tucson,AZ,85719
+e83f352d-38a8,WAUVVAFR2CA024704,21998,63463,CA024704,2012,Audi,S5,Premium Plus,Coupe,Car,4WD,Automatic,Premium Unleaded,4.2,V,mercedes-benz,2411 South Federal Highway,Fort Lauderdale,FL,33316
+32d85417-1a7e,3C6TR5EJ7JG261597,53725,18144,D8592P,2018,RAM,Ram 2500 Pickup,Power Wagon,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,secor chrysler dodge jeep ram,409 Broad St,New London,CT,6320
+0b6e905e-dbca,1GKDT13S322204685,6000,140740,12972A,2002,GMC,Envoy,SLT,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,champion chevrolet of fowlerville,880 S Grand,Fowlerville,MI,48836
+1f2878b9-5c44,5UXJU4C00M9E28956,83999,8220,3P4652,2021,BMW,X5,M50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,flow mazda of greensboro,1205 Bridford Parkway,Greensboro,NC,27407
+3137cdb1-3bcd,4JGBF7BE3BA681479,,155681,PH29279A,2011,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,genesis of kearny mesa,4797 Convoy Street,San Diego,CA,92111
+60132e88-3735,SCFRMFAV1HGL00191,141995,13705,BP6940P,2017,Aston Martin,DB11,Base,Coupe,Car,RWD,Automatic,Premium Unleaded,5.2,V,flemington porsche,213 202,Flemington,NJ,8822
+795dccd9-3f8d,WUABWCF5XKA907981,75477,4022,P51203,2019,Audi,RS 5 Sportback,Base,Hatchback,Car,4WD,Automatic,Premium Unleaded,2.9,V,hendrick lexus northlake,10830 Northlake Auto Plaza Blvd,Charlotte,NC,28269
+fd87b1cf-c1c7,WDDNG71X08A156718,13991,101828,156718,2008,Mercedes-Benz,S-Class,S550,Sedan,Car,RWD,Automatic,Premium Unleaded,5.5,V,rahib motors,1830 Sr 436,Winter Park,FL,32792
+1bb65d7c-6c56,1FMJK1K53AEA48492,13995,142651,VFA51869A,2010,Ford,Expedition,Limited,SUV,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,waxahachie dodge chrysler jeep ram,2405 N. Interstate 35e,Waxahachie,TX,75165
+b396617d-55f1,WUAKBAFX1H7904037,171195,5116,H790403A,2017,Audi,R8,Base,Coupe,Car,4WD,Automatic,Premium Unleaded,5.2,V,jacksonville chrysler dodge jeep ram westside,7030 Commonwealth Ave.,Jacksonville,FL,32220
+b4ad9eee-05dc,1FT8W3BN8LEE58260,65978,2342,21085B,2020,Ford,F-350 Super Duty,XL,Pickup,Truck,4WD,Automatic,Unleaded,7.3,V,"frederick ford, inc.",Route 13 South,Seaford,DE,19973
+cead6104-78df,1G1AD5F5XA7156251,4900,205257,P3025BB,2010,Chevrolet,Cobalt,LT,Sedan,Car,FWD,Automatic,Unleaded,2.2,I,countryside chrysler dodge jeep ram of jackson,846 E. Third Street,Jackson,GA,30233
+078f1818-fd25,1FMJU1J54BEF23564,18885,105633,1303,2011,Ford,Expedition,XLT,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,orlando cars and trucks,2003 South Bay Street,Eustis,FL,32726
+7ce6a6b7-8d81,3C6UR5NJ3JG177524,55952,91361,M95737H,2018,RAM,Ram 2500 Pickup,Laramie,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,honda of el cerrito,11755 San Pablo Ave,El Cerrito,CA,94530
+ebdb5094-37c5,WDDUG8CB0GA231029,49874,53027,11668,2016,Mercedes-Benz,S-Class,S550,Sedan,Car,RWD,Automatic,Premium Unleaded,4.7,V,select automotive,5073 Virginia Beach Blvd,Virginia Beach,VA,23462
+66149b0f-515b,WBABC4C5XKBU95567,92619,15698,10106A,2019,BMW,8 Series,Base,Coupe,Car,4WD,Automatic,Unleaded,4.4,V,vista bmw pompano beach,744 N Federal Hwy,Pompano Beach,FL,33062
+899facdc-5cbe,1GNDS13SX62316136,,,9162,2006,Chevrolet,TrailBlazer,LS,SUV,Truck,RWD,Automatic,Unleaded,4.2,I,navarre auto group,1310 East College Street,Lake Charles,LA,70607
+3c970761-e55e,3C6UR5CJ3EG280208,25991,142300,FC30786A,2014,RAM,Ram 2500 Pickup,Power Wagon ST,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,waxahachie ford,2401 N. 1-35 E,Waxahachie,TX,75167
+2eab7c63-c72f,WDCYC3HF1EX220972,79760,24515,B10103CF,2014,Mercedes-Benz,G-Class,G550,SUV,Truck,4WD,Automatic,Premium Unleaded,5.5,V,south motors mini,16215 S Dixie Hwy,Miami,FL,33157
+602afaa1-0951,5YMKT6C38H0U39510,64303,35391,MB0482A,2017,BMW,X5,M,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,hendrick chevrolet shawnee mission,8300 Shawnee Mission Parkway,Merriam,KS,66202
+dd97b64d-63dc,1FBSS3BL1ADA11860,17896,84829,101465A,2010,Ford,E-Series Econoline Wagon,XLT,Passenger Van,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,gerald subaru of north aurora,205 Hansen Blvd.,North Aurora,IL,60542
+484869e8-4c94,WDDLJ9BB2CA044941,20583,111950,CA044941PV,2012,Mercedes-Benz,CLS-Class,CLS550,Coupe,Car,4WD,Automatic,Premium Unleaded,4.7,V,prestige family of fine cars,985 State Route 17,Ramsey,NJ,7446
+00d62cf6-4a94,1G4HJ5EMXAU129586,,91426,201403,2010,Buick,Lucerne,CXL Premium,Sedan,Car,FWD,Automatic,E85 / Unleaded,3.9,V,superior auto,6642 St. Joe Rd 200,Fort Wayne,IN,46835
+0d77fa84-bafb,1J8HG48N56C210552,7995,173939,P23177A,2006,Jeep,Commander,Base,SUV,Truck,4WD,Automatic,Unleaded,4.7,V,power mazda,3230 Market St,Salem,OR,97301
+13107f4d-358c,ML32F4FJ2JHF10325,11055,39798,WM2091A,2018,Mitsubishi,Mirage G4,SE,Sedan,Car,FWD,Automatic,Unleaded,1.2,I,russ darrow nissan,11212 W. Metro Auto Mall,Milwaukee,WI,53224
+e2e2f86f-eefb,1FMJU1J59EEF37576,18995,127020,R08770A,2014,Ford,Expedition,XLT,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,haley of farmville inc,1906 S Main St,Farmville,VA,23901
+0e118d86-1098,1GNDT13SX52119544,7689,108658,S11493A,2005,Chevrolet,TrailBlazer,LS,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,hubler auto center,1700 N. Main St,Rushville,IN,46173
+14aca9fd-bf8f,1G4HC5EM8AU126955,,108347,AU126955,2010,Buick,Lucerne,CXL,Sedan,Car,FWD,Automatic,E85 / Unleaded,3.9,V,svg urbana llc,1100 Scioto St,Urbana,OH,43078
+0c438852-fc1b,1FMPU15L53LA96167,4995,0,24096A,2003,Ford,Expedition,XLT Premium,SUV,Truck,RWD,Automatic,Unleaded,5.4,V,power buick gmc of salem,3675 Market St Ne,Salem,OR,97301
+0bbd7183-0d8a,ML32A3HJ9HH013995,9000,38193,C1309A,2017,Mitsubishi,Mirage,ES,Hatchback,Car,FWD,Manual,Unleaded,1.2,I,stevens point chrysler dodge jeep ram,5441 Highway 10 E,Stevens Point,WI,54482
+d2c8cfbe-edf7,1GNET16SX36112504,,232000,5VU12504,2003,Chevrolet,TrailBlazer,LS,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,heritage toyota owings mills,9801 Reisterstown Road,Owings Mills,MD,21117
+beb7f64f-e8c0,JHMZE2H73AS026313,5450,122441,,2010,Honda,Insight,EX,Hatchback,Car,FWD,Automatic,Electric / Unleaded,1.3,I,cash car outlet,914 S Mcdonald St.,Mckinney,TX,75069
+615daba3-ca64,4JGBF71E27A190510,9995,118000,190510,2007,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,go auto,344 W Britton Rd,Oklahoma City,OK,73114
+5a2d35cf-35c8,ZAM45VLA1H0203622,59880,42249,P10703,2017,Maserati,GranTurismo,Sport,Coupe,Car,RWD,Automatic,Premium Unleaded,4.7,V,classic ford lincoln shelby,1775 East Dixon Boulevard,Shelby,NC,28152
+ed2126a9-5551,5UXKR6C50E0C03326,23499,86409,TE0C03326,2014,BMW,X5,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,pensacola honda,6675 Pensacola Blvd,Pensacola,FL,32505
+03e513f1-f3a1,WDDLJ7EB3DA070661,,99310,70661,2013,Mercedes-Benz,CLS-Class,AMG CLS63,Sedan,Car,RWD,Automatic,Premium Unleaded,5.5,V,anf auto finance,6004 North Shepherd Dr.,Houston,TX,77091
+3b0a96ce-c7bc,WDDUX8FBXHA294233,98777,43020,X51387A,2017,Mercedes-Benz,S-Class,Maybach,Sedan,Car,4WD,Automatic,Premium Unleaded,4.7,V,hendrick lexus kansas city,6935 W. Frontage Road,Merriam,KS,66203
+ec151ff0-544a,JTJBT20X860122779,11877,184493,2531,2006,Lexus,GX,470,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,cash 4 cars,424 W Lincoln Hwy 203,Penndel,PA,19047
+821eb433-cda8,3C6MR5AJ7KG666726,39990,22174,U5818,2019,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,kutztown auto co,14165 Kutztown Road,Fleetwood,PA,19522
+69cb0441-da6e,2FMZA516X7BA06350,,999999,J2686B,2007,Ford,Freestar,SE,Minivan,Truck,FWD,Automatic,Unleaded,3.9,V,mason city ford lincoln,215 15th Street S.w.,Mason City,IA,50401
+18cde42b-2c24,WDDUG8FB2HA324924,68822,30109,20P10-9,2017,Mercedes-Benz,S-Class,S550,Sedan,Car,4WD,Automatic,Premium Unleaded,4.7,V,sycamore hyundai,1380 Dekalb Ave,Sycamore,IL,60178
+6dbc7a5e-b05a,WDDXK8CB7HA020682,,1541,682,2017,Mercedes-Benz,S-Class,S550,Convertible,Car,RWD,Automatic,Premium Unleaded,4.7,V,kelly motorcars,2880 Bergey Road Q,Hatfield,PA,19440
+fd894f10-c18e,ZACNJBD12KPK03645,23411,11027,AE21P061,2019,Jeep,Renegade,Limited,SUV,Truck,4WD,Automatic,Unleaded,1.3,I,vanderstyne toyota,4374 Ridge Rd,Rochester,NY,14626
+660abae5-78bc,WBA7U2C09MCF07915,92000,4305,CF07915,2021,BMW,7 Series,750i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,bmw of tuscaloosa,3537 Skyland Blvd,Tuscaloosa,AL,35405
+14839c9a-f2f0,WBA6D4C57JD985983,57950,20586,P6160,2018,BMW,6 Series Gran Coupe,650i,Coupe,Car,RWD,Automatic,Premium Unleaded,4.4,V,ecarone,1455 West Trinity Mills Road,Carrollton,TX,75006
+458c3ce0-a07f,WDBGA43E1VA329591,4995,175959,1546,1997,Mercedes-Benz,S-Class,S 420,Sedan,Car,RWD,Automatic,Premium Unleaded,4.2,V,diana rico llc,527 North Glenwood Ave,Dalton,GA,30721
+a8bd1d17-f81c,2G1WF52E749457455,,240996,U13079A,2004,Chevrolet,Impala,Base,Sedan,Car,FWD,Automatic,Unleaded,3.4,V,jim butler fiat,9900 Watson Road B,St. Louis,MO,63126
+e47f867a-d67c,3C6UR5CJ0FG593573,34000,60033,C1614B,2015,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,manley's belvidere ford,1800 North State Street,Belvidere,IL,61008
+59f53d71-fed0,5YMKT6C57J0Y84019,71995,13688,D1057A,2018,BMW,X5 M,Base,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,new country motor car group,992 New Loudon Rd,Latham,NY,12110
+bf9b9b70-fd1c,WDCYC7BF4BX187610,,104817,TBX187610,2011,Mercedes-Benz,G-Class,G55 AMG,SUV,Truck,4WD,Automatic,Premium Unleaded,5.4,V,w.i. simonson,1626 Wilshire Boulevard,Santa Monica,CA,90403
+27e35749-01a8,WBA7F0C50JGM23543,62855,17136,P8068,2018,BMW,7 Series,750i,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,baker motor company,1501-1521 Savannah Highway,Charleston,SC,29407
+fb321ca8-10ca,5UXKU6C52J0W38791,45498,42363,337399,2018,BMW,X6,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,hgreg nissan kendall,17305 South Dixie Highway,Palmetto Bay,FL,33157
+aba6d47d-4004,WBAEH13587CR53329,23995,24889,5133,2007,BMW,6 Series,650i,Coupe,Car,RWD,Automatic,Premium Unleaded,4.8,V,auto world services & sales,940 Catasauqua Road Whitehall,Whitehall,PA,18052
+7c6c4113-2c6f,4JGBF71E67A131895,,135273,10175,2007,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,huntmyride.com,3180 Veterans Memorial Highway,Lithia Springs,GA,30122
+0f3b4bc4-d6b5,1C4SDJGJ0JC150482,56990,24741,Q11832,2018,Dodge,Durango,SRT,SUV,Truck,4WD,Automatic,Premium Unleaded,6.4,V,fury motors inc,1000 Concord St S South,South Saint Paul,MN,55075
+3675db70-2e59,ZFF83CLA4K0245291,357900,1662,4728,2019,Ferrari,812,Base,Coupe,Car,RWD,Automatic,Premium Unleaded,6.5,V,alfa romeo of greenwich,338 West Putnam Avenue,Greenwich,CT,6830
+dcb89eeb-045e,WDDUG8FB6HA328300,56555,28971,P6660,2017,Mercedes-Benz,S-Class,S550,Sedan,Car,4WD,Automatic,Premium Unleaded,4.7,V,volkswagen of macon,4786 Riverside Dr,Macon,GA,31210
+6df7ae6d-d368,WDCYC7DH2JX289646,130589,35170,1389480-1,2018,Mercedes-Benz,G-Class,AMG® G63,SUV,Truck,4WD,Automatic,Premium Unleaded,5.5,V,downtown automotive,1900 South Figueroa Street,Los Angeles,CA,90007
+5ed75be8-e8fd,1B7HF13Z1YJ168169,,200160,YJ168169J,2000,Dodge,Ram Pickup,ST,Pickup,Truck,4WD,Manual,Unleaded,5.9,V,expressway mitsubishi,5230 Division Street,Evansville,IN,47715
+dbeca1ec-0510,1D4HB38NX5F550084,7995,95759,8795,2005,Dodge,Durango,SXT,SUV,Truck,4WD,Automatic,Unleaded,4.7,V,tk auto sales,6904 E Sprague,Spokane,WA,99212
+c4ed804d-b967,1FMJU1J57AEA47776,,136520,1911488,2010,Ford,Expedition,Eddie Bauer,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,damas auto va,25358 Pleasant Valley Road 120,Chantilly,VA,20152
+a0dfbc36-f52e,1FTNE2EL1BDB28801,15699,27098,P18303,2011,Ford,E-Series Econoline Van,Commercial,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,gwinnett place honda,3325 Satellite Blvd,Duluth,GA,30096
+daccbd98-cf3c,1GCWGBFP3L1141178,29950,27397,PT7099,2020,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,Unleaded,4.3,V,fairway ford inc,444 Highway 117 Bypass South,Burgaw,NC,28425
+1a6d6775-bffb,5UXCX6C06L9B42278,93990,2592,XT133A,2020,BMW,X7,M50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,bmw of towson,700 Kenilworth Dr,Towson,MD,21204
+7c0e2277-143b,MAJ3S2KE6KC305957,19877,12983,21965A,2019,Ford,Ecosport,Titanium,Crossover,Truck,FWD,Automatic,Unleaded,1,I,wilde honda of sarasota,7333 S Tamiami Trail,Sarasota,FL,34231
+2dc6d28e-831e,3C6UR5FJ6HG591017,53681,50531,P6621,2017,RAM,Ram 2500 Pickup,Laramie,Pickup,Truck,4WD,Automatic,Unleaded,6.4,I,watsonville chrysler dodge jeep ram,555 Auto Center Drive,Watsonville,CA,95076
+9bcebbc7-68f2,WBSJF0C01LCE38801,97531,4424,M07419A,2020,BMW,M5,Base,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,porsche southpoint,122 Kentington Drive,Durham,NC,27713
+bf44c6e2-0a3c,5UXKR6C55F0J76218,27998,69108,F0J76218,2015,BMW,X5,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,mercedes-benz of delray,1001 Linton Boulevard,Delray Beach,FL,33444
+c925033e-4e75,3C6UR5HJ2JG101305,43995,68953,T5914A,2018,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,ruby mountain motors,651 W Idaho St,Elko,NV,89801
+74a54956-fa2c,KL8CB6S99DC592338,6500,100384,EU592338,2013,Chevrolet,Spark,LS,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,heritage toyota owings mills,9801 Reisterstown Road,Owings Mills,MD,21117
+39d7dc5d-d55a,1FMNU41S61EC66480,,,N6480,2001,Ford,Excursion,XLT,SUV,Truck,4WD,Automatic,Unleaded,6.8,V,nola film automotive llc,200 Funston Street,Elmwood,LA,70123
+a3984766-76e0,WDDUG8FB1EA017823,39899,49910,P3729B,2014,Mercedes-Benz,S-Class,S550,Sedan,Car,4WD,Automatic,Premium Unleaded,4.7,V,exeter subaru,37 Portsmouth Ave,Stratham,NH,3885
+a87dd96a-a383,1FDAF4GR7AEB39718,30795,30204,20120,2010,Ford,F-450 Super Duty Chassis Cab,XL,Chassis Cab,Truck,RWD,Manual,Diesel,6.4,V,asia motors inc.,2300 Mannheim Road,Melrose Park,IL,60164
+f1fcc38f-85f8,1FTNS2EL0ADA76584,18400,144415,10392,2010,Ford,E-Series Econoline Van,Commercial,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,vans vans vans inc,606 New York 303,Blauvelt,NY,10913
+2b91f357-d96e,1FTNE2EL1EDA56745,14995,118779,2P770738,2014,Ford,E-Series Econoline Van,Commercial,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,j p motors,7411 Centreville Road,Manassas,VA,20111
+eca5ccea-aa11,ZFF74UFAXF0206057,269900,9419,FC1698,2015,Ferrari,F12berlinetta,Base,Coupe,Car,RWD,Manual,Premium Unleaded,6.3,V,ferrari of long island,65 South Service Rd,Plainview,NY,11803
+c1074a79-0697,WUAPWAF56KA906305,67450,1350,N7712,2019,Audi,RS 5 Coupe,Base,Coupe,Car,4WD,Automatic,Premium Unleaded,2.9,V,boardwalk volkswagen,1 Bair Island Road,Redwood City,CA,94063
+16ff5561-e404,ZFFEW58AX50144016,,8857,1993,2005,Ferrari,F430,Base,Coupe,Car,RWD,Manual,Premium Unleaded,4.3,V,novak motorcars,9600 North Interstate 35 # 202,San Antonio,TX,78233
+447c5a90-b8b1,1GTP6DE17G1387706,,,91141,2016,GMC,Canyon,SLT,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,ruddell cadillac,110 Golf Course Road,Port Angeles,WA,98362
+bbe33320-3c91,1G1AL18F577410698,,122126,21255A,2007,Chevrolet,Cobalt,LT,Coupe,Car,FWD,Manual,Unleaded,2.2,I,alexandria mazda,3710 Highway 29 South,Alexandria,MN,56308
+8dcaa903-e8d1,1GNDT13S572243272,4950,192145,W7700A,2007,Chevrolet,TrailBlazer,LS,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,elgin hyundai,1200 E Chicago St,Elgin,IL,60120
+82a50f75-ba44,5TDBT48AX6S272467,11900,154385,A11039,2006,Toyota,Sequoia,Limited,SUV,Truck,4WD,Automatic,Unleaded,4.7,V,billy ballew motorsports,1976 Ga-400,Dawsonville,GA,30534
+c454bab6-df89,4JGDF7CE4DA084304,17500,111193,,2013,Mercedes-Benz,GLS-Class,GLS450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,cj motorsports,402 N Saginaw St.,Holly,MI,48442
+60d3add7-0302,1FTPS2425WHB15414,,171483,GN2530A,1998,Ford,Econoline Van,BASE,Cargo Van,Truck,RWD,Automatic,Unleaded,4.2,V,beck chrysler dodge jeep ram,256 17,Palatka,FL,32177
+b7d3f77c-bce6,3C6TR5EJ1JG389530,51750,33705,P5397A,2018,RAM,Ram 2500 Pickup,Power Wagon,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,zeigler maserati of grandville,4200 Parkway Place Dr Sw,Grandville,MI,49418
+9bbed13c-80f4,WDDNG71X67A093235,11995,108005,2243,2007,Mercedes-Benz,S-Class,S550,Sedan,Car,RWD,Automatic,Premium Unleaded,5.5,V,lee county motors,1431 Se 10th St,Cape Coral,FL,33990
+71bf5148-fbd5,4JGED7FB8KA141256,87997,18315,P40306,2019,Mercedes-Benz,GLE-Class Coupe,AMG® GLE63 S,SUV,Truck,4WD,Automatic,Premium Unleaded,5.5,V,rick hendrick chevrolet charleston,1500 Savannah Hwy,Charleston,SC,29407
+f6794630-b04d,WBAGV8C09LCD36727,99989,6235,3316P,2020,BMW,8 Series,M850i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,thompson bmw,680 N Main St.,Doylestown,PA,18901
+7ee9ee03-011a,1G8AL52F44Z117456,3500,,524-R,2004,Saturn,ION,3,Sedan,Car,FWD,Automatic,Unleaded,2.2,I,dill's used cars,2552 South Lake Drive,Lexington,SC,29073
+e9d84fbf-4c28,WDCYC7DF2DX204176,69999,93795,F204176,2013,Mercedes-Benz,G-Class,AMG G63,SUV,Truck,4WD,Automatic,Premium Unleaded,5.5,V,seattle finest motors,4401 168th St Sw,Lynnwood,WA,98037
+a86463fe-fa44,1GCWGFCAXE1117633,,152214,10275,2014,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,vans vans vans inc,606 New York 303,Blauvelt,NY,10913
+aa3dd248-f9bb,WDDNG8GB0BA412901,22902,71139,21258A2,2011,Mercedes-Benz,S-Class,S580,Sedan,Car,4WD,Automatic,Premium Unleaded,5.5,V,hertrich family of automobile dealerships,1450 S Dupont Hwy,Dover,DE,19901
+6879e50d-d739,3C6TR5EJ4EG318876,45936,10906,EG318876,2014,RAM,Ram 2500 Pickup,Power Wagon,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,shottenkirk toyota of weatherford,3131 Fort Worth Hwy,Weatherford,TX,76087
+9e63aa06-43f2,1GTW7FCA1C1166460,10950,206171,16077,2012,GMC,Savana Cargo,Base,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,p j mccafferty inc,2908 E Lincoln Highway,Langhorne,PA,19047
+5279d1dc-bf03,3D7KR28C16G288517,14995,261629,D7170A,2006,Dodge,Ram 2500 Pickup,ST,Pickup,Truck,RWD,Manual,Diesel,5.9,I,lenn costner auto sales,4860 Hwy 431,Alexandria,AL,36250
+814082ab-a1c6,1FTNE2EL1BDB28801,15699,27098,P18303,2011,Ford,E-Series Econoline Van,Commercial,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,hendrick chrysler dodge jeep ram fiat wilmington,219 S College Rd,Wilmington,NC,28403
+4aecd9b6-e3e1,WBA7F0C52HGM21240,46488,21468,HGM21240,2017,BMW,7 Series,750i,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,alm newnan,40 International Park,Newnan,GA,30265
+1f147086-b953,WP0AA2A95GS106551,82995,26980,SCP1150,2016,Porsche,911,Carrera,Coupe,Car,RWD,Manual,Premium Unleaded,3.4,H,galpin aston martin,15500 Roscoe Boulevard,Van Nuys,CA,91406
+0e2b8efb-92c0,1FMPU16L62LA02410,,,11022A,2002,Ford,Expedition,XLT,SUV,Truck,4WD,Automatic,Unleaded,5.4,V,watson chevrolet inc,625 West Auto Mall Drive,Tucson,AZ,85705
+267e6e58-7b9a,YS3GR4BJ7A4003000,9500,131066,,2010,Saab,5-Sep,Aero,Sedan,Car,4WD,Automatic,Premium Unleaded,2.8,V,four seasons motor group,460 Humphrey St.,Swampscott,MA,1907
+7d1394c4-3719,1GNDT13S942220489,6990,120720,CH0489,2004,Chevrolet,TrailBlazer,LS,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,best value automotive,1957 State Highway 99 North,Eugene,OR,97402
+9d515b66-1d36,1A8HW58P07F510249,,,6222243,2007,Chrysler,Aspen,Limited,SUV,Truck,4WD,Automatic,E85 / Unleaded,4.7,V,check engine auto sales & auto repair,701 Fort Crook Road North,Bellevue,NE,68005
+aef5658e-6e5f,MAJ3P1TEXJC179532,19988,14032,A8468,2018,Ford,Ecosport,SE,Crossover,Truck,FWD,Automatic,Unleaded,1,I,jim vreeland ford,P.o. Box 7,Buellton,CA,93427
+ed552215-1469,WBAHL83586DT07365,,98903,U17843A,2006,BMW,7 Series,750i,Sedan,Car,RWD,Automatic,Premium Unleaded,4.8,V,benzel-busch motor car corp.,28 Grand Avenue,Englewood,NJ,7631
+0f70292c-07d8,1C4SDJGJ3JC156096,55898,54422,156096,2018,Dodge,Durango,SRT,SUV,Truck,4WD,Automatic,Premium Unleaded,6.4,V,patterson nissan longview,3114 N. Eastman Rd,Longview,TX,75605
+5b692515-9bfa,3C6UR5FJ2FG685537,35995,97900,FG685537,2015,RAM,Ram 2500 Pickup,Laramie,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,airport chrysler dodge jeep ram,5751 Eagle Vail Drive,Orlando,FL,32822
+f4f3a5f8-530f,5YMKT6C38H0U39510,64303,35391,MB0482A,2017,BMW,X5,M,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,hendrick acura,6824 E Independence Blvd,Charlotte,NC,28227
+3bf0b00c-13d2,1FMFU20549EA64477,,,T21-243B,2009,Ford,Expedition,Limited,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,elm chevrolet,301 E Church St,Elmira,NY,14901
+f720c31e-8246,MAJ3P1RE5JC173774,15984,13198,3173774D,2018,Ford,Ecosport,S,Crossover,Truck,FWD,Automatic,Unleaded,1,I,plattners lehigh acres superstore,801 Abrams Boulevard,Lehigh Acres,FL,33971
+95daa9e2-8a9d,4JGDF7CE5DA101935,27999,59406,7077,2013,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,payless auto sales,8916 South Tacoma Way,Lakewood,WA,98499
+133214ca-fd93,WBSLX9C50ED160036,49455,34812,ED160036,2014,BMW,6 Series,M6,Coupe,Car,RWD,Automatic,Premium Unleaded,4.4,V,mercedes-benz of fort lauderdale,2411 South Federal Highway,Fort Lauderdale,FL,33316
+c1753bd4-4f68,1GCCS14X0VK204619,,164012,T00115,1997,Chevrolet,S-10,LS,Pickup,Truck,RWD,Manual,Unleaded,4.3,V,motor city manchester,100 Londonderry Turnpike,Manchester,NH,3104
+0b738452-d2a2,1GCPTDE11G1330409,33497,72323,P5481,2016,Chevrolet,Colorado,Z71,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,rick ball auto group,2500 Main Street,Boonville,MO,65233
+66f05c4a-fb98,1G3NL52E9YC394787,,175000,2769B,2000,Oldsmobile,Alero,GL3,Sedan,Car,FWD,Automatic,Unleaded,3.4,V,nissan of dalton,1706 East Walnut Ave,Dalton,GA,30721
+76bb4a54-ba84,WBAYE8C59DD132857,,65340,14401,2013,BMW,7 Series,750Li,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,sacramento luxury motors,7801 Fair Oaks Blvd,Carmichael,CA,95608
+920fa92b-b56c,5YMKT6C54J0Y83619,75996,23858,P2410,2018,BMW,X5 M,Base,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,dale earnhardt jr cadillac,1850 Capital Circle Ne,Tallahassee,FL,32308
+bb8627f6-d7a1,1GCWGAFF1H1347771,25900,43682,S05549,2017,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,john jones auto group,1450 In-60,Salem,IN,47167
+fe64b3f9-6065,1FAFP90S66Y400950,,,,2006,Ford,GT,Base,Coupe,Car,RWD,Manual,Premium Unleaded,5.4,V,fox powersports,720 44th Street Southwest,Wyoming,MI,49509
+3f33b4e4-22cf,1FMJU1J57EEF20078,11900,162705,10650,2014,Ford,Expedition,XLT,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,auto start,1416 Sw 29th St,Oklahoma City,OK,73119
+dfa49dd0-a8ad,1GCWGAFP8J1233622,24995,60811,CU7339N,2018,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,4.3,V,sternberg chevrolet,6600 Dixie Hwy,Louisville,KY,40258
+e2fd5b24-ae49,WBAYA8C59FD825815,31500,49050,FD825815,2015,BMW,7 Series,750i,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,coggin acura,4400 S 1,Fort Pierce,FL,34982
+24d9613e-a3c4,WP0CB2A83CS730212,40898,67218,51AC208T,2012,Porsche,Boxster,S,Roadster,Car,RWD,Automatic,Premium Unleaded,3.4,H,porsche wichita,10900 E. 13th Street,Wichita,KS,67206
+deab486d-e501,WBA6B4C53DD098794,28489,63668,S11537A,2013,BMW,6 Series,650i,Coupe,Car,4WD,Automatic,Premium Unleaded,4.4,V,hubler mazda,1253 31 S,Greenwood,IN,46143
+81f20dae-24b4,MAJ3S2GE2KC284372,16995,12372,KC284372,2019,Ford,Ecosport,SE,Crossover,Truck,FWD,Automatic,Unleaded,1,I,mercedes-benz of wesley chapel,2383 Willow Oak Drive,Wesley Chapel,FL,33544
+060ea399-84e6,1GNCS13W612189764,,192902,D6557TP,2001,Chevrolet,Blazer,LS,SUV,Truck,RWD,Automatic,Unleaded,4.3,V,mid rivers alfa romeo,4953 Veterans Memorial Parkway,Saint Peters,MO,63376
+7a4ed2d5-0105,1GTCS14H538186783,5498,116248,PR19988A,2003,GMC,Sonoma,SLS,Pickup,Truck,RWD,Automatic,Unleaded; Unleaded / E85,2.2,I,community motors,4521 University Ave,Cedar Falls,IA,50613
+40d4ef34-6144,1FMJU1F50AEB66312,10300,43400,B66312,2010,Ford,Expedition,XLT,SUV,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,ditat deus automotive,1111 N Gilbert Rd,Gilbert,AZ,85234
+086226ec-c463,WBAYA8C51ED825001,22995,78675,825001,2014,BMW,7 Series,750i,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,dream motor cars,1920 S. La Cienega Blvd,Los Angeles,CA,90034
+e9878bd2-9922,1GCWGAFP9L1148579,31998,11391,PY66045,2020,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,Unleaded,4.3,V,tony group autoplex,94-1299 Ka Uka Boulevard,Waipahu,HI,96797
+96b7f6d4-2689,WDDLJ7DB4EA122222,28206,68333,1088637-1,2014,Mercedes-Benz,CLS-Class,CLS550,Coupe,Car,RWD,Automatic,Premium Unleaded,4.7,V,downtown automotive,1900 South Figueroa Street,Los Angeles,CA,90007
+3a3819f8-ccb8,3C6UR5NJ7EG121415,,84650,7XD20003B,2014,RAM,Ram 2500 Pickup,Laramie,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,fremont chevrolet buick gmc,1401 N Federal,Riverton,WY,82501
+12368b22-9eb4,MAJ3P1RE2JC177250,,11630,13279A,2018,Ford,Ecosport,S,Crossover,Truck,FWD,Automatic,Unleaded,1,I,dean team automotive,14754 Manchester Road,Ballwin,MO,63011
+0be1d021-6cff,1GKDS13S542195185,,203071,21H705A,2004,GMC,Envoy,SLE,SUV,Truck,RWD,Automatic,Unleaded,4.2,I,regal kia,1025 Bartow Rd,Lakeland,FL,33801
+3a7772ce-f342,ZARFAEAV9J7572889,59000,,,2018,Alfa Romeo,Giulia,Quadrifoglio,Sedan,Car,RWD,Automatic,Premium Unleaded,2.9,V,ferrari of central new jersey,816 Route 1 North,Edison,NJ,8817
+b810431a-d9fc,WP1AF2A50LLB60146,89775,5107,PP1725,2020,Porsche,Macan,Turbo,SUV,Truck,4WD,Automatic,Premium Unleaded,2.9,V,audi westwood,Providence Highway 375,Westwood,MA,2090
+6c033def-c5e4,3C6UR5DJ6JG169242,44479,58829,71060,2018,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,bill walsh ford-lincoln,2900 Columbus Street,Ottawa,IL,61350
+35a65573-3567,137ZA8432XE184672,,,SOLD,1999,Am General,Hummer,Base,SUV,Truck,4WD,Automatic,Diesel,6.5,V,sports car company,7447 La Jolla Blvd,La Jolla,CA,92037
+d62bfa70-d140,3C6UR5FJ4EG131270,,156680,18380,2014,RAM,Ram 2500 Pickup,Laramie,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,vehicles nashville,1938 Elm Hill Pike,Nashville,TN,37210
+22fb051e-148c,WDBNG83J66A484665,7731,99520,D0336A,2006,Mercedes-Benz,S-Class,S430,Sedan,Car,4WD,Automatic,Premium Unleaded,4.3,V,hugh white honda,1360 Auto Mall Dr,Columbus,OH,43228
+ba558caa-835a,MAJ3P1RE5JC202111,16172,30866,14204-1,2018,Ford,Ecosport,S,Crossover,Truck,FWD,Automatic,Unleaded,1,I,lithia vip,150 N. Bartlett St.,Medford,OR,97501
+115c2608-f91a,4JGDA7EB3JB164023,83318,5843,JB164023,2018,Mercedes-Benz,GLE-Class,AMG® GLE63,SUV,Truck,4WD,Automatic,Premium Unleaded,5.5,V,mercedes-benz,2411 South Federal Highway,Fort Lauderdale,FL,33316
+a4f9c210-ee24,WDDNG7BB0AA338458,14900,132626,338458,2010,Mercedes-Benz,S-Class,S550,Sedan,Car,RWD,Automatic,Premium Unleaded,5.5,V,preferred imports,2415 4th Ave S,Birmingham,AL,35233
+91918ab2-7027,8BRPE7DD3GE122885,36997,45241,FV035459A,2016,Mercedes-Benz,Sprinter Passenger Van,Base,Passenger Van,Truck,RWD,Automatic,Diesel,2.1,I,herb chambers ford,75 Granite St,Braintree,MA,2184
+8ddfe5e2-7b96,SCBBB7ZH2BC015429,88995,55346,21-015429,2011,Bentley,Mulsanne,Base,Sedan,Car,RWD,Automatic,Premium Unleaded,6.8,V,alfa romeo of naples,1250 Airport-pulling Rd S,Naples,FL,34104
+d8e761c6-6d62,1GCWGFCA1D1140829,15990,185754,PCE140829,2013,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,mark wahlberg buick gmc,3895 W Broad St,Columbus,OH,43228
+0b52fa1a-acd2,1FAFP90S25Y401947,,2122,1947,2005,Ford,GT,Base,Coupe,Car,RWD,Manual,Premium Unleaded,5.4,V,desneux motorsports,11301 218Th Street,Peculiar,MO,64078
+b64999a4-d7d6,SAJWA73B44TG12918,14592,71929,FUG12918,2004,Jaguar,XJ Series,XJR,Sedan,Car,RWD,Automatic,Premium Unleaded,4.2,V,groove mazda,10301 East Arapahoe Road,Centennial,CO,80112
+d578af6a-5cd5,WBAYP9C53FD169616,32598,77537,TFD169616,2015,BMW,6 Series,650i,Convertible,Car,RWD,Automatic,Premium Unleaded,4.4,V,sonic automotive,4401 Colwick Road,Charlotte,NC,28211
+a0179a58-8e3a,ZFFEW59AX80158680,,10678,FM3092,2008,Ferrari,F430,Spider,Convertible,Car,RWD,Automatic,Premium Unleaded,4.3,V,ferrari of naples,11291 Tamiami Trail N,Naples,FL,34110
+8ac50c16-efa7,1GCPTEE19J1247470,,58073,36092B,2018,Chevrolet,Colorado,ZR2,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,ciocca chevrolet of west chester,715 Autopark Blvd,West Chester,PA,19382
+609b9c9b-e88f,3C6UR5DJ5KG620808,49995,38796,KG620808,2019,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,autonation cadillac port richey,9921 19,Port Richey,FL,34668
+28bd2e22-71b4,4JGDF7DE1GA697774,43490,53734,GA697774,2016,Mercedes-Benz,GL-Class,GL550,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,alm gwinnett,2520 Pleasant Hill Road,Duluth,GA,30096
+f0214786-ab44,KL79MPSL7MB016361,25524,9981,MG21307A,2021,Chevrolet,Trailblazer,LT,SUV,Truck,FWD,Automatic,Unleaded,1.3,I,hendrick chevrolet shawnee mission,8300 Shawnee Mission Parkway,Merriam,KS,66202
+e633c3c1-d158,ZACNJBD12KPK03645,23411,11027,AE21P061,2019,Jeep,Renegade,Limited,SUV,Truck,4WD,Automatic,Unleaded,1.3,I,west herr ford hamburg,5025 Camp Road,Hamburg,NY,14075
+4e5f160e-bc2d,SALSK25489A188647,12995,82592,188647,2009,Land Rover,Range Rover Sport,HSE,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,santa monica suvs,2515 Lincoln Blvd,Santa Monica,CA,90405
+4b4248a6-9d6d,WDDLJ9BBXEA125561,31649,50059,ATEA125561,2014,Mercedes-Benz,CLS-Class,CLS550,Coupe,Car,4WD,Automatic,Premium Unleaded,4.7,V,audi denver,6060 South Broadway,Littleton,CO,80121
+3da12a45-4405,4JGBF8GE9BA645603,14995,105328,645603,2011,Mercedes-Benz,GL-Class,GL550,SUV,Truck,4WD,Automatic,Premium Unleaded,5.5,V,miami imports,14341 N.w. 7th Ave,Miami,FL,33168
+c54f57e6-e605,WMEEJ3BA4DK652495,6997,57540,DK652495,2013,smart,fortwo,passion,Coupe,Car,RWD,Automatic,Premium Unleaded,1,I,driver's mart,1970 Florida 436,Winter Park,FL,32792
+0ec6d21b-04b5,1FMFU17528LA23405,,113326,A3746K,2008,Ford,Expedition,Eddie Bauer,SUV,Truck,RWD,Automatic,Unleaded,5.4,V,moss motor company inc,1005 S Cedar Ave,South Pittsburg,TN,37380
+d18671c4-bb68,1GCPTEE15K1333117,37997,16175,B3117P,2019,Chevrolet,Colorado,ZR2,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,nexgen motors,986 North State Street,Orem,UT,84057
+a883dee0-5170,WBA7F0C53JGM23679,73900,,,2018,BMW,7 Series,750i,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,"rides of the palm beaches,inc",4115 South Dixie Highway,West Palm Beach,FL,33405
+03e0c9a3-f043,1GNCS13W7XK120588,,,R4313,1999,Chevrolet,Blazer,LS,SUV,Truck,RWD,Automatic,Unleaded,4.3,V,giles motors,1915 Franklin Ave,Waco,TX,76701
+15471157-ca5c,WP0CA2A98DS140150,69950,20437,C1559,2013,Porsche,911,Carrera,Convertible,Car,RWD,Manual,Premium Unleaded,3.4,H,park place ltd,1880 136th Place Ne,Bellevue,WA,98005
+fa92d1a2-3241,KL8CD6S98EC515763,8999,73324,V15323,2014,Chevrolet,Spark,1LT,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,mcgrath ford,1040 N. Center Point Ne,Hiawatha,IA,52233
+f629a57a-7ce8,WBA6D6C57GG387962,40591,31720,B21214A,2016,BMW,6 Series,650i,Coupe,Car,4WD,Automatic,Premium Unleaded,4.4,V,ken garff automotive group,111 Broadway,Salt Lake City,UT,84111
+4432dc37-2907,WBAYE8C57FD782225,30734,59976,MB0562A,2015,BMW,7 Series,750Li,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,mercedes-benz of durham,110 Kentington Dr.,Durham,NC,27713
+04af1ef0-77f6,3C6UR5DJ8KG520606,,41443,B211216A,2019,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,bayway auto group,12333 Gulf Fwy.,Houston,TX,77034
+25feca91-fe0d,1GCPTDE13H1227834,,39384,12A3176A,2017,Chevrolet,Colorado,Z71,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,darcars kia of temple hills,4700 Branch Avenue,Temple Hills,MD,20748
+e5d9b2c1-b590,WDDNG7BB6AA331644,16995,106771,2339,2010,Mercedes-Benz,S-Class,S550,Sedan,Car,RWD,Automatic,Premium Unleaded,5.5,V,lee county motors,1431 Se 10th St,Cape Coral,FL,33990
+baa505d7-18c5,3C7WRTBJ4JG335785,34777,69791,O7529,2018,RAM,Ram 3500 Chassis Cab,Tradesman,Chassis Cab,Truck,4WD,Automatic,Unleaded,6.4,V,daystar chrysler dodge jeep ram,206 S. Carrollton Street,Malvern,OH,44644
+7d4a8217-19b4,WUAC6AFH8EN900477,36153,55684,A4243,2014,Audi,RS 5,Base,Convertible,Car,4WD,Automatic,Premium Unleaded,4.2,V,zeigler pre-owned of chicago,6539 Ogden Avenue,Berwyn,IL,60402
+2a81b1f2-0c14,3C6UR5DJXJG336718,46995,23192,A2367,2018,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,sterling automotive group,125 Southcity Parkway,Lafayette,LA,70503
+3b8be174-5d4f,WMEAK00F35J185019,,153680,J185019,2005,smart,Fortwo,Base,Convertible,Car,,,,0.8,,wix auto finance,920 Fm 518,Kemah,TX,77565
+e0785982-f5e5,SALSK25467A998985,9885,125680,ROV07S,2007,Land Rover,Range Rover Sport,HSE,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,all stars motors,7311 Mission Street,Daly City,CA,94014
+c5efc5db-c33c,1GTP6FE16M1123464,,3673,GP373,2021,GMC,Canyon,AT4,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,richland cadillac,2601 W 2nd,Roswell,NM,88201
+db643186-63cc,1GCPTDE17L1123534,44991,11298,L1123534J,2020,Chevrolet,Colorado,Z71,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,lithia vip,150 N. Bartlett St.,Medford,OR,97501
+ba218fa7-8fec,3C6UR5DJ4LG155729,47989,49675,LG155729,2020,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,autonation ford east,28825 Euclid Ave,Wickliffe,OH,44092
+f7ce0f5f-4ea0,1FBSS3BL8ADA61641,,127000,A61641,2010,Ford,E-Series Econoline Wagon,XLT,Passenger Van,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,perez autoplex,7963 Bellfort Avenue,Houston,TX,77061
+f3d5006a-a194,ZHWUD4ZF3KLA12689,,10700,GC-MIR330,2019,Lamborghini,Huracan,Performante,Coupe,Car,4WD,Automatic,Premium Unleaded,5.2,V,rolls-royce motor cars gold coast,834 North Rush Street,Chicago,IL,60611
+cde0b19f-14eb,4JGDF7DE8JB019539,59495,59942,MA428181A,2018,Mercedes-Benz,GLS-Class,GLS550,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,mercedes-benz of fort walton beach,1000 Beal Parkway Nw,Fort Walton Beach,FL,32547
+7eb13c3f-0a46,KL8CB6S9XFC765755,10998,34998,141601A,2015,Chevrolet,Spark,LS,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,herb chambers honda in boston,720 Morrissey Boulevard,Boston,MA,2122
+80f84ab1-711b,4JGDF7CE8DA227156,,,12158,2013,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,car emporium,7328 East Appleway Boulevard,Spokane,WA,99212
+ca65b34d-7b60,WDDNG7EB8BA403716,33999,78862,AMS1030,2011,Mercedes-Benz,S-Class,S63 AMG,Sedan,Car,RWD,Automatic,Premium Unleaded,5.5,V,atlanta motorsports,10390 Alpharetta Street # 510,Roswell,GA,30075
+e69c0451-61b8,WBA6B2C51ED129174,35990,20431,2000979257,2014,BMW,6 Series,650i,Coupe,Car,RWD,Automatic,Premium Unleaded,4.4,V,carvana kansas city,4691 Calle Joven,Oceanside,CA,92057
+7c5f69c5-a58d,WDBSK77F27F119745,25500,75875,P2318.H6122,2007,Mercedes-Benz,SL-Class,SL600,Roadster,Car,RWD,Automatic,Premium Unleaded,5.5,V,grand tour garage,8777 Holiday Springs Road,Rockledge,FL,32955
+67022a97-bc79,2GTEC13V871177775,13900,,313843,2007,GMC,Sierra Classic 1500,SL2,Pickup,Truck,RWD,Automatic,Unleaded,4.8,V,trans all auto & truck sales,7160 Edgewater Drive,Orlando,FL,32810
+ba1bdba8-c9e9,5UXKR6C55J0U14447,52884,29702,XAB2044,2018,BMW,X5,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,hendrick cadillac cary,101 Team Hendrick Way,Cary,NC,27511
+77852ab0-c5f3,JHMZE2H58CS004535,,82746,13828A,2012,Honda,Insight,LX,Hatchback,Car,FWD,Automatic,Electric / Unleaded,1.3,I,first national fleet and lease,12800 Aurora Avenue North,Seattle,WA,98133
+635e4914-3c44,3C6TR5EJ9JG247586,,24538,24870,2018,RAM,Ram 2500 Pickup,Power Wagon,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,phil long lincoln,1212 Motor City Drive,Colorado Springs,CO,80905
+71dca0d4-2ea7,1GCPTEE19K1215880,46500,8324,M80695A,2019,Chevrolet,Colorado,ZR2,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,rick hendrick jeep chrysler dodge ram fiat,8333 Rivers Ave,Charleston,SC,29406
+ae5eefec-ae80,ZHWUF5ZF9LLA14609,288516,2435,LLA14609,2020,Lamborghini,Huracan,EVO,Coupe,Car,4WD,Automatic,Premium Unleaded,5.2,V,lamborghini newport beach,44 Auto Center Drive,Irvine,CA,92618
+f1930585-740e,4JGDF7EEXEA354389,48250,44290,EA354389,2014,Mercedes-Benz,GL-Class,GL63 AMG®,SUV,Truck,4WD,Automatic,Premium Unleaded,5.5,V,porsche tulsa,9393 S. Memorial Dr.,Tulsa,OK,74133
+649a71e8-cc69,1FMJU2A53CEF05399,16490,116516,28154B,2012,Ford,Expedition,Limited,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,century auto and truck,214 South Main St Rte 5,East Windsor,CT,6088
+8a7374b0-2a63,WUAVNAFG6CN001262,89995,39296,CN001262,2012,Audi,R8,Base,Convertible,Car,4WD,Automatic,Premium Unleaded,5.2,V,elite imports,9318 Cincinnati Columbus Road,West Chester,OH,45069
+153ed477-979c,ML32F3FJ0KHF12540,,25419,8588,2019,Mitsubishi,Mirage G4,ES,Sedan,Car,FWD,Automatic,Unleaded,1.2,I,springfield mitsubishi reading,3814 Pottsville Pike,Reading,PA,19605
+031760d9-0094,1FTNE2EL1BDB28801,15699,27098,P18303,2011,Ford,E-Series Econoline Van,Commercial,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,honda of el cerrito,11755 San Pablo Ave,El Cerrito,CA,94530
+1046eb2b-e4e9,1FMFK17527LA02896,,165952,B12795R,2007,Ford,Expedition,Eddie Bauer,SUV,Truck,RWD,Automatic,Unleaded,5.4,V,sole savers medford,401 E 4th St,Medford,OR,97501
+dc987886-c4bf,4JGDF7CE8EA288315,21899,91036,G3353ARTL,2014,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,auto gallery mall of georgia,4135 Buford Drive,Buford,GA,30518
+0db1621e-2e12,1C3ADEBZ5DV400179,104907,7714,JO21B033,2013,Dodge,Viper,GTS,Coupe,Car,RWD,Manual,Premium Unleaded,8.4,V,bmw of rochester,4250 W Henrietta Rd,Rochester,NY,14623
+0fca5061-8c0b,3C6UR5DJXKG611019,45178,36516,P1201,2019,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,wischnewsky chrysler dodge jeep ram dealership,130 Ih 45 S,Huntsville,TX,77340
+c9325561-cfa7,JHMAP21455S008263,30495,36031,5S008263,2005,Honda,S2000,Base,Roadster,Car,RWD,Manual,Premium Unleaded,2.2,I,autonation chrysler dodge jeep ram pembroke pines,13601 Pines Blvd,Pembroke Pines,FL,33027
+e854c157-ce41,3C63R3AJ4JG103681,39299,48339,DP04668,2018,RAM,Ram 3500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,kunes ford lincoln of delavan,1234 E. Geneva Street,Delavan,WI,53115
+174fe2ef-e1a3,4JGDF7CE7EA398255,,106116,2491A,2014,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,duncan family cadillac,269 South Roane Street,Harriman,TN,37748
+166aca46-4801,3D7KS28C85G842901,22999,226682,21068A,2005,Dodge,Ram 2500 Pickup,SLT,Pickup,Truck,4WD,Manual,Diesel,5.9,I,crown auto world bristow,901 S Roland St,Bristow,OK,74010
+326ad9ce-5678,WDDJK7DA8JF050059,79992,16740,JF050059,2018,Mercedes-Benz,SL Roadster,SL550,Roadster,Car,RWD,Automatic,Premium Unleaded,4.7,V,mercedes-benz of pembroke pines,14199 Pines Boulevard,Pembroke Pines,FL,33027
+cf0ef8e0-825d,SCBBB7ZHXEC019832,139999,29400,8567,2014,Bentley,Mulsanne,Base,Sedan,Car,RWD,Automatic,Premium Unleaded,6.8,V,royal car center,3950 E Roosevelt Boulevard,Philadelphia,PA,19124
+1d489596-0307,KL8CD6S99EC522298,9995,38486,C4309LA,2014,Chevrolet,Spark,1LT,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,fair oaks lincoln,2055 West Ogden Avenue,Naperville,IL,60540
+3a5034f9-0fa4,WDDUG8FB3FA087986,53887,40195,FA087986P,2015,Mercedes-Benz,S-Class,S550,Sedan,Car,4WD,Automatic,Premium Unleaded,4.7,V,park avenue motor cars / mercedes-benz parts,1401 Town Road,Dresher,PA,19025
+9ff7040c-4e65,3C6UR5FJ4FG627915,47785,49297,38084A,2015,RAM,Ram 2500 Pickup,Laramie,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,valley auto group,1005 Ken Pratt Blvd,Longmont,CO,80501
+415fda8d-9bcb,3B7KF23611G181075,28990,137976,7189,2001,Dodge,Ram Pickup,SLT,Pickup,Truck,4WD,Manual,Diesel,5.9,I,m & m investment cars,2774 North Hayden Island Drive,Portland,OR,97217
+8a4de0b5-a0a2,WBA7F2C59JB238352,52999,38211,96532,2018,BMW,7 Series,750i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,armen chevrolet,125 E Lancaster Ave,Ardmore,PA,19003
+e22549d1-447f,1GCPTDE11G1197831,30629,60296,20183,2016,Chevrolet,Colorado,Z71,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,taz auto group,3590 North Carolina 87 S,Sanford,NC,27332
+c9618183-55f8,ZAMGJ45A290042361,45977,33379,2361,2009,Maserati,GranTurismo,Base,Coupe,Car,RWD,Automatic,Premium Unleaded,4.2,V,kelly motorcars,2880 Bergey Road Q,Hatfield,PA,19440
+4e22c6a8-6b15,WBA7F2C51JG423868,59987,26551,PB0272,2018,BMW,7 Series,ALPINA B7,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,hendrick chevrolet cary,100 Auto Mall Drive,Cary,NC,27511
+6e3dbf13-d04c,MAJ3S2KE2LC313605,19950,6961,300355P,2020,Ford,Ecosport,Titanium,Crossover,Truck,FWD,Automatic,Unleaded,1,I,butler honda,2631 N Columbia St,Milledgeville,GA,31061
+8c5bcf70-34dd,WBS6E9C57HG437447,56991,40527,B1636A,2017,BMW,M6 Gran Coupe,Base,Coupe,Car,RWD,Manual,Premium Unleaded,4.4,V,hendrick honda of charleston,1539 Savannah Highway,Charleston,SC,29407
+c00de2a3-d66e,3C6UR5NJ2EG123492,40998,,33209ZA,2014,RAM,Ram 2500 Pickup,Laramie,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,dave smith motors service,West Cameron Avenue,Kellogg,ID,83837
+dde8f04c-ea36,5LMEU27A91LJ02071,5995,107027,CT1095B,2001,Lincoln,Navigator,Luxury,SUV,Truck,RWD,Automatic,Unleaded,5.4,V,gilchrist chevrolet buick gmc,6014 S Tacoma Way,Tacoma,WA,98409
+c36ddb31-65af,3B7HF13Z0XG233738,,0,2998A,1999,Dodge,Ram Pickup,ST,Pickup,Truck,4WD,Manual,Unleaded,5.9,V,r & r auto group,388 Route 61s,Schuylkill Haven,PA,17972
+c38dc9b0-03dc,3C6UR5CJ7EG173842,30529,111387,P3542A,2014,RAM,Ram 2500 Pickup,Power Wagon ST,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,lake norman hyundai,20520 Chartwell Center Drive,Cornelius,NC,28031
+7ccd90a0-ee5d,3C6UR5DJ9JG257217,42999,66864,534039A,2018,RAM,Ram 2500 Pickup,Lone Star,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,allways chevrolet,102 S Front St,Mathis,TX,78368
+3c9c28bc-1317,5UXCX6C04M9E70073,115995,2701,VP21012,2021,BMW,X7,M50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,rudolph mazda,5415 Desert Blvd,El Paso,TX,79932
+91dc3cc0-5cf4,1FTWX31545EA33515,14966,102175,370591B,2005,Ford,F-350 Super Duty,XLT,Pickup,Truck,4WD,Automatic,Unleaded,5.4,V,darlings hyundai augusta,217 Old Winthrop Road,Augusta,ME,4330
+7a163224-7fa9,1FMFU20508LA34886,6000,295690,6406,2008,Ford,Expedition,Limited,SUV,Truck,4WD,Automatic,Unleaded,5.4,V,team hodges,2265 S M 76,West Branch,MI,48661
+eceb49e8-6b5f,1FDSF34575ED12465,14788,125258,PCAD12465,2005,Ford,F-350 Super Duty Chassis Cab,XL,Pickup,Truck,RWD,Manual,Unleaded,5.4,V,mark wahlberg chevrolet of worthington,700 E. Dublin Granville Rd,Worthington,OH,43085
+76612c0b-88d5,WMEEJ31XX9K326472,4777,86936,17738M,2009,smart,fortwo,pure,Hatchback,Car,RWD,Manual,Premium Unleaded,1,I,cumming chevrolet,2301 National City Blvd.,National City,CA,91950
+75c6e1bd-bce7,WMEEJ3BA1DK683428,6990,83501,U683428,2013,smart,fortwo,passion,Coupe,Car,RWD,Automatic,Premium Unleaded,1,I,speck nissan,61 E Allen Road,Sunnyside,WA,98944
+5036df3f-47dc,1G4HD57M69U147163,8995,58781,8069,2009,Buick,Lucerne,CXL,Sedan,Car,FWD,Automatic,E85 / Unleaded,3.9,V,tk auto sales,6904 E Sprague,Spokane,WA,99212
+f47f5cde-47bf,1G1JF524627412202,,197548,2202,2002,Chevrolet,Cavalier,LS,Sedan,Car,FWD,Automatic,Unleaded,2.2,I,auto connect,821 East 73Rd Avenue,Denver,CO,80229
+9222ee5b-1557,1GNET16S146167795,6999,153000,PO1640,2004,Chevrolet,TrailBlazer,LS,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,bryant auto sales,220 East Main Street,Centralia,WA,98531
+8a21879c-33fd,WBAFB33561LH23204,,128053,3124,2001,BMW,X5,Base,SUV,Truck,4WD,Automatic,Premium Unleaded / Unleaded,4.4,V,wilson auto sales,1130 Kietzke Ln.,Reno,NV,89502
+5a39960b-2240,1GTHK33G15F877267,15989,55448,54158B,2005,GMC,Sierra 3500,Standard,Pickup,Truck,4WD,Automatic,Unleaded,8.1,V,greg hubler chevrolet,13895 State Rd 67 N,Camby,IN,46113
+42eeb1cf-b0b4,3C63R3AJ9JG236078,,25123,P90660A,2018,RAM,Ram 3500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,key nissan of lebanon,51 Evans Drive,Lebanon,NH,3766
+6198c1d6-6e41,5LMFU28R63LJ05960,8995,139555,J05960,2003,Lincoln,Navigator,Luxury,SUV,Truck,4WD,Automatic,Premium Unleaded,5.4,V,dave's economy auto center,9690 Southwest Canyon Road,Portland,OR,97225
+7d42df96-4d2a,1GKDT13S332126541,4995,150453,9576B,2003,GMC,Envoy,SLT,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,anderson nissan,6555 East State Street,Rockford,IL,61108
+ec311775-6176,WDDNG9EB9CA440660,22495,93752,DC120008,2012,Mercedes-Benz,S-Class,S550,Sedan,Car,4WD,Automatic,Premium Unleaded,4.7,V,auto member,911 Edwards Ferry Road Northeast,Leesburg,VA,20176
+315fbc9b-2152,1B7GG22X7WS544055,6999,181310,544055,1998,Dodge,Dakota,Base,Pickup,Truck,4WD,Manual,Unleaded,3.9,V,auto credit sales,1425 Easton Rd,Warrington,PA,18976
+51f14543-70cb,WP0AA2A98FS106655,89881,13712,10297UX,2015,Porsche,911,Carrera,Coupe,Car,4WD,Manual,Premium Unleaded,3.4,H,porsche ontario,2262 Inland Empire Blvd,Ontario,CA,91764
+498214a6-ddda,ZACNJBC15LPL01104,33988,7112,61970,2020,Jeep,Renegade,Trailhawk,SUV,Truck,4WD,Automatic,Unleaded,1.3,I,mountain west auto,1220 Kietzke Ln,Reno,NV,89502
+5d136f89-6df2,WDDNG7GB4CA464396,45900,27000,PL4473G,2012,Mercedes-Benz,S-Class,S600,Sedan,Car,RWD,Automatic,Premium Unleaded,5.5,V,hendrick chevrolet monroe,3112 Hwy 74 West,Monroe,NC,28110
+57356bb1-5609,WDDJK7DA8JF054046,78523,24566,F054046A,2018,Mercedes-Benz,SL Roadster,SL550,Roadster,Car,RWD,Automatic,Premium Unleaded,4.7,V,mercedes-benz of nanuet,99 Route 304,Nanuet,NY,10954
+60e8d781-1d61,JTHFN48YX40051023,22500,58000,,2004,Lexus,SC,430,Convertible,Car,RWD,Automatic,Premium Unleaded,4.3,V,tred,220 Nw 8th Ave,Portland,OR,97209
+229cac2a-a0f9,4JGDF7CE9DA203903,19952,103628,DA203903,2013,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,mercedes-benz of houston north,17510 I-45 North Freeway,Houston,TX,77090
+dfa27390-0918,1FMPU16596LB01679,,227294,B01679,2006,Ford,Expedition,XLT,SUV,Truck,4WD,Automatic,Unleaded,5.4,V,auto wrangler,1801 N Bryant Blvd,San Angelo,TX,76903
+0518ba96-03c0,3C6UR5NJ0GG314105,47995,27955,VPG174,2016,RAM,Ram 2500 Pickup,Laramie,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,ken nelson nissan,928 North Galena Ave,Dixon,IL,61021
+6fb8521f-d681,1GCWGFCF1F1277445,24995,82404,3224,2015,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,five star auto sales,13738 Aurora Avenue North,Seattle,WA,98133
+2bd32fc6-5ce1,MAJ3S2GE9KC253877,19980,9550,BS0008A,2019,Ford,Ecosport,SE,Crossover,Truck,FWD,Automatic,Unleaded,1,I,dahl ford davenport inc,1310 E Kimberly Rd,Davenport,IA,52807
+80d5176f-1d02,WP0CB2A88DS132327,,20170,,2013,Porsche,Boxster,S,Roadster,Car,RWD,Manual,Premium Unleaded,3.4,H,"fawsitt motors, llc",5035 Beach Road H,Medina,OH,44256
+8ae7986f-e1e2,1FAHP60A63Y107172,11990,109289,U7172,2003,Ford,Thunderbird,Deluxe,Convertible,Car,RWD,Automatic,Premium Unleaded,3.9,V,woolwine ford,3040 Highway 49,Collins,MS,39428
+4a59944e-e845,KL8CB6S95EC495008,7525,92145,STK495008,2014,Chevrolet,Spark,LS,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,southtowne chevrolet buick gmc,695 Bullsboro Drive,Newnan,GA,30265
+bedadaba-81bd,WDDUG8FBXEA020459,44995,20488,BB21193A,2014,Mercedes-Benz,S-Class,S550,Sedan,Car,4WD,Automatic,Premium Unleaded,4.7,V,towne bmw,8215 Main St,Williamsville,NY,14221
+f71b53dc-a7bd,WMEFJ5DA6HK170291,,27736,HK170291NP,2017,smart,fortwo,pure,Coupe,Car,RWD,Manual,Premium Unleaded,0.9,I,lithia vip,150 N. Bartlett St.,Medford,OR,97501
+78cba1cc-1732,5UXKU6C5XK0Z66932,66990,23025,69097KBJA,2019,BMW,X6,50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,f.c. kerbeck buick gmc,100 Rte 73 N,Palmyra,NJ,8065
+e1b6176d-056c,1GKDT13S562299207,,,303733,2006,GMC,Envoy,SLT,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,ideal car solutions,3701 South Pennsylvania Ave,Oklahoma City,OK,73119
+fc0c53f8-2b68,WUASNAFG1EN000994,116495,34404,EN000994P,2014,Audi,R8,Base,Convertible,Car,4WD,Automatic,Premium Unleaded,5.2,V,audi west covina,2016 E Garvey Ave S,West Covina,CA,91791
+f194510a-a415,1FBSS31LX3HB82443,,223945,PD7608A,2003,Ford,E-Series Econoline Wagon,XL,Passenger Van,Truck,RWD,Automatic,Unleaded,5.4,V,titus-will used cars olympia,6504 Martin Way East,Olympia,WA,98516
+226ce742-3d3b,MAJ3P1TEXJC196945,,57334,P14250,2018,Ford,Ecosport,SE,SUV,Truck,FWD,Automatic,Unleaded,1,I,sutton ford,21315 Central Avenue,Matteson,IL,60443
+b9e23cc6-3cee,WMEFJ5DA9HK170107,9999,26625,HK170107P,2017,smart,fortwo,pure,Coupe,Car,RWD,Manual,Premium Unleaded,0.9,I,lithia vip,150 N. Bartlett St.,Medford,OR,97501
+00bf195b-965d,WBAYF8C51DDE59348,22765,86320,DDE59348,2013,BMW,7 Series,750Li,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,crown mini of richmond,8712 W. Broad St.,Richmond,VA,23294
+584202de-f616,WP0CA2992XS655749,23500,146318,JJ3398B,1999,Porsche,911,CARRERA,Convertible,Car,4WD,Manual,Premium Unleaded,3.4,H,jaguar indianapolis,4620 East 96Th Street,Indianapolis,IN,46240
+f25d43db-5513,SALAG25438A448433,,52000,,2008,Land Rover,LR3,HSE,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,benz & beamer,Po Box 1865,Tustin,CA,92781
+54a0116b-4448,1GCPTEE14K1224387,41490,36106,K1224387,2019,Chevrolet,Colorado,ZR2,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,atlanta luxury motors,1071 Cobb Pkwy Se,Marietta,GA,30060
+910b4510-9207,WDDXK8CB9HA023941,89777,37130,P51394,2017,Mercedes-Benz,S-Class,S550,Convertible,Car,RWD,Automatic,Premium Unleaded,4.7,V,darrell waltrip buick gmc,1440 Murfreesboro Road,Franklin,TN,37067
+2cb00b8d-beda,KL8CB6S92EC456568,8974,74860,L21G49B,2014,Chevrolet,Spark,LS,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,goldstein subaru,1754 Central Avenue,Albany,NY,12205
+0738e4f0-6c61,1GCWGFBA1E1205603,16995,117928,C4188A,2014,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,currie motors ford of valpo,2052 Morthland Drive,Valparaiso,IN,46385
+c43885ee-ff3e,WP1BB2AY9MDA46085,99990,2515,P21007,2021,Porsche,Cayenne Coupe,S,SUV,Truck,4WD,Automatic,Premium Unleaded,2.9,V,bmw of okemos,2777 Jolly Road,Okemos,MI,48864
+dffc3ebc-c540,1FTWX31R18EB93150,18995,98150,29620,2008,Ford,F-350 Super Duty,XLT,Pickup,Truck,4WD,Automatic,Diesel,6.4,V,half price cars,18225 Highway 99,Lynnwood,WA,98037
+1fe193b5-b533,4JGDF7DE1HA950318,56990,35229,HA950318,2017,Mercedes-Benz,GLS-Class,GLS550,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,autonation nissan pembroke pines,8890 Pines Blvd,Pembroke Pines,FL,33024
+e9941db8-6a90,3C6UR5CJ5GG101234,31000,81310,GG101234P,2016,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,lithia vip,150 N. Bartlett St.,Medford,OR,97501
+f6deb894-4be4,1GNEL19W3YB177725,,165810,9580010,2000,Chevrolet,Astro,Base,Minivan,Truck,4WD,Automatic,Unleaded,4.3,V,revvolution motorsports,1472 Saint Paul Avenue,Gurnee,IL,60031
+ac8cd9a5-71e1,1D7KS28CX6J166208,15495,234277,166208,2006,Dodge,Ram 2500 Pickup,SLT,Pickup,Truck,4WD,Manual,Diesel,5.9,I,silk city auto mall,290 Pennsylvania Avenue #,Paterson,NJ,7503
+a03d80f7-f28b,1GCPTEE12L1136522,47848,7556,SA7976,2020,Chevrolet,Colorado,ZR2,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,hendrick lexus kansas city,6935 W. Frontage Road,Merriam,KS,66203
+aea2dd71-9438,5LMFU28589EJ02049,7693,209654,43276A,2009,Lincoln,Navigator,Base,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,dunning toyota ann arbor,3745 Jackson Road,Ann Arbor,MI,48103
+ac99438b-0e47,WP0CA29911S653188,18900,58189,S653188,2001,Porsche,911,Carrera,Convertible,Car,RWD,Automatic,Premium Unleaded,3.4,H,best auto group,98-360 Kamehameha Hwy,Aiea,HI,96701
+ae09d3d2-f16a,3C6UR5DJ1KG626119,41995,38684,X4017,2019,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,blasius south,280 Ferry Blvd.,Stratford,CT,6615
+78a144c4-df41,5UXKR6C34H0U13685,43097,28011,20356016,2017,BMW,X5,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,carmax cockeysville,10130 York Road,Cockeysville,MD,21030
+808c4e2a-e2ef,1FMPU17525LA95513,,0,0,2005,Ford,Expedition,Eddie Bauer,SUV,Truck,RWD,Automatic,Unleaded,5.4,V,premium auto sales llc,3301 Gallatin Pike,Nashville,TN,37216
+0094adb2-75ff,WDCYC7DF4DX207466,85900,30059,207466,2013,Mercedes-Benz,G-Class,G63 AMG®,SUV,Truck,4WD,Automatic,Premium Unleaded,5.5,V,foreign auto connect,1202 S. Walnut St.,Bloomington,IN,47401
+db4c819c-a035,WBA7F0C53JGM23228,54977,40258,PN5679,2018,BMW,7 Series,750i,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,hendrick lexus kansas city,6935 W. Frontage Road,Merriam,KS,66203
+b0fccb88-36b9,WP1AD2A2XDLA78549,35999,75282,W6987,2013,Porsche,Cayenne,GTS,SUV,Truck,4WD,Automatic,Premium Unleaded,4.8,V,a luxury autos,3350 S. State Rd 7,Miramar,FL,33023
+98e32f0e-b5f6,5YMKW8C57J0Y74609,63192,39730,TJ0Y74609,2018,BMW,X6 M,Base,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,audi flatirons,13321 West Midway Blvd,Broomfield,CO,80020
+321ea6a1-a690,1G1AT58H097286819,7999,55304,CWT211758A,2009,Chevrolet,Cobalt,LT,Sedan,Car,FWD,Automatic,Unleaded,2.2,I,west herr lincoln,2600 Millersport Highway,Getzville,NY,14068
+312bbf0c-7bba,4JGBF7BE1BA632216,16998,124847,21T716A,2011,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,fox mazda,3538 29th St Se,Grand Rapids,MI,49512
+c9b3fdf6-cc4b,2G1WW12E349269931,5995,127609,ET9926,2004,Chevrolet,Monte Carlo,LS,Coupe,Car,FWD,Automatic,Unleaded,3.4,V,extreme auto plaza,1453 E 14th St,Des Moines,IA,50316
+5849858e-6029,1D7KS28C36J237149,,188572,D21615A2,2006,Dodge,Ram 2500 Pickup,SLT,Pickup,Truck,4WD,Manual,Diesel,5.9,I,milton dodge,6348 Highway 90 West,Milton,FL,32570
+64cda12b-1895,1G2ZM551664165096,5977,150314,,2006,Pontiac,G6,GTP,Sedan,Car,FWD,Automatic,Unleaded,3.9,V,off-road automotive,1392 Denver Ave.,Fort Lupton,CO,80621
+02d4b450-8cb0,3C7WR9CJ9GG128741,28890,159262,R21-54,2016,RAM,Ram 3500 Chassis Cab,Tradesman,Chassis Cab,Truck,4WD,Automatic,Unleaded,6.4,V,gross chrysler-dodge-jeep-ram of black river falls,1009 Commerce Drive,Black River Falls,WI,54615
+a2aadef4-86b9,ZFF90HLA6K0240698,439900,2218,11092B,2019,Ferrari,488,Pista,Coupe,Car,RWD,Automatic,Premium Unleaded,3.9,V,the collection,200 Bird Rd,Miami,FL,33146
+5d8df3fc-e073,1D7HL38N63S177520,6998,112070,F0219A,2003,Dodge,Dakota,Sport,Pickup,Truck,RWD,Automatic,Unleaded,4.7,V,hawk cadillac of joliet,2001 W. Jefferson Street,Joliet,IL,60435
+29612ef0-41eb,3D7MS48C45G791272,19990,188794,21447B,2005,Dodge,Ram 3500 Pickup,SLT,Pickup,Truck,4WD,Manual,Diesel,5.9,I,denny menholt rapid chevrolet,2323 E. Mall Drive,Rapid City,SD,57701
+dadb1be9-a850,WBSJF0C50JB284061,92950,17726,84970X,2018,BMW,M5,Base,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,prestige imports,14780 Biscayne Blvd,Miami,FL,33181
+060745a3-8075,3C6TR5EJ7HG569458,,40188,P12397B,2017,RAM,Ram 2500 Pickup,Power Wagon,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,davenport used car superstore,4618 North Brady Street,Davenport,IA,52806
+cdf00369-95c1,WBAKA8C59ACY35846,12950,82054,1092,2010,BMW,7 Series,750i,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,all in auto group,938 Hamner Avenue,Norco,CA,92860
+65845d3f-e1a8,5LMJJ2J54CEL08523,15800,116826,79-21,2012,Lincoln,Navigator,Base,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,x auto llc,10473 66th Street N,Pinellas Park,FL,33782
+f1028bfa-abb1,3C6UR5DJ2KG693666,47623,21383,89554,2019,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,green dodge kia subaru nissan,3801 Wabash Avenue,Springfield,IL,62711
+98454948-013b,1FTWW33R48ED72248,,152908,21250A,2008,Ford,F-350 Super Duty,FX4,Pickup,Truck,4WD,Manual,Diesel,6.4,V,scott evans nissan,725 Bankhead Hwy,Carrollton,GA,30117
+ac8c423b-5cc8,ML32F4FJXKHF02751,12855,18967,15339A,2019,Mitsubishi,Mirage G4,SE,Sedan,Car,FWD,Automatic,Unleaded,1.2,I,bell road mitsubishi,1901 E Bell Rd,Phoenix,AZ,85022
+1fb19039-f18b,MAJ3P1TE8JC228128,16673,23473,299984A,2018,Ford,Ecosport,SE,Crossover,Truck,FWD,Automatic,Unleaded,1,I,jeff wyler chevrolet of columbus,5885 Gender Rd Rte 33,Canal Winchester,OH,43110
+951768be-bfae,WBY1Z4C53GV508046,24000,39145,SA11077,2016,BMW,i3,Mega World,Hatchback,Car,RWD,Automatic,Electric / Premium Unleaded,0.6,I,darrell waltrip honda,1430 Murfreesboro Road,Franklin,TN,37067
+e3e7591a-df2d,1GNCS13W912124309,7900,32175,2001CHEVYBLAZERLT,2001,Chevrolet,Blazer,LT,SUV,Truck,RWD,Automatic,Unleaded,4.3,V,707 truck sales,Call,San Antonio,TX,78233
+07f59273-f89f,5YMGY0C56CLK27413,40977,55043,7413,2012,BMW,X5,M,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,kelly motorcars,2880 Bergey Road Q,Hatfield,PA,19440
+a800653c-bb89,WBAYE8C56ED134602,22234,94929,2100978A,2014,BMW,7 Series,750Li,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,chapman value center scottsdale,7100 East Mcdowell Road,Scottsdale,AZ,85257
+89755379-321f,ZAMFE39A770030501,19799,40824,G00972,2007,Maserati,Quattroporte,Executive GT,Sedan,Car,RWD,Automatic,Premium Unleaded,4.2,V,hawk ford of oak lawn,6100 W. 95th Street,Oak Lawn,IL,60453
+828a18ba-cd46,KL8CB6S97FC752977,8995,74517,P11275,2015,Chevrolet,Spark,LS,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,kearny mesa chrysler dodge jeep ram,8010 Balboa Avenue,San Diego,CA,92111
+5c125a49-1fda,1FMJU1H5XAEB68453,11495,114990,GLB68453TX,2010,Ford,Expedition,Eddie Bauer,SUV,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,tx auto group,5803 Richmond Avenue,Houston,TX,77057
+e56c4f43-c881,WDDUG8FB1HA313543,63393,37482,UM1875,2017,Mercedes-Benz,S-Class,S550,Sedan,Car,4WD,Automatic,Premium Unleaded,4.7,V,astorg motor company,2908 7th Street,Parkersburg,WV,26102
+1b738714-c629,3C6UR5CJ3GG118534,32472,94291,P0333,2016,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,winnie dodge chrysler jeep ram,125 State Highway 124,Winnie,TX,77665
+36c49b7a-0c94,3C6UR5DJ2KG610804,46998,23612,J21305,2019,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,key ford of york,422 1,York,ME,3909
+a751d466-878f,WP1AB2AY5LDA28113,86898,7291,P20A28113NL,2020,Porsche,Cayenne,S,SUV,Truck,4WD,Automatic,Premium Unleaded,2.9,V,downtown automotive,1900 South Figueroa Street,Los Angeles,CA,90007
+5518e345-9ba9,3C63R3CJ8HG707306,39988,62012,21098B,2017,RAM,Ram 3500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,mercedes-benz of bowling green,325 Three Springs Road,Bowling Green,KY,42104
+d1f53be0-67f7,3C6UR5FJ2EG302744,32000,196138,P1865C,2014,RAM,Ram 2500 Pickup,Power Wagon Laramie,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,gabriel/jordan buick gmc,1500 N Hwy 259,Kilgore,TX,75662
+b0d4dce6-8809,KL79MPSL7MB016361,25524,9981,MG21307A,2021,Chevrolet,Trailblazer,LT,SUV,Truck,FWD,Automatic,Unleaded,1.3,I,darrell waltrip honda,1430 Murfreesboro Road,Franklin,TN,37067
+f64f6ad0-0560,5UXZV8C57D0C15767,15000,121752,P12704C,2013,BMW,X5,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,pilson auto center of charleston,1506 18Th Street,Charleston,IL,61920
+cb743f11-3bb1,WDDJK7DA0JF052128,77987,35902,P52128,2018,Mercedes-Benz,SL Roadster,SL550,Roadster,Car,RWD,Automatic,Premium Unleaded,4.7,V,hendrick dodge cary,81 Mackenan Drive,Cary,NC,27511
+d74b7367-24e4,3B7KF23ZX1G748815,,115834,96954,2001,Dodge,Ram Pickup,SLT,Pickup,Truck,4WD,Manual,Unleaded,5.9,V,brandl auto connection,559 Highway 10 South,Saint Cloud,MN,56304
+1b4ebc72-bf8c,MAJ3S2GE2KC274697,18397,27825,K8848,2019,Ford,Ecosport,SE,Crossover,Truck,FWD,Automatic,Unleaded,1,I,paramount kia of hickory,1205 S Center St,Hickory,NC,28602
+e0168f98-8ddb,WDCYC7DH4JX285310,126149,33767,44499MP,2018,Mercedes-Benz,G-Class,AMG G63,SUV,Truck,4WD,Automatic,Premium Unleaded,5.5,V,ganley toyota,1395 East Market Street,Akron,OH,44305
+ad9b3266-d263,1FMFU18L53LA88299,,217245,CGB0015B,2003,Ford,Expedition,Eddie Bauer,SUV,Truck,4WD,Automatic,Unleaded,5.4,V,sheehy infiniti of chantilly,4145 Auto Park Circle,Chantilly,VA,20151
+a24e6271-bdc9,1GNDT33SX92131212,,122022,21B10081B,2009,Chevrolet,TrailBlazer,3LT,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,seelye ford,3820 Stadium Drive,Kalamazoo,MI,49008
+c5ccb652-65cb,1GCWGFBA3D1156810,13499,169440,156810,2013,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,signalauto,14064 Foothill Boulevard Sylmar,Los Angeles,CA,91342
+267978b8-cd35,ZC2FP1107KB203902,7995,75935,1,1989,Chrysler,Turbo,Turbo,Convertible,,FWD,Automatic,,2.2,,d & d auto sales of onsted,271 S Main St,Onsted,MI,49265
+11183c3a-b9e1,WDDNG9EBXDA507204,20095,52305,,2013,Mercedes-Benz,S-Class,S550,Sedan,Car,4WD,Automatic,Premium Unleaded,4.7,V,direct auto sales llc,18076 Territorial Road,Maple Grove,MN,55369
+c522484a-f800,MAJ3P1TE0JC168443,17595,47664,1030233243,2018,Ford,Ecosport,SE,Crossover,Truck,FWD,Automatic,Unleaded,1,I,drivetime automotive group inc,502 Cobb Pkwy Se,Marietta,GA,30060
+f3b027e3-aca9,3C6TR5EJ3HG692464,47995,67428,A1909,2017,RAM,Ram 2500 Pickup,Power Wagon,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,auto express alfa romeo fiat of erie,9030 Peach Street,Waterford,PA,16441
+a037f5fd-b9cb,WDCYC3HF0FX242057,,79916,590,2015,Mercedes-Benz,G-Class,G550,SUV,Truck,4WD,Automatic,Premium Unleaded,5.5,V,paragon automotive,5048 Boulevard,Virginia Beach,VA,23462
+82bd61ab-0279,1FMJU1F56EEF24289,,103958,EF24289S,2014,Ford,Expedition,XL,SUV,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,stanley ford sweetwater,603 Sw Georgia Ave.,Sweetwater,TX,79556
+c68d1af4-f036,1FTWW33F72EA22299,26999,153475,5584,2002,Ford,F-350 Super Duty,XLT,Pickup,Truck,4WD,Automatic,Diesel,7.3,V,cypress auto center,1160 Grass Valley Highway,Auburn,CA,95603
+b9a80dc0-ca9d,5UXFG8C56DL591997,18980,95290,20098B,2013,BMW,X6,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,sakelaris ford of california,108 Buchanan,California,MO,65018
+2da07b42-fca9,5UXJU4C04M9F40563,86252,3328,P33180,2021,BMW,X5,M50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,hendrick toyota concord,7670 Bruton Smith Blvd,Concord,NC,28027
+49e6a7dc-ea4b,1GCPTCE18H1320097,36599,36456,DG3215,2017,Chevrolet,Colorado,LT,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,haselwood chevrolet buick gmc,501 W Hills Blvd,Bremerton,WA,98312
+6616d5fb-2389,1GCZGTCA4B1183652,15995,133000,6626,2011,Chevrolet,Express Cargo,Base,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,manassas auto truck,7216 Centreville Rd,Manassas,VA,20111
+1a7d68b0-dcca,1FMJU1H50CEF09958,,153238,R-F09958,2012,Ford,Expedition,King Ranch,SUV,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,bas motors,6535 Bissonnet St,Houston,TX,77074
+a50f47c9-5e8a,3GNDA23D16S605520,7095,,T0634,2006,Chevrolet,HHR,LT,Mini Mpv,Car,FWD,Manual,Unleaded,2.2,I,carhop auto sales & finance,945 South Memorial Drive,Tulsa,OK,74112
+0815d8d1-267d,1GCWGBFP7L1131981,31500,26444,P14971,2020,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,Unleaded,4.3,V,bachman hyundai,630 Broadway Street,Jeffersonville,IN,47130
+82adb413-bef4,3C6MR5AJ2KG673695,41995,22167,10916,2019,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,prestige auto sales,N8890 Highway 57,Brillion,WI,54110
+7a35bd87-ebed,WBA6B4C54DDG67994,22950,103850,11113,2013,BMW,6 Series,650i,Coupe,Car,4WD,Automatic,Premium Unleaded,4.4,V,"the autothority in evansville, in",4017 East Eichel Avenue,Evansville,IN,47715
+b2061b9b-b310,WDDUG7JB7FA069055,64999,40550,,2015,Mercedes-Benz,S-Class,S63 AMG®,Sedan,Car,4WD,Automatic,Premium Unleaded,5.5,V,exotic car trader | car marketplace | sell your car,1205 Northeast 9Th Avenue,Fort Lauderdale,FL,33304
+9217f0a4-790e,WP0AE2A7XKL123352,96915,8900,L008173G,2019,Porsche,Panamera,4 E-Hybrid,Hatchback,Car,4WD,Manual,Electric / Premium Unleaded,2.9,V,aston martin denver,1850 Lucent Court,Highlands Ranch,CO,80129
+6105fa39-e2ec,JTHBN30F320079102,6995,192336,25977,2002,Lexus,LS,430,Sedan,Car,RWD,Automatic,Premium Unleaded,4.3,V,del sol auto sales,13304 Highway 99,Everett,WA,98204
+a9df6d5f-7629,1FTWF30518EA26983,,125657,26983,2008,Ford,F-350 Super Duty,XL,Pickup,Truck,RWD,Manual,Unleaded,5.4,V,a express auto sales inc,40081 Highway 19 North,Tarpon Springs,FL,34689
+af307749-1b03,WBY7Z8C5XJVB86999,26561,28750,1BA1221,2018,BMW,i3,s,Hatchback,Car,RWD,Automatic,Electric / Premium Unleaded,0.6,I,schomp automotive group,1045 S State St,Salt Lake City,UT,84111
+60b4e04a-42f8,3C6UR5CJ4LG104698,49399,16168,D61352,2020,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,jim glover chrysler dodge jeep ram fiat,10505 N Owasso Expy,Owasso,OK,74055
+70c49501-3198,WBY7Z8C54JVB86772,27898,29421,BB7351,2018,BMW,i3,s,Hatchback,Car,RWD,Automatic,Electric / Premium Unleaded,0.6,I,herb chambers dodge portal,107 Andover Street,Danvers,MA,1923
+60abaa1c-cbe8,2G1WF52E259316018,,136097,105595,2005,Chevrolet,Impala,Base,Sedan,Car,FWD,Automatic,Unleaded,3.4,V,in line auto sales inc.,3930 Green Boulevard,Naples,FL,34116
+e36a4641-8e61,ZARFAEAVXH7551642,69999,31234,100AR,2017,Alfa Romeo,Giulia,Quadrifoglio,Sedan,Car,RWD,Automatic,Premium Unleaded,2.9,V,classic connections,3112 South Memorial Drive,Greenville,NC,27834
+3a945cbb-7765,MAJ3P1TE0JC178258,19245,29415,AP52110,2018,Ford,Ecosport,SE,Crossover,Truck,FWD,Automatic,Unleaded,1,I,capital ford inc,4900 Capital Blvd.,Raleigh,NC,27616
+19afa96a-0590,1FD9X4HN0MEC42320,,,20-7473,2021,Ford,F-450 Super Duty Chassis Cab,XL,Chassis Cab,Truck,4WD,Automatic,Unleaded,7.3,V,bob thomas ford commercial vehicle center,320 West Coliseum Blvd,Fort Wayne,IN,46805
+72c13255-1c09,3C6UR4HJ7JG356106,37250,13079,P18304,2018,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,RWD,Automatic,Unleaded,6.4,V,diamond valley honda,300 Carriage Cir,Hemet,CA,92545
+06eab98d-b468,WP0AB29847U781384,33700,27569,3110,2007,Porsche,Cayman,S,Coupe,Car,RWD,Manual,Premium Unleaded,3.4,H,vip auto inc.,5104 Park Dr 104,Fredericksburg,VA,22408
+61397e17-ca69,WDDUG8FB1HA337793,53699,53464,,2017,Mercedes-Benz,S-Class,S550,Sedan,Car,4WD,Automatic,Premium Unleaded,4.7,V,vroom,2103 Citywest Boulevard Suite #1100,Houston,TX,77042
+51dc3f28-03d5,WBA7F0C57JGM23684,54999,32311,LJGM23684,2018,BMW,7 Series,750i,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,beverly hills bmw,5070 Wilshire Blvd,Los Angeles,CA,90036
+018da6ec-dc39,WP1AB2AY4KDA65619,89991,7650,3044639,2019,Porsche,Cayenne,S,SUV,Truck,4WD,Automatic,Premium Unleaded,2.9,V,sloane automotive group,527 North Easton Road,Glenside,PA,19038
+8151fc81-72e5,JTHFN48Y769008337,10995,162016,SE03220,2006,Lexus,SC,430,Convertible,Car,RWD,Automatic,Premium Unleaded,4.3,V,deluxe auto dealer,8122 Bolsa Ave,Midway City,CA,92655
+9c5cfd2f-aff9,5UXKR6C37H0U13468,42900,31244,MU447,2017,BMW,X5,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,mcgovern chrysler jeep dodge ram,777 Washington St,Newton,MA,2460
+3022a23b-5f88,1GAZGPFF6G1232591,17995,80000,232591,2016,Chevrolet,Express,Base,Passenger Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,corner auto sales,103 Terrace Ave,Coldwater,OH,45828
+cbca456a-b8ff,2G1WF52E649263791,,120606,1221C,2004,Chevrolet,Impala,Base,Sedan,Car,FWD,Automatic,Unleaded,3.4,V,dan cummins chevrolet buick of georgetown,1470 Cherry Blossom Way,Georgetown,KY,40324
+0943d2e2-42a7,1G8AL55F67Z174547,2400,132208,,2007,Saturn,ION,3,Sedan,Car,FWD,Automatic,Unleaded,2.2,I,barrett's automart,644 W East Church Street,Angier,NC,27501
+0ab258e7-f62a,MAJ3S2GE7KC269821,22897,7192,269821,2019,Ford,Ecosport,SE,Crossover,Truck,FWD,Automatic,Unleaded,1,I,forest chrysler dodge jeep,1126 Highway 35 North,Forest,MS,39074
+de00ff5f-0e36,3C6UR5DJ8KG688911,,55076,19380,2019,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,hayes of baldwin,3656 Highway 365,Alto,GA,30510
+1513b041-a092,3C6UR5CJ6JG345112,40124,37235,5690292C,2018,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,jeff wyler chrysler jeep dodge of lawrenceburg,875 E Eads Pkwy,Lawrenceburg,IN,47025
+cee36bba-b438,WBA7U2C00LGJ59393,81411,22100,MB1442A,2020,BMW,7 Series,750i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,rick hendrick chevrolet norfolk,6252 E. Virginia Beach Blvd,Norfolk,VA,23502
+dfacc377-9108,WBSJF0C51KB284684,91395,20950,E8094,2019,BMW,M5,Base,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,"d-patrick, inc.",200 N. Green River Rd.,Evansville,IN,47715
+7012446f-54ee,1C4SDJGJ2JC474677,59281,28259,GAC9900,2018,Dodge,Durango,SRT,SUV,Truck,4WD,Automatic,Premium Unleaded,6.4,V,capital ford rocky mount,2012 Stone Rose Dr,Rocky Mount,NC,27804
+af4434ab-bcae,5LMFU27525LJ18383,9295,126654,JJJ18383,2005,Lincoln,Navigator,Luxury,SUV,Truck,RWD,Automatic,Premium Unleaded,5.4,V,o bros motors,450 Cobb Pkwy North,Marietta,GA,30062
+08d9eaf3-50df,1GNDT13S552121945,,166285,5L681A,2005,Chevrolet,TrailBlazer,LT,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,sid dillon chevrolet - fremont,2500 East 23rd Street,Fremont,NE,68025
+fa059d68-dbb9,WDDNG71X37A054084,12498,139466,U054084,2007,Mercedes-Benz,S-Class,S550,Sedan,Car,RWD,Automatic,Premium Unleaded,5.5,V,mercedes-benz of the woodlands,16917 Interstate 45 South,The Woodlands,TX,77385
+b5cd6dc5-c845,ML32A3HJ5KH014312,11795,35994,CP4349,2019,Mitsubishi,Mirage,ES,Hatchback,Car,FWD,Manual,Unleaded,1.2,I,andy mohr nissan,4302 Lafayette Rd,Indianapolis,IN,46254
+cf8ffff3-571d,KL8CB6S94FC750748,7999,94400,20024B,2015,Chevrolet,Spark,LS,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,ramey ford princeton,498 Courthouse Rd.,Princeton,WV,24740
+116ea5b4-c318,WDDLJ9BB5DA083055,24992,72583,A083055,2013,Mercedes-Benz,CLS-Class,CLS550,Coupe,Car,4WD,Automatic,Premium Unleaded,4.7,V,penskecars.com,2555 Telegraph Road,Bloomfield,MI,48302
+f0c043bc-c91e,1FMNU40L2YEA74705,,257894,7949A,2000,Ford,Excursion,XLT,SUV,Truck,RWD,Automatic,Unleaded,5.4,V,auto boutique,16800 Feather Craft Lane,Houston,TX,77058
+c54e0aba-dbd9,5UXJU2C5XKLN64797,65813,53997,B0558,2019,BMW,X5,50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,sewell family of companies,4400 Parks Legado Rd,Odessa,TX,79765
+f6a0fee3-7eee,ML32F3FJ7JHF04403,11998,14757,C34379,2018,Mitsubishi,Mirage G4,ES,Sedan,Car,FWD,Manual,Unleaded,1.2,I,mcgrath chrysler jeep dodge ram,4610 Center Point Rd Ne,Cedar Rapids,IA,52402
+3944e66a-c62b,3C6UR5FJ1FG502127,41300,93713,FG502127DW,2015,RAM,Ram 2500 Pickup,Laramie,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,anderson automotive group,9101 Glenwood Avenue,Raleigh,NC,27617
+a08a3b84-bb25,3C6UR5JJ2HG611755,29995,132499,R611755,2017,RAM,Ram 2500 Pickup,Big Horn/Lone Star,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,best deal auto sales - import,2541 Goshen Rd,Fort Wayne,IN,46808
+56470f93-746f,4JGDF7DE8JB083645,58890,44298,ST1222,2018,Mercedes-Benz,GLS-Class,GLS550,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,delaney nissan of state college,3280 W College Ave,State College,PA,16801
+ccd32160-8852,1G8AL55F06Z170198,1795,160000,,2006,Saturn,ION,3,Sedan,Car,FWD,Automatic,Unleaded,2.2,I,rj motors,511 West Route 34,Plano,IL,60545
+e5816279-4fe1,JTHFN48Y469004603,12295,173901,112256,2006,Lexus,SC,430,Convertible,Car,RWD,Automatic,Premium Unleaded,4.3,V,taz auto group,3590 North Carolina 87 S,Sanford,NC,27332
+7e965e01-aaf2,WBSFV9C54FD594609,44811,63162,PSB4597,2015,BMW,M5 Sedan,Base,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,hendrick acura,6824 E Independence Blvd,Charlotte,NC,28227
+a48d67ac-8b8f,WP1AB2AY4KDA62641,87888,10241,SKDA62641,2019,Porsche,Cayenne,S,SUV,Truck,4WD,Automatic,Premium Unleaded,2.9,V,momentum volkswagen,2405 Richmond Ave,Houston,TX,77098
+c4d30c14-3012,WDDXJ8FB2GA013894,66995,32946,GA013894,2016,Mercedes-Benz,S-Class,S550,Coupe,Car,4WD,Automatic,Premium Unleaded,4.7,V,mercedes-benz of delray,1001 Linton Boulevard,Delray Beach,FL,33444
+213d5d8c-cbb0,WDDNG76XX7A091092,16999,119972,91589A,2007,Mercedes-Benz,S-Class,S600,Sedan,Car,RWD,Automatic,Premium Unleaded,5.5,V,crown honda,7671 U.s. Hwy. 19 N,Pinellas Park,FL,33781
+ac6367f3-6513,3C6UR5DJ7GG173325,31833,118393,1H5530D,2016,RAM,Ram 2500 Pickup,Big Horn/Lone Star,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,darcars volkswagen,12511 Prosperity Drive,Silver Spring,MD,20904
+a2f5eb55-ab9b,WUASUAFG1CN003037,87888,19340,3655,2012,Audi,R8,Base,Convertible,Car,4WD,Automatic,Premium Unleaded,4.2,V,oc autosource-costa mesa,3060 Bristol St,Costa Mesa,CA,92626
+2bc594b6-47bb,ZFF82WNA8L0249623,350995,1189,FM249623,2020,Ferrari,488,GTC4Lusso,Coupe,Car,4WD,Automatic,Premium Unleaded,6.3,V,new country motor car group,992 New Loudon Rd,Latham,NY,12110
+8e5dac3a-8b85,ZFBNFYC14LP846427,22991,7398,P10618A,2020,FIAT,500X,Sport,Crossover,Truck,4WD,Automatic,Unleaded,1.3,I,palmer dodge chrysler jeep ram,11460 Alpharetta Hwy,Roswell,GA,30076
+dcc067e5-febb,MAJ3P1TE0JC166546,,11223,P5513,2018,Ford,Ecosport,SE,SUV,Truck,FWD,Automatic,Unleaded,1,I,"mathews lincoln sandusky, inc.",610 East Perkins Avenue,Sandusky,OH,44870
+000eb1e7-50a4,WP1AB2A24CLA40688,21687,111173,CLA40688,2012,Porsche,Cayenne,S,SUV,Truck,4WD,Automatic,Premium Unleaded,4.8,V,audi south orlando,4725 Vineland Rd,Orlando,FL,32811
+fb0c1cc3-e6e1,4JGBF7BEXAA611220,13995,136973,3M1220,2010,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,j & s autohaus six,1853 Burlington Mount Holly Rd,Mount Holly,NJ,8060
+9b244ef7-d67f,1FMJK2A56AEA71580,,211713,JP121142A,2010,Ford,Expedition,Limited,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,fitzgerald chevrolet,114 Baughmans Lane,Frederick,MD,21702
+38d84784-f073,5UXKR6C51J0U15238,52977,42302,PN5671,2018,BMW,X5,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,hendrick lexus charlotte,6025 E Independence Blvd,Charlotte,NC,28212
+4eea53a9-a2dc,1FDXE4FS0HDC26362,79900,10300,,2017,Ford,E-Series Cutaway,Base,Cutaway,Truck,RWD,Automatic,Unleaded,6.8,V,417 coachworks,1551 West Skyline Avenue,Ozark,MO,65721
+f7602431-546f,WDCYC7DF4GX244828,109900,23796,,2016,Mercedes-Benz,G-Class,AMG® G63,SUV,Truck,4WD,Automatic,Premium Unleaded,5.5,V,marshall goldman beverly hills,8825 Wilshire Boulevard,Beverly Hills,CA,90211
+80475314-7ec9,WBA7F2C55GG418424,36800,59128,005009EB,2016,BMW,7 Series,750i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,darcars volkswagen,12511 Prosperity Drive,Silver Spring,MD,20904
+d5423bb7-929e,1GNDS13S952137407,5998,143948,52137407,2005,Chevrolet,TrailBlazer,LS,SUV,Truck,RWD,Automatic,Unleaded,4.2,I,autonation ford margate,5401 West Copans Road,Margate,FL,33063
+1063ec97-92c2,3C63R3HJXKG613296,51995,19898,P10235,2019,RAM,Ram 3500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,power mazda,3230 Market St,Salem,OR,97301
+0dbb8cb8-74ef,3GNBABFW4BS584340,9995,95963,584340,2011,Chevrolet,HHR,LT,Mini Mpv,Car,FWD,Automatic,E85 / Unleaded,2.2,I,auto action az,1909 West Van Buren Street,Phoenix,AZ,85006
+7d255ed0-9257,3C6MR5AJ5MG512065,42850,900,C8208,2021,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,karl malone chrysler dodge jeep ram,46 East 200 South,Heber,UT,84032
+4e2660a9-33ea,1D7KS28C46J244899,25984,93179,KU244899,2006,Dodge,Ram Pickup,SLT,Pickup,Truck,4WD,Manual,Diesel,5.9,I,mileone autogroup,9808 Reisterstown Rd,Owings Mills,MD,21117
+8a74a788-3811,WBA7F2C59GG416238,40500,46897,GG416238,2016,BMW,7 Series,750i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,nalley toyota union city,4115 Jonesboro Road,Union City,GA,30291
+3bc8a1fa-9d5a,1GNDT13S442205950,7999,129189,M1101B,2004,Chevrolet,TrailBlazer,LT,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,"fairway lincoln, inc.",555 W. Meadows,Freeport,IL,61032
+87685f33-b180,WDDJK7DA5LF058672,94900,9914,M32172R,2020,Mercedes-Benz,SL Roadster,SL550,Roadster,Car,RWD,Automatic,Premium Unleaded,4.7,V,hoehn acura,5556 Paseo Del Norte,Carlsbad,CA,92008
+baae890b-7d05,1G1AS58HX97259789,4812,96676,CPT4490,2009,Chevrolet,Cobalt,LS,Sedan,Car,FWD,Manual,Unleaded,2.2,I,heiser automotive group,1700 W Silver Spring Dr,Glendale,WI,53209
+b69d1a17-fa7c,1GCSGAFX4D1176340,8900,168413,,2013,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,Unleaded,4.3,V,primerides auto,2929 South Avenue,Garland,TX,75041
+472df0d3-2016,KL79MPSL9MB004101,27650,3079,M65852A,2021,Chevrolet,Trailblazer,LT,SUV,Truck,FWD,Automatic,Unleaded,1.3,I,rick hendrick chevrolet duluth,3277 Satellite Blvd. Nw,Duluth,GA,30096
+4a9cc982-05b6,1GNDS13S452197465,4911,160000,P30038A,2005,Chevrolet,TrailBlazer,LS,SUV,Truck,RWD,Automatic,Unleaded,4.2,I,serra kia of jackson,175 Stonebridge Blvd.,Jackson,TN,38305
+7641427d-f3dd,3C6UR5DJ8KG610824,45995,24985,M24966,2019,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,don bessette hyundai,1715 North Broadway,Minot,ND,58703
+089a9ecc-901a,WDDNG7DB9DA537025,29590,61801,2000852785,2013,Mercedes-Benz,S-Class,S550,Sedan,Car,RWD,Automatic,Premium Unleaded,4.7,V,carvana kansas city,1123 Cantrell Sansom Rd,Blue Mound,TX,76131
+19cf04ce-c78c,1G1AK52F957521626,5400,81727,P2166B,2005,Chevrolet,Cobalt,LS,Sedan,Car,FWD,Manual,Unleaded,2.2,I,stevens point volkswagen,3733 Stanley Street,Stevens Point,WI,54481
+423e2bd8-dd02,5UXFG8C5XEL592958,26999,51614,TEL592958,2014,BMW,X6,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,audi central houston,2120 Southwest Fwy,Houston,TX,77098
+115b4769-f3fb,ZACNJBD11KPK22445,26485,5157,M21590A,2019,Jeep,Renegade,Limited,SUV,Truck,4WD,Automatic,Unleaded,1.3,I,palmen fiat,5309 75Th St,Kenosha,WI,53142
+d53364c2-8be7,ML32A3HJ5EH005968,9988,78401,NP0438A,2014,Mitsubishi,Mirage,DE,Hatchback,Car,FWD,Manual,Unleaded,1.2,I,first team honda,3444 Western Branch Blvd,Chesapeake,VA,23321
+b8b930e4-8c6b,WDBSK7BA0BF163473,32999,29414,P67890A,2011,Mercedes-Benz,SL-Class,SL550,Roadster,Car,RWD,Automatic,Premium Unleaded,5.5,V,rick hendrick chevrolet,1500 Savannah Hwy,Charleston,SC,29407
+36254997-d75e,WBSJF0C56KB447216,92995,19975,FM3088,2019,BMW,M5,Base,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,wide world maserati,101 East New York 59,Spring Valley,NY,10977
+166b4b86-3053,1GCGG25C781171553,,118106,171553,2008,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,Unleaded,4.8,V,economy vans auto inc.,1002 East Thompson Lane,Nashville,TN,37211
+9dc97df5-f742,3C6TR5EJ6JG222709,51995,69156,59544A,2018,RAM,Ram 2500 Pickup,Power Wagon,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,"ed hicks imports, ltd.",3102 South Padre Island Drive,Corpus Christi,TX,78415
+ce27bd51-49f9,ML32F3FJ5JHF02634,11456,26496,SF90173A,2018,Mitsubishi,Mirage G4,ES,Sedan,Car,FWD,Manual,Unleaded,1.2,I,key auto center of somersworth,221 Route 108,Somersworth,NH,3878
+f2c9891d-475f,1GCWGFBA8D1102855,11000,200777,F8944A,2013,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,uebelhor toyota,788 W. 12Th Avenue,Jasper,IN,47546
+200dc5e0-3b32,ZFF83CLA7K0246239,375000,1015,NP4656A,2019,Ferrari,812,Base,Coupe,Car,RWD,Automatic,Premium Unleaded,6.5,V,ferrari of fort lauderdale,5750 N Federal Hwy,Fort Lauderdale,FL,33308
+25da33e6-43ef,WBAHN835X6DT39129,,1,4200R,2006,BMW,7 Series,750Li,Sedan,Car,RWD,Automatic,Premium Unleaded,4.8,V,palmetto wholesale cars,3507 South Okatie Highway # A,Hardeeville,SC,29927
+afb2861a-1c3a,1FD8X3HN5LED52350,54900,11824,P7996,2020,Ford,F-350 Super Duty Chassis Cab,XL,Chassis Cab,Truck,4WD,Automatic,Unleaded,7.3,V,kirk auto company,235 Sw Frontage Rd.,Grenada,MS,38901
+ba26d2b8-4791,1G8JU54F12Y500252,3500,146334,H553342B,2002,Saturn,L-Series,L200,Sedan,Car,FWD,Automatic,Unleaded,2.2,I,international honda,4000 N Frontage Rd,Sheboygan,WI,53081
+85b819e1-d089,MAJ3P1RE0JC219298,15918,49289,76544A,2018,Ford,Ecosport,S,Crossover,Truck,FWD,Automatic,Unleaded,1,I,karl chevrolet of stuart,324 Sw 8th Street,Stuart,IA,50250
+9246f02d-a6c3,3C6TR5EJ6JG222709,51995,69156,59544A,2018,RAM,Ram 2500 Pickup,Power Wagon,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,hicks family nissan,3002 Ih I-69 Access Road,Robstown,TX,78380
+442bdc2e-6e24,ZACNJAD12KPK27034,21930,2106,Q51488,2019,Jeep,Renegade,Limited,SUV,Truck,FWD,Automatic,Unleaded,1.3,I,fury jeep stillwater,12969 North 60th Street,Oak Park Heights,MN,55082
+11c392a9-5863,MAJ3S2GE7KC292192,16374,14310,96458A,2019,Ford,Ecosport,SE,Crossover,Truck,FWD,Automatic,Unleaded,1,I,capital ford rocky mount,2012 Stone Rose Dr,Rocky Mount,NC,27804
+8e0978ba-4841,4JGDF7FE6JB122326,77500,46655,JB122326,2018,Mercedes-Benz,GLS,AMG GLS63,SUV,Truck,4WD,Automatic,Premium Unleaded,5.5,V,audi creve coeur,Olive Blvd. 11830,Creve Coeur,MO,63141
+db7adf80-ee3c,1C4SDJGJ1MC556484,73972,5938,Z4143,2021,Dodge,Durango,SRT 392,SUV,Truck,4WD,Automatic,Premium Unleaded,6.4,V,sharp cars of indy,10320 E Pendleton Pike,Indianapolis,IN,46236
+14c5ef77-4723,WBAKB8C59CC962984,14200,96342,AK4147,2012,BMW,7 Series,ALPINA B7,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,atlanta unique auto sales,6280 Buford Hwy,Norcross,GA,30071
+211a32c9-c8ac,1GKES16S066133513,4989,175061,66133513,2006,GMC,Envoy,SLT,SUV,Truck,RWD,Automatic,Unleaded,4.2,I,clay maxey nwa,1161 W Henri De Tonti Blvd,Springdale,AR,72762
+6fabe752-3060,1GHDX13E5YD347557,4950,151584,OLDS6306,2000,Oldsmobile,Silhouette,Premiere Edition,Minivan,Truck,FWD,Automatic,Unleaded,3.4,V,larry's auto sales of paragould,1910 Purcell Rd,Paragould,AR,72450
+aba80ca7-0a27,4JGDF7DEXHA907483,49998,49387,M21-10A,2017,Mercedes-Benz,GLS-Class,GLS550,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,sycamore dodge chrysler jeep ram,1825 Dekalb Ave,Sycamore,IL,60178
+2d720361-6f05,ML32F3FJ8LHF00623,12995,12531,M21434A,2020,Mitsubishi,Mirage G4,ES,Sedan,Car,FWD,Manual,Unleaded,1.2,I,matt blatt kia of toms river,1070 Rte 37 W,Toms River,NJ,8755
+e649d867-09ea,1D7RW3BP7BS667274,11992,142506,T07092A,2011,RAM,Dakota,Big Horn (Lone Star),Pickup,Truck,4WD,Automatic,E85 / Unleaded,4.7,V,nelson subaru,4730 Virginia Ave,Bassett,VA,24055
+95c5b94f-12a2,5UXKR6C50JL069469,50500,18566,AB3069,2018,BMW,X5,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,mcgovern subaru,85 Gosling Rd,Newington,NH,3801
+ddf57300-5b1c,3C7WRSBJ7GG116712,32853,40488,16679,2016,RAM,Ram 3500 Chassis Cab,Tradesman,Chassis Cab,Truck,RWD,Automatic,Unleaded,6.4,V,southfield chrysler dodge jeep ram,28100 Telegraph Road,Southfield,MI,48034
+fc9d02bc-258f,KL8CD6S9XFC809327,8395,63638,210548B,2015,Chevrolet,Spark,1LT,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,mills chevy,6600 Elmore Ave,Davenport,IA,52807
+daa3925a-df6d,JTHBN36F165040444,9399,187568,65040444,2006,Lexus,LS,430,Sedan,Car,RWD,Automatic,Premium Unleaded,4.3,V,nalley toyota union city,4115 Jonesboro Road,Union City,GA,30291
+8127dcf6-3fd2,WDDLJ9BB6DA085302,,73249,16738A,2013,Mercedes-Benz,CLS-Class,CLS550,Coupe,Car,4WD,Automatic,Premium Unleaded,4.7,V,fuccillo automotive group,1974 Alvin Road,Grand Island,NY,14072
+34cd71a8-62d7,2G1WF52E219372762,3995,104882,,2001,Chevrolet,Impala,base,Sedan,Car,FWD,Automatic,Unleaded,3.4,V,ritz auto sales,503 Broadway St.,Paintsville,KY,41240
+9b161949-b9e7,1B4HS28N7YF121316,2599,197322,1852,2000,Dodge,Durango,SLT,SUV,Truck,4WD,Automatic,Unleaded,4.7,V,world wide automotive,2017 West 12Th Street,Sioux Falls,SD,57104
+b6b3c4c9-98d8,KL8CA6S95EC443106,9998,51836,20245112,2014,Chevrolet,Spark,LS,Hatchback,Car,FWD,Manual,Unleaded,1.2,I,carmax dulles,45210 Towlern Place,Sterling,VA,20165
+e5e1ec4d-11f4,KL8CD6S92FC765890,9938,38556,HW21L085A,2015,Chevrolet,Spark,1LT,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,west herr toyota of williamsville,8129 Main Street,Williamsville,NY,14221
+6b79f347-2d85,5YMKT6C52J0Y83747,64901,46363,J0Y83747,2018,BMW,X5 M,Base,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,rockwall chrysler dodge jeep ram,970 E Interstate 30,Rockwall,TX,75087
+f8fff66f-19dc,WDDNG7EB0BA403760,29000,74784,,2011,Mercedes-Benz,S-Class,S63 AMG,Sedan,Car,RWD,Automatic,Premium Unleaded,5.5,V,upgrade motorz,1624 Broadway Street,Vallejo,CA,94590
+96786f73-6f41,MAJ3P1TE1JC159203,20669,12776,20978P,2018,Ford,Ecosport,SE,SUV,Truck,FWD,Automatic,Unleaded,1,I,lakeland ford,1430 West Memorial Boulevard,Lakeland,FL,33815
+ceabaa83-12fa,4JGBF7BE4BA647986,16055,159645,B117986,2011,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,ciocca dealerships,750 South West End Boulevard,Quakertown,PA,18951
+7b40ce66-153d,3C6UR5DJ4JG367544,50418,52466,MN722967A,2018,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,brenham chrysler jeep dodge,1880 Highway 290 W,Brenham,TX,77833
+e03b38a9-10ab,5UXJU4C02LLE46070,77995,18174,DM02541A,2020,BMW,X5,M50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,rick hendrick chevrolet duluth,3277 Satellite Blvd. Nw,Duluth,GA,30096
+fc590ed6-8736,4JGDF7DE5FA512625,20908,147749,FA512625,2015,Mercedes-Benz,GL-Class,GL550,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,autonation chevrolet austin,11400 Research Blvd,Austin,TX,78759
+cd093805-fe1d,3C6TR5EJ9LG267081,67950,12028,R50218,2020,RAM,Ram 2500 Pickup,Power Wagon,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,future nissan of roseville,600 Automall Dr,Roseville,CA,95661
+9b872754-f30b,5UXFE83598L098388,,134641,98388,2008,BMW,X5,4.8i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.8,V,murfree motors inc.,913 Old Fort Parkway,Murfreesboro,TN,37129
+55ccfd5e-535e,1FBSS3BLXBDB01431,7999,206019,ID B01431,2011,Ford,E-Series Econoline Wagon,XLT,Passenger Van,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,motors trust,9704 Nw 27 Ave,Miami,FL,33147
+76a35903-41ea,5UXCX4C50KLS38325,85973,19735,M02526A,2019,BMW,X7,50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,hendrick chrysler jeep fiat,543 N Mcpherson Church Rd,Fayetteville,NC,28303
+aaa68e00-9f19,MAJ3S2GE3KC276586,18988,26689,276586,2019,Ford,Ecosport,SE,Crossover,Truck,FWD,Automatic,Unleaded,1,I,cbs quality cars,1331 S. Miami Blvd.,Durham,NC,27703
+a458b723-8e1f,WBA6D4C57JD981383,62900,5507,JD981383,2018,BMW,6 Series Gran Coupe,650i,Coupe,Car,RWD,Automatic,Premium Unleaded,4.4,V,nalley toyota stonecrest,7969 Mall Parkway,Lithonia,GA,30038
+e9a8ba0e-4c95,KL8CB6S93FC707647,7833,92090,BJ07647,2015,Chevrolet,Spark,LS,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,ray price ford,2971 Route 940,Mount Pocono,PA,18344
+68ee5a3c-6f68,1GCWGAFF4H1121059,27400,34893,PC121059,2017,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,lou bachrodt mazda,5400 N State Rd 7,Coconut Creek,FL,33073
+a6a783b5-a0e5,1FDFE4FS8EDA13506,20500,78800,WP07193506,2014,Ford,E-Series Cutaway,Base,Cutaway,Truck,RWD,Automatic,Unleaded,6.8,V,star auto,1450 S Beretania St,Honolulu,HI,96814
+bcb7d72a-5dbf,5UXFG83539LZ93922,,68339,Z93922,2009,BMW,X6,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,socal auto auctions,1304 Mildred Street B,Ontario,CA,91761
+9e4768f9-2967,1GCPTEE13K1283253,45988,52444,K1283253P,2019,Chevrolet,Colorado,ZR2,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,lithia auto stores,150 North Bartlett,Medford,OR,97501
+03d1e15e-61c3,1FMNE1BL5BDB38452,,26000,,2011,Ford,E-Series Econoline Wagon,XLT,Passenger Van,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,supreme motors,4301 Oak Circle 19,Boca Raton,FL,33431
+463a8233-8bb4,4JGDF7DEXHA924025,54999,45963,20174025,2017,Mercedes-Benz,GLS-Class,GLS550,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,ciocca honda in harrisburg,8001 Allentown Blvd.,Harrisburg,PA,17112
+f0f2fbcd-b578,3C6UR5DJXJG166392,43866,66057,JR22744A,2018,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,websmartused,5049 West Ridge Road,Spencerport,NY,14559
+25af3acd-7122,WP0AA2A99DS108072,66980,23442,20N105A,2013,Porsche,911,Carrera,Coupe,Car,RWD,Manual,Premium Unleaded,3.4,H,porsche buffalo,8135 Main Street,Williamsville,NY,14221
+0f3fed83-69a1,JT8BL69S610005713,,169239,SOR-654B,2001,Lexus,GS,430,Sedan,Car,RWD,Automatic,Premium Unleaded,4.3,V,pye kia of dalton,2801 East Walnut Avenue,Dalton,GA,30721
+77ea9619-42b3,4JGDF7DE5HA989526,64000,29257,903893,2017,Mercedes-Benz,GLS-Class,GLS550,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,hgreg infiniti monrovia,821 E Central Ave,Monrovia,CA,91016
+36534784-49c9,WUAPWAF51KA901948,69495,10518,PHG7314,2019,Audi,RS 5 Coupe,Base,Coupe,Car,4WD,Automatic,Premium Unleaded,2.9,V,motor werks honda,1475 S. Barrington Rd,Barrington,IL,60010
+69da38e2-33bb,1GNDT13W9Y2223711,2987,314446,R1940,2000,Chevrolet,Blazer,LS,SUV,Truck,4WD,Automatic,Unleaded,4.3,V,strawberry road auto sales,3602 Strawberry Road,Pasadena,TX,77504
+4e490159-2f2e,JM1FE17P490400614,4950,122000,O10297,2009,Mazda,RX-8,Grand Touring,Coupe,Car,RWD,Manual,Premium Unleaded,2.6,,opal auto group,13535 Vargon Street,Dallas,TX,75243
+1658cec1-aa72,3C6UR5CJ6HG553078,,69512,553078,2017,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,harpswell auto sales inc,248 Harpswell Island Rd,Harpswell,ME,4079
+100fd9a5-8d36,5YMKT6C54J0Y83619,75996,23858,P2410,2018,BMW,X5 M,Base,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,rick hendrick chevrolet duluth,3277 Satellite Blvd. Nw,Duluth,GA,30096
+da795eb5-ff38,WP1AB2AY9KDA61355,81956,1425,W11696,2019,Porsche,Cayenne,S,SUV,Truck,4WD,Automatic,Premium Unleaded,2.9,V,hi tech motorcars,12971 Pond Springs Rd.,Austin,TX,78729
+84645cd1-6b01,SCBBT7ZH2LC004462,299998,559,B1804,2020,Bentley,Mulsanne,Speed,Sedan,Car,RWD,Automatic,Premium Unleaded,6.8,V,herb chambers alfa romeo of boston,525 Boston Post Rd,Wayland,MA,1778
+a533554a-6dd2,1G3NL52E23C326291,2555,203535,5526,2003,Oldsmobile,Alero,GL1,Sedan,Car,FWD,Automatic,Unleaded,3.4,V,access auto llc,6725 4th St Nw,Albuquerque,NM,87107
+8dad1083-a208,1FMNU42S43EA17709,7995,195883,ea17709,2003,Ford,Excursion,Limited,SUV,Truck,RWD,Automatic,Unleaded,6.8,V,seth lee auto sales - tavares,204 W Burleigh Blvd,Tavares,FL,32778
+d6d73193-297a,1GCWGAFFXH1127089,22447,80883,0CC2552A,2017,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,lafontaine chrysler dodge jeep ram of saline,900 West Michigan Ave,Saline,MI,48176
+feca254b-f65b,MAJ3P1RE1JC188790,18997,20833,F092312A1,2018,Ford,Ecosport,S,Crossover,Truck,FWD,Automatic,Unleaded,1,I,future ford of roseville,650 Auto Mall Dr,Roseville,CA,95661
+414faa3c-747f,1G6DM57T870195605,8396,57938,U005601,2007,Cadillac,CTS,2.8,Sedan,Car,RWD,Automatic,Unleaded,2.8,V,fred beans ford of doylestown,876 North Easton Road,Doylestown,PA,18901
+92b61e76-f6b0,1FDXE4FS7HDC35950,39995,70579,P28690,2017,Ford,E-Series Cutaway,Base,Cutaway,Truck,RWD,Automatic,Unleaded,6.8,V,power newport chrysler jeep dodge,1217 North Coast Hwy 101,Newport,OR,97365
+3532a3bb-3544,1FMFK18518LA74897,13995,126277,201782A,2008,Ford,Expedition,Eddie Bauer,SUV,Truck,4WD,Automatic,Unleaded,5.4,V,chapman choice,4646 E. 22nd St.,Tempe,AZ,85283
+e4b6df1c-9812,1FMFU16518LA40388,8995,227267,P5085C,2008,Ford,Expedition,XLT,SUV,Truck,4WD,Automatic,Unleaded,5.4,V,lewis toyota of hays,4440 Vine Street,Hays,KS,67601
+60ac79d8-ea93,1G1JC524227298370,,90232,73991,2002,Chevrolet,Cobalt,Base,Sedan,Car,FWD,Manual,Unleaded,2.2,I,page toyota,21262 Telegraph Rd,Southfield,MI,48033
+177186c9-42d6,1FAHP60AX2Y115399,20499,45486,P45399,2002,Ford,Thunderbird,Deluxe,Convertible,Car,RWD,Automatic,Premium Unleaded,3.9,V,darrell waltrip honda,1430 Murfreesboro Road,Franklin,TN,37067
+7d4482bc-a1b5,1A8HW58P99F701638,8292,177885,DH20291A,2009,Chrysler,Aspen,Limited,SUV,Truck,4WD,Automatic,Unleaded,4.7,V,one stop auto consulting,405 W Southern Ave,Tempe,AZ,85282
+eb40e6f3-b4b1,WP1AB2AY1KDA63536,79998,20249,R46458A,2019,Porsche,Cayenne,S,SUV,Truck,4WD,Automatic,Premium Unleaded,2.9,V,audi burlington,62 Cambridge St,Burlington,MA,1803
+1b7a9759-5626,2G1WL52M8X9101312,,206431,3U673AA,1999,Chevrolet,Lumina,LS,Sedan,Car,FWD,Automatic,Unleaded,3.1,V,young ford of brigham city,323 South Main Street,Brigham City,UT,84302
+e57dee11-f143,WDDEJ7EB4DA030775,34500,99578,A4114,2013,Mercedes-Benz,CL-Class,CL63 AMG®,Coupe,Car,RWD,Automatic,Premium Unleaded,5.5,V,zeigler chrysler dodge jeep ram of schaumburg,208w.golfrd,Schaumburg,IL,60195
+53c2f034-85c4,1GCHC33J4XF008481,9995,132583,80366AY,1999,Chevrolet,C3500,CHEYENNE,Pickup,Truck,RWD,Manual,Unleaded,7.4,V,billion mazda,3405 South Westport Ave.,Sioux Falls,SD,57106
+88b7fe70-6719,ML32A3HJ6KH000273,,23785,M0468A,2019,Mitsubishi,Mirage,ES,Hatchback,Car,FWD,Manual,Unleaded,1.2,I,douglass volkswagen,3100 Briarcrest Dr.,Bryan,TX,77802
+37f20caf-81a4,WBA7F2C53KB240731,67000,20319,N10139,2019,BMW,7 Series,750i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,patrick cars,526 Mall Drive,Schaumburg,IL,60173
+9d76ac44-652d,3C6UR5GJ8EG106404,38497,148134,EG106404,2014,RAM,Ram 2500 Pickup,Limited,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,bob howard chrysler jeep dodge ram,13252 Broadway Ext,Oklahoma City,OK,73114
+bf9107d6-5c2a,WBS6C9C57EDV73550,42854,44603,0Y83805A,2014,BMW,6 Series,M6,Coupe,Car,RWD,Automatic,Premium Unleaded,4.4,V,morgan auto group,3031 N Rocky Point Dr W 770,Tampa,FL,33607
+dfb3f7c3-52db,WAURV78T89A034238,16200,111150,1233,2009,Audi,S5,Base,Coupe,Car,4WD,Manual,Premium Unleaded,4.2,V,queen city classics,9118 Cincinnati Columbus Rd.,West Chester,OH,45069
+64ea133b-d650,MAJ3S2GE0KC262208,18800,5745,P5501,2019,Ford,Ecosport,SE,Crossover,Truck,FWD,Automatic,Unleaded,1,I,basil ford of niagara falls,6980 Niagara Falls Blvd.,Niagara Falls,NY,14304
+d41d244f-56f7,1GCWGFCA8B1166552,11450,176434,371,2011,Chevrolet,Express Cargo,Work Van,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,4.8,V,destination motors,508 N Meridian,Puyallup,WA,98371
+73275a88-51a6,4JGDF7DE8KB186226,71991,9142,KB186226,2019,Mercedes-Benz,GLS-Class,GLS550,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,shamaley ford,11301 Gateway Blvd,El Paso,TX,79936
+b5904c44-a262,1GCPTDE13H1227834,32621,39384,12A3176A,2017,Chevrolet,Colorado,Z71,Pickup,Truck,4WD,Automatic,Diesel,2.8,I,darcars toyota of silver spring,12210 Cherry Hill Rd,Silver Spring,MD,20904
+81df27ce-a74f,3C6UR5DJXKG621114,47588,25402,E0726,2019,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,blaise alexander buick gmc of hazleton,508 Susquehanna Blvd,Hazle Township,PA,18202
+e9767cea-d795,WBA7F2C57JB238513,59999,26524,MA287A,2018,BMW,7 Series,750i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,mag bmw of dublin,5825 Venture Drive,Dublin,OH,43017
+8f309c0e-c0c7,WBA7F0C57JGM23863,49873,45199,M23863,2018,BMW,7 Series,750i,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,morgan auto group,3031 N Rocky Point Dr W 770,Tampa,FL,33607
+9798b09e-f628,1FDFE4FS2FDA03295,9995,200000,MB1fdfe4,2015,Ford,E-Series Cutaway,Base,Cutaway,Truck,RWD,Automatic,Unleaded,6.8,V,mid-atlantic truck center inc,525 West Avenue,Linden,NJ,7036
+3c724c1a-bdea,1FTWW32F0YEC64877,17688,120500,LT5768AA,2000,Ford,F-350 Super Duty,XL,Pickup,Truck,RWD,Automatic,Diesel,7.3,V,berwyn kia,7050 Ogden Avenue,Berwyn,IL,60402
+66043562-17c6,1J8HG58N18C236378,10995,167000,20-409,2008,Jeep,Commander,Limited,SUV,Truck,4WD,Automatic,E85 / Unleaded,4.7,V,woods motor company llc,4790 E Dee Woods Rd,Ashland,MO,65010
+075dc35a-8f1f,5UXKR6C52G0J82821,34987,43300,G0J82821,2016,BMW,X5,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,lexus of santa fe,6824 Cerrillos Rd,Santa Fe,NM,87507
+a0b84025-56d6,WBS83CH06MCG29441,121977,2670,MN768A,2021,BMW,M5,Base,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,bmw of southpoint,225 Kentington Dr,Durham,NC,27713
+89b3c818-5c39,3C6UR5MJ1FG651088,40888,43390,C0242A,2015,RAM,Ram 2500 Pickup,Big Horn/Lone Star,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,camden chevrolet buick,260 W Main Street,Camden,TN,38320
+21d5941b-086c,KL8CD6S91DC575964,6379,136476,21-431,2013,Chevrolet,Spark,1LT,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,premiere auto sales,667 East Maiden Street,Washington,PA,15301
+8be809a7-48ec,JTHBN36F265040002,10991,145568,65040002T,2006,Lexus,LS,430,Sedan,Car,RWD,Automatic,Premium Unleaded,4.3,V,larry h. miller auto group,222 South Auto Drive,Boise,ID,83709
+8e2b07f9-b774,1G1JC124227280914,1700,168914,80914,2002,Chevrolet,Cavalier,Base,Coupe,Car,FWD,Manual,Unleaded,2.2,I,klm auto sales,832 Seaboard Drive,Dallas,GA,30157
+3613b3ea-94fb,1FTSS3EL1EDB12619,15995,143589,21-060,2014,Ford,E-Series Econoline Van,Commercial,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,quicksell auto,920 Silkwood Court,Longwood,FL,32750
+3c76b36e-7d91,WUAC6AFR6FA901760,77380,60454,56AA743P,2015,Audi,RS 5,Base,Coupe,Car,4WD,Automatic,Premium Unleaded,4.2,V,mercedes-benz of wichita,1545 N Greenwich Rd,Wichita,KS,67206
+f2305f49-39a4,5UXZV8C5XD0C17481,,94981,D410436B,2013,BMW,X5,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,kendall auto idaho,15700 North Idaho Center Boulevard,Nampa,ID,83687
+8b2ae8b8-07d6,5UXKR6C55J0U14674,45590,40855,2000859428,2018,BMW,X5,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,carvana kansas city,1420 Toshiba Dr,Lebanon,TN,37087
+94dca2df-d1f8,2CKDL43F286027583,,122152,5318A,2008,Pontiac,Torrent,Base,SUV,Truck,4WD,Automatic,Unleaded,3.4,V,ness automotive,1010 Ross Park Mall Drive,Pittsburgh,PA,15237
+10b9a723-0b7c,5UXKR6C58J0U15009,53189,24277,P2382,2018,BMW,X5,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,hendrick acura,6824 E Independence Blvd,Charlotte,NC,28227
+a53fbe2d-ee3c,WP1AC2A29FLA82422,59990,41371,E55937A,2015,Porsche,Cayenne,Turbo,SUV,Truck,4WD,Automatic,Premium Unleaded,4.8,V,porsche beaverton,13875 Sw Tualatin Valley Highway,Beaverton,OR,97005
+f2fb598c-ee09,WDBSK7BA0CF168416,,24482,M1482A,2012,Mercedes-Benz,SL-Class,SL550,Roadster,Car,RWD,Automatic,Premium Unleaded,5.5,V,rick hendrick chevrolet naples,5665 N. Airport Pulling Road,Naples,FL,34109
+6fb79169-dbfe,3D7LR38C65G866989,,148054,G866989,2005,Dodge,Ram 3500 Pickup,SLT,Pickup,Truck,RWD,Automatic,Diesel,5.9,I,mclarty daniel ford,2609 South Walton Boulevard,Bentonville,AR,72712
+566dce1b-f7a9,3C6UR5CJ1FG632140,35995,68537,T18986,2015,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,lifted trucks,2021 East Bell Road,Phoenix,AZ,85022
+1c2626eb-b75c,1GNDT13S552245469,7995,67781,4215,2005,Chevrolet,TrailBlazer,LS,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,champ motors,1167 Alpharetta St,Roswell,GA,30075
+8fe5a152-8132,JT3HT05J0X0031131,,211963,JG098023,1999,Toyota,Land Cruiser,Base,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,roswell auto brokers - cartersville,512 West Belmont Drive,Calhoun,GA,30701
+6c9bc7bc-d278,1GKET16S946224807,6899,84889,224807,2004,GMC,Envoy XL,SLE,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,independence auto sale,196 Rt 130 South,Bordentown,NJ,8505
+a190d707-ceab,3C6UR5CJ2EG137475,34995,55225,GM088A,2014,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,vachon cadillac,139 Pomfret St,Putnam,CT,6260
+fe56094c-d8f1,4JGDF7CEXEA338549,23831,79308,37823,2014,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,tim dahle nissan murray,4528 S. State St.,Murray,UT,84107
+0a1ffff3-5949,SCBLF34FX3CX08905,39995,32858,8905,2003,Bentley,Arnage,T,Sedan,Car,RWD,Automatic,Premium Unleaded,6.8,V,alpine motors inc,3564 Sunrise Hwy,Wantagh,NY,11793
+ce2cca94-b84b,KL8CD6S9XFC715092,6998,101829,2246,2015,Chevrolet,Spark,1LT,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,frantzen sales,101 Hilltop Drive,Kerrville,TX,78028
+4c48aed9-7249,5UXKR6C53J0U14933,49950,31209,P6010,2018,BMW,X5,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,essence alfa romeo,555 Ne Loop 820,Hurst,TX,76053
+a67988ba-9f51,4JGDF7DE5HA980146,41119,57399,,2017,Mercedes-Benz,GLS-Class,GLS550,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,northshore motors,180 Michael Drive,Syosset,NY,11791
+081b70f3-7cfc,KL79MPSL9MB004101,27650,3079,M65852A,2021,Chevrolet,Trailblazer,LT,SUV,Truck,FWD,Automatic,Unleaded,1.3,I,hendrick volvo cars of charleston,1464 Savannah Highway,Charleston,SC,29407
+61a20a88-5913,1GNDX03E54D267449,,181722,,2004,Chevrolet,Venture,Cargo,Minivan,Truck,FWD,Automatic,Unleaded,3.4,V,alpha auto finders,1502 South Perkins Road,Stillwater,OK,74074
+a8d78a0e-68e2,WBAYE8C52DD133042,19995,90937,DD133042,2013,BMW,7 Series,750i,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,mark mclarty ford,4400 Landers Road,North Little Rock,AR,72117
+de24a6ac-3be5,4JGDF7CE9DA264068,20995,103130,W264068,2013,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,expert auto group,2701 N State Road 7,Margate,FL,33063
+21c12587-2c1f,3C6UR5CJXMG561596,48000,1125,7053111,2021,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,stephen wade chevrolet,1670 S Auto Mall Dr,St. George,UT,84770
+2e46c902-3730,MAJ3S2GEXKC294180,17476,11364,W15158,2019,Ford,Ecosport,SE,Crossover,Truck,FWD,Automatic,Unleaded,1,I,d-patrick motoplex,200 N Green River Rd,Evansville,IN,47715
+e277cab8-5851,WBAHL83506DT02001,3000,130859,1124,2006,BMW,7 Series,750i,Sedan,Car,RWD,Automatic,Premium Unleaded,4.8,V,motormart,8550 Atlantic Blvd,Jacksonville,FL,32211
+44b9c7ab-fec0,4JGBF7BE2CA788265,14988,103664,S50298,2012,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,the sharpest rides,2250 South Tejon Street,Englewood,CO,80110
+99fcb245-44d2,5YMGZ0C5XDLL30042,29950,56514,12061,2013,BMW,X6,M,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,"spanos motors, castrol bosch complete auto repair",520 West International Speedway Boulevard,Daytona Beach,FL,32114
+b3548fc8-3d1c,1GKES16S266114476,,122396,4608,2006,GMC,Envoy XL,SLE,SUV,Truck,RWD,Automatic,Unleaded,4.2,I,stallion motors,220 Temple Avenue,Newnan,GA,30263
+80d099e7-c9dd,ZFF79ALAXG0218196,179999,47999,LVCE218196,2016,Ferrari,488 GTB,Base,Coupe,Car,RWD,Automatic,Unleaded,3.9,V,lv cars auto sales east,2445 E Sahara Ave,Las Vegas,NV,89104
+01f89a94-6cce,1FAHP60A63Y100710,19900,34228,M6122664C,2003,Ford,Thunderbird,Deluxe,Convertible,Car,RWD,Automatic,Premium Unleaded,3.9,V,malloy chevrolet,2700 Valley Ave,Winchester,VA,22601
+78bf5598-d80f,2MRDA23265BJ01845,,139454,P28737,2005,Mercury,Monterey,Premier,Minivan,Truck,FWD,Automatic,Unleaded,4.2,V,power kia,3705 Market St Ne,Salem,OR,97301
+65d1718c-3a3a,MAJ3P1TEXJC217745,16489,35899,P130710,2018,Ford,Ecosport,SE,Crossover,Truck,FWD,Automatic,Unleaded,1,I,"fairway ford, inc.",555 W. Meadows,Freeport,IL,61032
+18d7b110-a797,5UXKR6C57JL069131,53459,34361,UB12755F,2018,BMW,X5,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,bmw of bayside,24721 Northern Blvd,Douglaston,NY,11362
+b7b70864-9a89,5UXCX4C57KLS38211,85999,4506,3DZ8865,2019,BMW,X7,50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,flow hyundai of statesville,1015 Floger Drive,Statesville,NC,28625
+10807450-9560,4JGBF71E99A514720,,60212,11903,2009,Mercedes-Benz,GL-Class,GL450,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,alabama direct auto llc,6675 Hwy 72,Huntsville,AL,35806
+6ead61c9-5922,WP1AC2A29DLA91537,34977,109280,1537,2013,Porsche,Cayenne,Turbo,SUV,Truck,4WD,Automatic,Premium Unleaded,4.8,V,kelly motorcars,2880 Bergey Road Q,Hatfield,PA,19440
+9267a18d-7ebb,ZFF90HLA6L0249158,454995,1304,L0249158,2020,Ferrari,488,Pista,Coupe,Car,RWD,Manual,Premium Unleaded,3.9,V,ferrari of palm beach,3974 Okeechobee Blvd.,West Palm Beach,FL,33409
+2f86e089-5abc,1GNDT13W3Y2397175,5998,104955,GC4551A,2000,Chevrolet,Blazer,LS,SUV,Truck,4WD,Automatic,Unleaded,4.3,V,west hills mazda,1100 Oyster Bay Ave S,Bremerton,WA,98312
+548a1a46-484b,3C6UR5CJ0FG593573,34000,60033,C1614B,2015,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,"fairway ford, inc.",555 W. Meadows,Freeport,IL,61032
+d57d5e30-863f,5UXJU2C53KLN67606,,6723,OV2679,2019,BMW,X5,50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,patrick cars,526 Mall Drive,Schaumburg,IL,60173
+19368fb4-4fd1,4JGDF7DEXJB018358,58998,30819,O71766,2018,Mercedes-Benz,GLS-Class,GLS550,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,jaguar land rover boston,1188 Commonwealth Avenue,Boston,MA,2134
+79ce9945-4ad1,1FTWW31R28EC51172,24995,111727,2351172T,2008,Ford,F-350 Super Duty,FX4,Pickup,Truck,4WD,Automatic,Diesel,6.4,V,steve hahn auto group,1730 South 1St Street,Yakima,WA,98901
+5d4f5330-51ed,WDBNG74J15A446588,7495,151675,ATC2004,2005,Mercedes-Benz,S-Class,S55 AMG,Sedan,Car,RWD,Automatic,Premium Unleaded,5.4,V,auto connect,4250 Greenspring Avenue,Baltimore,MD,21209
+33cb1b52-d7de,KL8CB6S96DC523851,8547,39411,PL10953A,2013,Chevrolet,Spark,LS,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,mercedes-benz of daytona beach,1188 North Tomoka Farms Road,Daytona Beach,FL,32124
+217a1637-0a5d,1FMJU2A55CEF34743,16460,117078,923266B,2012,Ford,Expedition,Limited,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,darling's gmc buick,16 Kingsland Crossing,Ellsworth,ME,4605
+0a22996e-14e5,MAJ3P1TE8JC202371,19898,9947,P8639,2018,Ford,Ecosport,SE,SUV,Truck,FWD,Automatic,Unleaded,1,I,ken grody ford carlsbad,5555 Paseo Del Norte,Carlsbad,CA,92008
+cfa04575-308e,WBS6E9C58KG808400,,20664,P6200,2019,BMW,M6 Gran Coupe,Base,Coupe,Car,RWD,Automatic,Premium Unleaded,4.4,V,rick hendrick chevrolet duluth,3277 Satellite Blvd,Duluth,GA,30096
+8ffbf716-0d94,1GNDT13S452149803,,161775,PM25976A,2005,Chevrolet,TrailBlazer,LS,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,lincoln of bloomington,1001 Clover Drive,Bloomington,MN,55420
+dc55de89-6295,ZFF77XJA3F0205994,,,R-205994,2015,Ferrari,California T,Base,Convertible,Car,RWD,Automatic,Premium Unleaded,3.9,V,exotic motorsports,5301 W. Market Street,Greensboro,NC,27409
+c9f84ce5-e26b,WDDLJ7DB2CA047453,12995,101068,21624401,2012,Mercedes-Benz,CLS-Class,CLS550,Coupe,Car,RWD,Automatic,Premium Unleaded,4.7,V,toyota of hollywood,1841 North State Road 7,Hollywood,FL,33021
+44b03541-b149,WDDLJ9BB2DA065743,26997,76321,PF10239B,2013,Mercedes-Benz,CLS-Class,CLS550,Coupe,Car,4WD,Automatic,Premium Unleaded,4.7,V,parks lincoln of tampa,10505 N Florida Ave,Tampa,FL,33612
+369ac483-d574,2CKDL63F176013765,6984,86551,D8652,2007,Pontiac,Torrent,Base,SUV,Truck,FWD,Automatic,Unleaded,3.4,V,d-patrick #1 used cars,150 North Green River Road,Evansville,IN,47715
+3eaa3588-d14f,WDDNG8GB2BA399858,,141890,9858,2011,Mercedes-Benz,S-Class,S550,Sedan,Car,4WD,Automatic,Premium Unleaded,5.5,V,wolf auto sale,1589 Mary Vance Loop,Holly Springs,MS,38635
+4069e7cd-8e67,2FMZA57685BA93931,7995,115570,A93931,2005,Ford,Freestar,SES,Minivan,Truck,FWD,Automatic,Unleaded,3.9,V,automotion,6401 S. Padre Island Dr.,Corpus Christi,TX,78412
+ddd6c2cc-70ad,1G4HC5EM6BU134330,12990,56087,53229A,2011,Buick,Lucerne,CXL,Sedan,Car,FWD,Automatic,E85 / Unleaded,3.9,V,spradley barr motors hyundai,2121 Westland Road,Cheyenne,WY,82001
+7ba2d473-c80e,5UXKR6C56J0U14862,52146,34485,PI1684,2018,BMW,X5,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,zeigler ford of north riverside,2100 South Harlem Avenue,Riverside,IL,60546
+9bf1f246-146e,MAJ3S2GE0KC279803,19049,17689,20163A,2019,Ford,Ecosport,SE,Crossover,Truck,FWD,Automatic,Unleaded,1,I,bradley auto group,2500 Industrial Park Pl,Parker,AZ,85344
+7b63b292-19ed,ML32A3HJ8KH005751,13000,19501,PS005751B,2019,Mitsubishi,Mirage,ES,Hatchback,Car,FWD,Manual,Unleaded,1.2,I,world car mazda north,12115 N Interstate 35,San Antonio,TX,78233
+40070831-ccc0,1FDWE3FS4HDC61086,23563,4701,FD17631,2017,Ford,E-Series Cutaway,Base,Cutaway,Truck,RWD,Automatic,Unleaded,6.8,V,wetzel cdjr,5500 National Road East,Richmond,IN,47374
+2939147d-e0a7,WBAKA8C58ACY35742,12490,115412,972-22,2010,BMW,7 Series,750i,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,agn auto gallery,1335 Holcomb Bridge Rd.,Roswell,GA,30076
+4f0f148e-4a58,ML32A3HJ0KH015366,10990,27536,U015366,2019,Mitsubishi,Mirage,ES,Hatchback,Car,FWD,Manual,Unleaded,1.2,I,scenic chevrolet,3449 Blue Ridge Blvd.,West Union,SC,29696
+e1325d91-59be,WMEFJ5DA9HK170107,9999,26625,HK170107P,2017,smart,fortwo,pure,Coupe,Car,RWD,Manual,Premium Unleaded,0.9,I,honda of ames,220 Kitty Hawk Dr,Ames,IA,50010
+df8d8919-389f,4JGDF7DE4JB035267,64000,48718,JB035267,2018,Mercedes-Benz,GLS-Class,GLS550,SUV,Truck,4WD,Automatic,Premium Unleaded,4.7,V,nalley infiniti marietta,2020 Cobb Parkway Se,Marietta,GA,30060
+1bff852e-83fe,ZFF81BFAXG0218986,,486,8986,2016,Ferrari,F12berlinetta,Base,Coupe,Car,RWD,Automatic,Premium Unleaded,6.3,V,ferrari of greenwich,342 W Putnam Ave,Greenwich,CT,6830
+f47ee97c-303d,ZAM45KLA3B0056189,39550,,,2011,Maserati,GranTurismo,S,Coupe,Car,RWD,Automatic,Premium Unleaded,4.7,V,alfa romeo walnut creek,2330 N Main St,Walnut Creek,CA,94596
+cef8be17-f23e,2CKDL63FX66092979,5000,152382,ZT10413B,2006,Pontiac,Torrent,Base,SUV,Truck,FWD,Automatic,Unleaded,3.4,V,uebelhor and sons chevrolet jasper,972 Wernsing Rd,Jasper,IN,47546
+0a66d387-e01e,ZHWUF4ZF2LLA13411,299000,2939,LLA13411,2020,Lamborghini,Huracan,EVO,Coupe,Car,4WD,Automatic,Premium Unleaded,5.2,V,newport beach automotive group,44 Auto Center Drive,Irvine,CA,92618
+9f183397-776e,JHMZE2H56ES002186,10899,58895,31-4032,2014,Honda,Insight,LX,Hatchback,Car,FWD,Automatic,Electric / Unleaded,1.3,I,xdrive motors inc,436 South Main Street,West Bridgewater,MA,2379
+d8c6f9ef-b90d,2C3CCAFJ7CH801247,29888,59806,ICC2194,2012,Chrysler,300,SRT8,Sedan,Car,RWD,Automatic,Premium Unleaded,6.4,V,icars chicago,5125 Church St,Skokie,IL,60077
+877a37eb-17ab,1FAHP63AX4Y106863,18899,52204,106863,2004,Ford,Thunderbird,Pacific Coast Roadster,Convertible,Car,RWD,Automatic,Premium Unleaded,3.9,V,jackson avenue auto sales,1410 Jackson Avenue,Pascagoula,MS,39567
+b6714d98-3fc2,WBA7F2C57KB239131,61804,37704,BU1001,2019,BMW,7 Series,750i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,mcgovern chrysler jeep dodge ram,777 Washington St,Newton,MA,2460
+712099be-660d,1B4HS28Y4XF662204,,235872,8746,1999,Dodge,Durango,SLT,SUV,Truck,4WD,Automatic,Unleaded,5.2,V,quality auto gillette,201 S Osborne Avenue,Gillette,WY,82716
+4044aad5-b413,WDDLJ9BB8JA203877,54912,28223,PI1592,2018,Mercedes-Benz,CLS-Class,CLS550,Sedan,Car,4WD,Automatic,Premium Unleaded,4.7,V,zeigler alfa romeo of grandville,4222 Parkway Place Dr Sw,Grandville,MI,49418
+dbebad40-f4aa,ML32F3FJ3LHF07088,16995,2720,ZF5811,2020,Mitsubishi,Mirage G4,ES,Sedan,Car,FWD,Manual,Unleaded,1.2,I,taylor kia-findlay,3785 Speedway Drive,Findlay,OH,45840
+f2ff3c21-e254,SALAG25486A401332,7000,170266,401332,2006,Land Rover,LR3,HSE,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,evans motors,1505 West Dixon Road,Little Rock,AR,72206
+619fb138-a3b6,3C6UR5NJ3JG177524,55952,91361,M95737H,2018,RAM,Ram 2500 Pickup,Laramie,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,stevenson hendrick mazda wilmington,5911 Market Street,Wilmington,NC,28405
+aa2c888a-dbbc,1B3JZ65Z45V500453,51447,26153,500453P,2005,Dodge,Viper,SRT-10,Convertible,Car,RWD,Manual,Premium Unleaded,8.3,V,nimnicht buick gmc,11503 Philips Highway,Jacksonville,FL,32256
+1747c016-635f,JTHFN48Y630043421,19289,67270,Z21190A,2003,Lexus,SC,430,Convertible,Car,RWD,Automatic,Premium Unleaded,4.3,V,one stop auto consulting,405 W Southern Ave,Tempe,AZ,85282
+084bb8b4-23e1,WBA6F5C5XJD997089,71577,9039,P51281,2018,BMW,6 Series Convertible,650i,Convertible,Car,RWD,Automatic,Premium Unleaded,4.4,V,bmw of murrieta,41430 Auto Mall Parkway,Murrieta,CA,92562
+7c127bda-1071,WDDXK7JB3HA022524,99596,10703,THA022524,2017,Mercedes-Benz,S-Class,AMG® S63,Convertible,Car,4WD,Automatic,Premium Unleaded,5.5,V,sonic automotive concierge,4401 Colwick Road,Charlotte,NC,28211
+0859e4af-bf6e,1GKDT13S822388716,2999,141158,4905R,2002,GMC,Envoy,SLE,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,motormart,8550 Atlantic Blvd,Jacksonville,FL,32211
+211a3d77-7137,WBA7F2C55KB239192,64895,32438,U34505,2019,BMW,7 Series,750i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,rallye bmw,1 Brush Hollow Road,Westbury,NY,11590
+019a8281-50c2,ZFF68NHA1E0197914,214985,14916,T197914,2014,Ferrari,458 Spider,Base,Convertible,Car,RWD,Automatic,Premium Unleaded,4.5,V,ferrari of central florida,4891 Vineland Road,Orlando,FL,32811
+fcec3171-d601,3C7WRTAJ0JG376545,36277,19788,M21395B,2018,RAM,Ram 3500 Chassis Cab,Tradesman,Chassis Cab,Truck,4WD,Automatic,Unleaded,6.4,V,terry labonte chevrolet,1401 Bridford Parkway,Greensboro,NC,27407
+063a4b6c-37c5,ML32F3FJ3KHF13505,12991,6005,,2019,Mitsubishi,Mirage G4,ES,Sedan,Car,FWD,Manual,Unleaded,1.2,I,lumberton honda,301 Wintergreen Dr.,Lumberton,NC,28358
+617ceb72-d682,2G1WC5EM3B1190354,6499,121667,211780,2011,Chevrolet,Impala,LTZ,Sedan,Car,FWD,Automatic,E85 / Unleaded,3.9,V,prize auto,3195 Leonardtown Road,Waldorf,MD,20601
+282ff976-4ad1,WDCYR71E18X171607,61900,104031,171607A,2008,Mercedes-Benz,G-Class,G55 AMG,SUV,Truck,4WD,Automatic,Premium Unleaded,5.4,V,dallas auto center,3211 Commander Dr 120,Carrollton,TX,75006
+db1101e7-426c,1G2AL15F577231397,5986,128433,TP3936A,2007,Pontiac,G5,Base,Coupe,Car,FWD,Manual,Unleaded,2.2,I,new holland ford,508 W Main St,New Holland,PA,17557
+8940b020-d628,3G7DA03EX3S533328,,175552,97135A,2003,Pontiac,Aztek,FWD,SUV,Truck,FWD,Automatic,Unleaded,3.4,V,mccarthy subaru of lawrence,2233 W. 29Th Terrace,Lawrence,KS,66047
+06041498-d1df,WAUVVAFR3BA002421,,94373,CLV2443,2011,Audi,S5,Premium Plus,Coupe,Car,4WD,Automatic,Premium Unleaded,4.2,V,car loft,4300 Lafayette Boulevard,Fredericksburg,VA,22408
+f4f5c412-97d6,WBAEK73485B324488,18995,35611,2350,2005,BMW,6 Series Convertible,650i,Convertible,Car,RWD,Automatic,Premium Unleaded,4.4,V,lee county motors,1431 Se 10th St,Cape Coral,FL,33990
+610fabe4-4e67,SCFBF03C59GC12995,33500,44425,4328,2009,Aston Martin,V8 Vantage,Base,Coupe,Car,RWD,Automatic,Premium Unleaded,4.7,V,miracle autosport,2214 Nottingham Way,Trenton,NJ,8619
+22863bf5-bdb4,1GMDU23E62D220629,,,D458770,2002,Pontiac,Montana,Base,Minivan,Truck,FWD,Automatic,Unleaded,3.4,V,indy motorsports,450 St. Peters Howell Rd.,Saint Charles,MO,63304
+bd775406-fd4e,WBA7F2C36HG423261,48495,34338,FC11025,2017,BMW,7 Series,750i,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,formula imports,7511 East Independence Boulevard,Charlotte,NC,28227
+8e815ba1-7f02,1GTCS19X5W8505538,8490,53372,,1998,GMC,Sonoma,SLS,Pickup,Truck,RWD,Automatic,Unleaded,4.3,V,speedline motors,8541 Garden Grove Boulevard,Garden Grove,CA,92844
+3b9f87ab-d6bf,3C7WRSBJ7KG700892,34000,6113,TJD7489,2019,RAM,Ram 3500 Chassis Cab,Tradesman,Chassis Cab,Truck,RWD,Automatic,Unleaded,6.4,V,len stoler chrysler dodge jeep ram,1001 Baltimore Blvd,Westminster,MD,21157
+3dd8f2b6-cc92,WDDXK8CB7HA021332,87990,0,24279A,2017,Mercedes-Benz,S-Class,S550,Convertible,Car,RWD,Automatic,Premium Unleaded,4.7,V,shottenkirk toyota granbury,5100 East Us Highway 377 East,Granbury,TX,76049
+e3ec9313-b64e,1FTNE2EL6BDA58597,11500,137000,3309,2011,Ford,E-Series Econoline Van,Commercial,Cargo Van,Truck,RWD,Automatic,E85 / Unleaded,5.4,V,countryview auto sales,8447 48th Ave,Hudsonville,MI,49426
+6d9191fa-3e45,WDDUG8FB1FA083404,43500,44411,F0699,2015,Mercedes-Benz,S-Class,S550,Sedan,Car,4WD,Automatic,Premium Unleaded,4.7,V,automax,1450 N State Rd 7,Hollywood,FL,33021
+44128395-236a,5UXJU2C58KLN67049,72988,4424,KLN67049,2019,BMW,X5,50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,mini of clear lake,300 Gulf Fwy S,League City,TX,77573
+4a5d676c-c243,1GNDT13S132309049,4500,152039,406213,2003,Chevrolet,Blazer,Trailblazer,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,drivers choice auto,1570 Old State Road 64 Ne,New Salisbury,IN,47161
+3dd8ef87-4cbf,SALSK25429A206091,7350,137315,206091,2009,Land Rover,Range Rover Sport,HSE,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,socal auto auctions,1304 Mildred Street B,Ontario,CA,91761
+7de2798c-7726,1GNDT13S742274843,3595,192341,1672,2004,Chevrolet,TrailBlazer,LS,SUV,Truck,4WD,Automatic,Unleaded,4.2,I,car city llc,1131 Sw Baseline St.,Hillsboro,OR,97123
+5a32b611-b91a,YV1VS2556YF515636,,174000,10035,2000,Volvo,S40,Base,Sedan,Car,FWD,Automatic,Premium Unleaded,1.9,I,abundant life auto sales,116 East Main Street,Brownsburg,IN,46112
+9a1bf7f3-fa7e,WBS6C9C54EDV73991,46600,45283,SL33411B,2014,BMW,6 Series,M6,Coupe,Car,RWD,Automatic,Premium Unleaded,4.4,V,sheehy subaru,6571 Backlick Road,Springfield,VA,22150
+0a071006-7dd0,ML32F4FJ9LHF06842,15221,9070,K421008B,2020,Mitsubishi,Mirage G4,LE,Sedan,Car,FWD,Automatic,Unleaded,1.2,I,julio jones auto group,4301 Greensboro Ave,Tuscaloosa,AL,35405
+2edd1825-5924,5UXKR6C55J0U14447,52884,29702,XAB2044,2018,BMW,X5,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,hendrick kia of concord,7550 Hendrick Auto Plaza Nw,Concord,NC,28027
+7efc590f-8ffe,KL8CB6S99FC790159,7991,80192,FC790159,2015,Chevrolet,Spark,LS,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,coggin deland honda,2677 N Volusia Ave,Orange City,FL,32763
+3b9978d0-12fd,1FMJU1G59CEF57170,24900,80743,7170,2012,Ford,Expedition,XL,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,wild rose motors - policeinterceptors.info,3901 E. La Palma Avenue A,Anaheim,CA,92807
+120f1982-72bf,3D7KS28C46G291951,12987,359000,DdgRmDsl1,2006,Dodge,Ram 2500 Pickup,ST,Pickup,Truck,4WD,Manual,Diesel,5.9,I,auto brokers express,20 Howard St.,San Angelo,TX,76901
+afa514f5-0aa9,1GNDT13W32K151086,6981,60275,VPA1681,2002,Chevrolet,Blazer,LS,SUV,Truck,4WD,Automatic,Unleaded,4.3,V,vp auto,122 S Fishtrap Rd.,Greenville,SC,29611
+ed3f560b-73bb,3C6UR5CJ9FG547787,35947,47385,DRT211133A,2015,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,mercedes-benz of rochester,4296 West Henrietta Road,Rochester,NY,14623
+e561f83d-1c46,1FAFP90S06Y400670,,3472,,2006,Ford,GT,Base,Coupe,Car,RWD,Manual,Premium Unleaded,5.4,V,american supercars,4431 North Knoll Drive,Fresno,CA,93722
+e62f39ef-5052,WAUML44E44N013328,4495,81755,J743REGK,2004,Audi,A8,QUATTRO,Sedan,Car,4WD,Automatic,Premium Unleaded,4.2,V,east coast auto source,4180 Rocky Ford Road,Bedford,VA,24523
+40c677ce-0128,ZACNJBC15KPJ87491,,16616,PS20732,2019,Jeep,Renegade,Trailhawk,SUV,Truck,4WD,Automatic,Unleaded,1.3,I,rick hendrick chevrolet naples,5665 N. Airport Pulling Road,Naples,FL,34109
+bb151aea-3490,3C6UR5DJXKG626247,49900,38704,PA1616,2019,RAM,Ram 2500 Pickup,Big Horn,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,patriot chevrolet buick gmc cadillac,1540 North Rockford Road,Ardmore,OK,73401
+653e7e2f-a6bd,1FMPU18L0WLA57891,,168000,C1486A,1998,Ford,Expedition,XLT,SUV,Truck,4WD,Automatic,Unleaded,5.4,V,tate branch carlsbad,1044 N. Canal St,Carlsbad,NM,88220
+6a6efc15-ad13,WDDUG8CB0FA081406,47888,58000,WDDUG8CB0FA081406,2015,Mercedes-Benz,S-Class,S550,Sedan,Car,RWD,Automatic,Premium Unleaded,4.7,V,auto junction,1127 N Scottsdale Rd,Tempe,AZ,85281
+5fb5d5e1-0b51,1FMJK2A50EEF63107,26999,103178,EEF63107,2014,Ford,Expedition,Limited,SUV,Truck,4WD,Automatic,E85 / Unleaded,5.4,V,lithia auto stores,150 North Bartlett,Medford,OR,97501
+2dbd88d2-fb6e,YV1CZ852051197730,5999,153000,18-377,2005,Volvo,XC90,V8,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,auto den,6993 Division Avenue South,Grand Rapids,MI,49548
+ef9c0b68-3aaf,WBS83CH07MCF30207,109900,7310,F30207,2021,BMW,M5,Base,Sedan,Car,4WD,Automatic,Premium Unleaded,4.4,V,excell auto group,1001 Clint Moore Rd 101,Boca Raton,FL,33487
+befc75fd-5af1,WDDUG8FB1HA288577,57687,19319,0C13837A,2017,Mercedes-Benz,S-Class,S550,Sedan,Car,4WD,Automatic,Premium Unleaded,4.7,V,brandon tomes subaru,1100 S Central Expy,Mckinney,TX,75072
+18f037d3-d6fa,WBAKB8C59BC852175,14985,81901,BC852175,2011,BMW,7 Series,750Li,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,"banner ford of monroe, llc",6300 Frontage Rd.,Monroe,LA,71202
+5210de6f-64e4,1G1AK55F377408737,4499,127695,EG3237,2007,Chevrolet,Cobalt,LS,Sedan,Car,FWD,Manual,Unleaded,2.2,I,haselwood chevrolet buick gmc,501 W Hills Blvd,Bremerton,WA,98312
+bd128229-352e,1G2NF52E61C217048,5995,77506,13303,2001,Pontiac,Grand Am,SE1,Sedan,Car,FWD,Manual,Unleaded,3.4,V,sovereign auto,5500 West Pierson Road,Flushing,MI,48433
+dc7385ea-dd3d,1G1AL58F277279656,6990,93306,79656,2007,Chevrolet,Cobalt,LT,Sedan,Car,FWD,Manual,Unleaded,2.2,I,guaranteed auto sales,7214 Ritchie Hwy,Glen Burnie,MD,21061
+ff0bf91f-c516,WBA6B4C56FD761326,36995,56447,FD761326,2015,BMW,6 Series,650i,Coupe,Car,4WD,Automatic,Premium Unleaded,4.4,V,alm gwinnett,2520 Pleasant Hill Road,Duluth,GA,30096
+b055f97c-3daf,5UXZV8C54DL898619,,117186,98619A,2013,BMW,X5,xDrive50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,tom bush family of dealerships,9850 Atlantic Blvd.,Jacksonville,FL,32225
+191af3da-5275,WBA6D6C5XGGF94834,40988,47723,X6176,2016,BMW,6 Series,650i,Coupe,Car,4WD,Automatic,Premium Unleaded,4.4,V,mercedes-benz of durham,110 Kentington Dr.,Durham,NC,27713
+43bd6395-5d26,SALMF13478A282608,,0,82608,2008,Land Rover,Range Rover,Supercharged,SUV,Truck,4WD,Automatic,Premium Unleaded,4.2,V,"west coast classics, llc",1205 Bow Avenue,Torrance,CA,90501
+8741b945-9276,ML32A3HJ8LH011079,14896,4146,1DW9860,2020,Mitsubishi,Mirage,ES,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,ken garff automotive group,111 Broadway,Salt Lake City,UT,84111
+e4d4bc71-e99b,1GCJK33G33F235888,,361793,235888,2003,Chevrolet,Silverado 3500,LS,Pickup,Truck,4WD,Manual,Unleaded,8.1,V,tim's motors,1414 Smithville Highway,Mcminnville,TN,37110
+19876cf4-6581,2G1WU58RX79161396,1995,206453,2419-161396-70CT,2007,Chevrolet,Impala,LTZ,Sedan,Car,FWD,Automatic,Unleaded,3.9,V,sports & imports,2611 Towson Ave,Fort Smith,AR,72901
+642bf360-7be2,3GNCA13B99S583680,,196564,583680,2009,Chevrolet,HHR,LS,Mini Mpv,Car,FWD,Automatic,E85 / Unleaded,2.2,I,nea motors,107 Nw Texas St,Hoxie,AR,72433
+0ef21bd9-53de,1FTWW31RX9EA41341,,156585,PS1341H,2009,Ford,F-350 Super Duty,Lariat,Pickup,Truck,4WD,Manual,Diesel,6.4,V,timberline auto,1235 North Woodruff Avenue,Idaho Falls,ID,83401
+6730a460-ca48,ML32AUHJ2MH006709,17517,9,3481,2021,Mitsubishi,Mirage,Carbonite Edition,Hatchback,Car,FWD,Automatic,Unleaded,1.2,I,main ave auto,1330 Main Ave,Moorhead,MN,56560
+b8f6b2f4-2e75,WDCYC7DF2HX263573,109900,26028,14432,2017,Mercedes-Benz,G-Class,AMG® G63,SUV,Truck,4WD,Automatic,Premium Unleaded,5.5,V,irenko auto sales corporation,7436 Nw 55th St.,Miami,FL,33166
+9c3b0434-2754,WBA6B2C59ED129505,29997,68296,LR442220A,2014,BMW,6 Series,650i,Coupe,Car,RWD,Automatic,Premium Unleaded,4.4,V,jaguar treasure coast,4771 S. 1 Hwy B,Fort Pierce,FL,34982
+0cd860bc-8636,1FDWE3FS5HDC63414,43995,9633,H19443A,2017,Ford,E-Series Cutaway,Base,Cutaway,Truck,RWD,Automatic,Unleaded,6.8,V,love honda,2219 South Suncoast Blvd.,Homosassa,FL,34448
+88687733-5cb7,3C6UR5CJ7MG511058,45888,987,X11285,2021,RAM,Ram 2500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,golf mill ford dealership,9401 North Milwaukee Ave,Niles,IL,60714
+43d1e19c-9928,3G5DA03E93S512169,4499,146180,5165469B,2003,Buick,Rendezvous,FWD CX,SUV,Truck,FWD,Automatic,Unleaded,3.4,V,jeff wyler springfield chevrolet,2237 W First Street,Springfield,OH,45504
+54e5e4ee-d620,1G1YY26E785132609,46500,8159,563,2008,Chevrolet,Corvette,427 Limited Edition,Coupe,Car,RWD,Manual,Premium Unleaded,7,V,wendell auto brokers,2605 North Carolina 97 Hwy,Wendell,NC,27591
+4fe2fc6d-44c5,1GNES16S746199024,,195525,199024,2004,Chevrolet,TrailBlazer,LS,SUV,Truck,RWD,Automatic,Unleaded,4.2,I,e 1 auto exchange,1605 Memorial Boulevard,Murfreesboro,TN,37129
+b0080ee5-28c5,1B7MF336X1J246194,19999,147000,181,2001,Dodge,Ram Pickup,SLT,Pickup,Truck,4WD,Manual,Diesel,5.9,I,kt auto,3410 Pacific Highway East,Fife,WA,98424
+ef177046-7ee5,1FTWW33F42EA57527,,127412,2EA57527,2002,Ford,F-350 Super Duty,Lariat,Pickup,Truck,4WD,Manual,Diesel,7.3,V,honda south,6871 Mt Zion Blvd,Morrow,GA,30260
+2c03aa40-7649,WVGZM77L45D072853,,111111,,2005,Volkswagen,Touareg 2,V8,SUV,Truck,4WD,Automatic,Premium Unleaded,4.2,V,russ' vw and audi parts,756 Alpha Street,Duarte,CA,91010
+545be216-0d21,1FD0X4HY1HEC32503,44488,77769,TR56166A,2017,Ford,F-450 Super Duty Chassis Cab,XL,Chassis Cab,Truck,4WD,Automatic,Unleaded,6.8,V,randy marion chevrolet buick cadillac,220 West Plaza Drive,Mooresville,NC,28117
+8e761a37-9cdf,1GNDX13EX4D205454,8263,129760,AKBT55349C1,2004,Chevrolet,Venture,LS,Minivan,Truck,FWD,Automatic,Unleaded,3.4,V,briggs supercenter,4810 Skyway Drive,Manhattan,KS,66503
+3e215c55-ab95,3C6TR5EJ1JG316139,37995,96035,17949A,2018,RAM,Ram 2500 Pickup,Power Wagon,Pickup,Truck,4WD,Automatic,Unleaded,6.4,V,gupton motors inc,3450 Tom Austin Highway,Springfield,TN,37172
+edfbc89a-86c4,5UXJU2C51KLB15415,68977,32891,PN5670,2019,BMW,X5,50i,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,honda of newnan,391 Newnan Crossing Bypass,Newnan,GA,30265
+60b05bc9-a864,SALSF25429A214972,14500,97690,,2009,Land Rover,Range Rover Sport,HSE,SUV,Truck,4WD,Automatic,Premium Unleaded,4.4,V,techno motors,70 Elm St,Danbury,CT,6810
+d733bd34-0007,ZASPAKEV4K7C41881,,4100,7593,2019,Alfa Romeo,Stelvio,Quadrifoglio,SUV,Truck,4WD,Automatic,Premium Unleaded,2.9,V,miller motorcars,342 West Putnam Avenue,Greenwich,CT,6830
+9c76180e-8428,WA1BV74L57D038652,,81301,3651,2007,Audi,Q7,Premium,SUV,Truck,4WD,Automatic,Premium Unleaded,4.2,V,luxury car outlet,601 West Roosevelt Road,West Chicago,IL,60185
+c2a45396-4e58,1G1AT58H097286819,7999,55304,CWT211758A,2009,Chevrolet,Cobalt,LT,Sedan,Car,FWD,Automatic,Unleaded,2.2,I,west herr nissan of lockport,6069 S Transit Rd,Lockport,NY,14094
+0fe4a510-3605,1D3HE38P59S785227,11000,93276,M05856A,2009,Dodge,Dakota,Big Horn,Pickup,Truck,RWD,Automatic,E85 / Unleaded,4.7,V,hendrick chevrolet shawnee mission,8300 Shawnee Mission Parkway,Merriam,KS,66202
+75b38064-9d87,WP0AC2A77FL070234,99777,31107,P51370,2015,Porsche,Panamera,Turbo S,Hatchback,Car,4WD,Manual,Premium Unleaded,4.8,V,hendrick mini,7036 E Independence Blvd,Charlotte,NC,28227
+178b4294-6df9,WBALX3C54CC528772,24995,67370,6101666,2012,BMW,6 Series Coupe,650i,Coupe,Car,RWD,Automatic,Premium Unleaded,4.4,V,driveline llc,9943 Beach Boulevard 2,Jacksonville,FL,32246
+ca98bb01-46e3,WBAYA8C57DC996825,,55664,996825,2013,BMW,7 Series,750i,Sedan,Car,RWD,Automatic,Premium Unleaded,4.4,V,ecarlink,4740 Frank Luke Street,Addison,TX,75001
